@@ -1,6 +1,6 @@
 {
-"date": "2024-04-09",
-"revision": "1f27a4022f",
+"date": "2024-04-10",
+"revision": "943cfaeee3",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -380,7 +380,7 @@
 },
 {
 "file": "en-US/browser/chrome/browser/browser.properties",
-"count": 181
+"count": 182
 },
 {
 "file": "en-US/browser/chrome/browser/customizableui/customizableWidgets.properties",
@@ -1004,7 +1004,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/contentanalysis/contentanalysis.ftl",
-"count": 22
+"count": 24
 },
 {
 "file": "en-US/toolkit/toolkit/downloads/downloadUI.ftl",
