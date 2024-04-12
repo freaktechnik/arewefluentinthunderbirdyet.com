@@ -6513,5 +6513,14 @@
 },
 "date": "2024-04-10",
 "revision": "943cfaeee3"
+},
+{
+"data": {
+"ftl": 7873,
+"ini": 3,
+"properties": 3948
+},
+"date": "2024-04-11",
+"revision": "868e67ed2a"
 }
 ]
