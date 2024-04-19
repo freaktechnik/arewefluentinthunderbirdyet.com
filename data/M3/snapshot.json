@@ -1,6 +1,6 @@
 {
-"date": "2024-04-17",
-"revision": "c7df16ffad",
+"date": "2024-04-18",
+"revision": "8c3ca2f5a7",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -192,7 +192,7 @@
 },
 {
 "file": "en-US/browser/browser/policies/policies-descriptions.ftl",
-"count": 104
+"count": 105
 },
 {
 "file": "en-US/browser/browser/preferences/addEngine.ftl",
@@ -720,7 +720,7 @@
 },
 {
 "file": "en-US/dom/chrome/security/csp.properties",
-"count": 50
+"count": 52
 },
 {
 "file": "en-US/dom/chrome/security/security.properties",
