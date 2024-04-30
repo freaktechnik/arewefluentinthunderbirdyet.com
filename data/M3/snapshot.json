@@ -1,6 +1,6 @@
 {
-"date": "2024-04-28",
-"revision": "2e7374599f",
+"date": "2024-04-29",
+"revision": "0916ef0172",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -977,10 +977,6 @@
 {
 "file": "en-US/toolkit/toolkit/about/aboutWindowsMessages.ftl",
 "count": 3
-},
-{
-"file": "en-US/toolkit/toolkit/about/abuseReports.ftl",
-"count": 54
 },
 {
 "file": "en-US/toolkit/toolkit/about/certviewer.ftl",
