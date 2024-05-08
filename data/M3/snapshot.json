@@ -1,6 +1,6 @@
 {
-"date": "2024-05-06",
-"revision": "729361e481",
+"date": "2024-05-07",
+"revision": "bfeefa754f",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -16,7 +16,7 @@
 },
 {
 "file": "en-US/browser/browser/aboutLogins.ftl",
-"count": 149
+"count": 150
 },
 {
 "file": "en-US/browser/browser/aboutPocket.ftl",
@@ -60,7 +60,7 @@
 },
 {
 "file": "en-US/browser/browser/allTabsMenu.ftl",
-"count": 3
+"count": 4
 },
 {
 "file": "en-US/browser/browser/appExtensionFields.ftl",
@@ -248,7 +248,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 519
+"count": 522
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -344,7 +344,7 @@
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
-"count": 37
+"count": 39
 },
 {
 "file": "en-US/browser/browser/textRecognition.ftl",
