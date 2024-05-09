@@ -1,6 +1,6 @@
 {
-"date": "2024-05-07",
-"revision": "bfeefa754f",
+"date": "2024-05-08",
+"revision": "979b11a6c6",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -660,7 +660,7 @@
 },
 {
 "file": "en-US/dom/chrome/accessibility/win/accessible.properties",
-"count": 14
+"count": 18
 },
 {
 "file": "en-US/dom/chrome/appstrings.properties",
