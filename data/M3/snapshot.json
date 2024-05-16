@@ -1,6 +1,6 @@
 {
-"date": "2024-05-14",
-"revision": "55b8c83970",
+"date": "2024-05-07",
+"revision": "337db3e1a3",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -376,7 +376,7 @@
 },
 {
 "file": "en-US/browser/browser/webrtcIndicator.ftl",
-"count": 81
+"count": 84
 },
 {
 "file": "en-US/browser/chrome/browser/browser.properties",
@@ -944,7 +944,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutReader.ftl",
-"count": 46
+"count": 51
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutRights.ftl",
