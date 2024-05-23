@@ -1,6 +1,6 @@
 {
-"date": "2024-05-22",
-"revision": "a97d6cec64",
+"date": "2024-05-23",
+"revision": "010ccb86d4",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -932,7 +932,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutNetworking.ftl",
-"count": 57
+"count": 58
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutProcesses.ftl",
