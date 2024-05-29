@@ -1,6 +1,6 @@
 {
-"date": "2024-05-28",
-"revision": "f60bb10a5f",
+"date": "2024-05-29",
+"revision": "f823afd000",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -216,7 +216,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/connection.ftl",
-"count": 28
+"count": 29
 },
 {
 "file": "en-US/browser/browser/preferences/containers.ftl",
@@ -228,7 +228,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/formAutofill.ftl",
-"count": 68
+"count": 65
 },
 {
 "file": "en-US/browser/browser/preferences/fxaPairDevice.ftl",
