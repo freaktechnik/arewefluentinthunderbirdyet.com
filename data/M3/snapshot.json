@@ -1,6 +1,6 @@
 {
-"date": "2024-05-29",
-"revision": "f823afd000",
+"date": "2024-05-30",
+"revision": "fc76676f61",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -668,7 +668,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 273
+"count": 279
 },
 {
 "file": "en-US/dom/chrome/global-strres.properties",
