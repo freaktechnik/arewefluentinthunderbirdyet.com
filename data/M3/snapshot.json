@@ -1,6 +1,6 @@
 {
-"date": "2024-05-30",
-"revision": "5ff3324fe9",
+"date": "2024-05-31",
+"revision": "9a763b338a",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -1140,7 +1140,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/intl/languageNames.ftl",
-"count": 211
+"count": 212
 },
 {
 "file": "en-US/toolkit/toolkit/intl/regionNames.ftl",
