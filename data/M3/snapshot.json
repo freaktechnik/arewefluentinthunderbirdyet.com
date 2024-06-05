@@ -1,6 +1,6 @@
 {
-"date": "2024-06-03",
-"revision": "1d1ca77dd7",
+"date": "2024-06-04",
+"revision": "b476ffaef7",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -160,7 +160,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 145
+"count": 150
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -636,7 +636,7 @@
 },
 {
 "file": "en-US/devtools/shared/styleinspector.properties",
-"count": 60
+"count": 61
 },
 {
 "file": "en-US/devtools/shared/webconsole-commands.ftl",
