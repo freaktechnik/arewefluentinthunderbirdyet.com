@@ -1,6 +1,6 @@
 {
-"date": "2024-06-04",
-"revision": "b476ffaef7",
+"date": "2024-06-05",
+"revision": "c58c2783e4",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -956,7 +956,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutSupport.ftl",
-"count": 307
+"count": 317
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutTelemetry.ftl",
