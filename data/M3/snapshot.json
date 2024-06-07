@@ -1,6 +1,6 @@
 {
-"date": "2024-06-05",
-"revision": "c58c2783e4",
+"date": "2024-06-07",
+"revision": "3122a705e8",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -160,7 +160,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 150
+"count": 180
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -248,7 +248,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 525
+"count": 528
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -600,7 +600,7 @@
 },
 {
 "file": "en-US/devtools/client/tooltips.ftl",
-"count": 62
+"count": 66
 },
 {
 "file": "en-US/devtools/client/webconsole.properties",
