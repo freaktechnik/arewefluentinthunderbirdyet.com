@@ -1,6 +1,6 @@
 {
 "date": "2024-06-07",
-"revision": "3122a705e8",
+"revision": "8c8585c629",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -56,7 +56,7 @@
 },
 {
 "file": "en-US/browser/browser/addonNotifications.ftl",
-"count": 44
+"count": 45
 },
 {
 "file": "en-US/browser/browser/allTabsMenu.ftl",
@@ -636,7 +636,7 @@
 },
 {
 "file": "en-US/devtools/shared/styleinspector.properties",
-"count": 61
+"count": 62
 },
 {
 "file": "en-US/devtools/shared/webconsole-commands.ftl",
