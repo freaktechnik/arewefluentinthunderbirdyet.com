@@ -1,6 +1,6 @@
 {
-"date": "2024-06-11",
-"revision": "aa9d148d5b",
+"date": "2024-06-12",
+"revision": "c2bc8c57de",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -504,7 +504,7 @@
 },
 {
 "file": "en-US/devtools/client/debugger.properties",
-"count": 354
+"count": 355
 },
 {
 "file": "en-US/devtools/client/device.properties",
@@ -636,7 +636,7 @@
 },
 {
 "file": "en-US/devtools/shared/styleinspector.properties",
-"count": 62
+"count": 63
 },
 {
 "file": "en-US/devtools/shared/webconsole-commands.ftl",
