@@ -1,6 +1,6 @@
 {
-"date": "2024-06-12",
-"revision": "c2bc8c57de",
+"date": "2024-06-13",
+"revision": "20c2c21b5c",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -156,7 +156,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/asrouter.ftl",
-"count": 91
+"count": 83
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
@@ -600,7 +600,7 @@
 },
 {
 "file": "en-US/devtools/client/tooltips.ftl",
-"count": 66
+"count": 69
 },
 {
 "file": "en-US/devtools/client/webconsole.properties",
