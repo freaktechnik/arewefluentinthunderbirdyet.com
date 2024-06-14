@@ -1,6 +1,6 @@
 {
-"date": "2024-06-13",
-"revision": "20c2c21b5c",
+"date": "2024-06-14",
+"revision": "d31f750ad9",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -848,7 +848,7 @@
 },
 {
 "file": "en-US/toolkit/chrome/global/narrate.properties",
-"count": 10
+"count": 12
 },
 {
 "file": "en-US/toolkit/chrome/global/printdialog.properties",
