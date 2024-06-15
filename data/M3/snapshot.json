@@ -1,6 +1,6 @@
 {
 "date": "2024-06-14",
-"revision": "d31f750ad9",
+"revision": "f759310e62",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -72,7 +72,7 @@
 },
 {
 "file": "en-US/browser/browser/appmenu.ftl",
-"count": 105
+"count": 107
 },
 {
 "file": "en-US/browser/browser/backgroundtasks/defaultagent.ftl",
@@ -556,7 +556,7 @@
 },
 {
 "file": "en-US/devtools/client/perftools.ftl",
-"count": 67
+"count": 69
 },
 {
 "file": "en-US/devtools/client/responsive.properties",
