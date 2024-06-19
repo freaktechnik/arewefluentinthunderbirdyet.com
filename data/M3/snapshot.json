@@ -1,6 +1,6 @@
 {
-"date": "2024-06-17",
-"revision": "8011b6325f",
+"date": "2024-06-18",
+"revision": "8c656bb02a",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -52,7 +52,7 @@
 },
 {
 "file": "en-US/browser/browser/accounts.ftl",
-"count": 25
+"count": 27
 },
 {
 "file": "en-US/browser/browser/addonNotifications.ftl",
@@ -848,7 +848,7 @@
 },
 {
 "file": "en-US/toolkit/chrome/global/narrate.properties",
-"count": 12
+"count": 14
 },
 {
 "file": "en-US/toolkit/chrome/global/printdialog.properties",
