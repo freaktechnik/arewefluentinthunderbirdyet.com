@@ -1,6 +1,6 @@
 {
-"date": "2024-06-27",
-"revision": "6b17ef1f53",
+"date": "2024-06-28",
+"revision": "cac3778e44",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -160,7 +160,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 180
+"count": 184
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -956,7 +956,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutSupport.ftl",
-"count": 317
+"count": 318
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutTelemetry.ftl",
