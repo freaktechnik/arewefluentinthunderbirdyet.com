@@ -1,6 +1,6 @@
 {
-"date": "2024-07-01",
-"revision": "b368ed8b48",
+"date": "2024-07-02",
+"revision": "bb682ab37e",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 325
+"count": 324
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -344,7 +344,7 @@
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
-"count": 39
+"count": 40
 },
 {
 "file": "en-US/browser/browser/textRecognition.ftl",
@@ -380,7 +380,7 @@
 },
 {
 "file": "en-US/browser/chrome/browser/browser.properties",
-"count": 182
+"count": 183
 },
 {
 "file": "en-US/browser/chrome/browser/customizableui/customizableWidgets.properties",
