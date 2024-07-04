@@ -1,6 +1,6 @@
 {
-"date": "2024-07-02",
-"revision": "bb682ab37e",
+"date": "2024-07-03",
+"revision": "ece43b04e7",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -600,7 +600,7 @@
 },
 {
 "file": "en-US/devtools/client/tooltips.ftl",
-"count": 71
+"count": 77
 },
 {
 "file": "en-US/devtools/client/webconsole.properties",
@@ -720,7 +720,7 @@
 },
 {
 "file": "en-US/dom/chrome/security/csp.properties",
-"count": 53
+"count": 55
 },
 {
 "file": "en-US/dom/chrome/security/security.properties",
