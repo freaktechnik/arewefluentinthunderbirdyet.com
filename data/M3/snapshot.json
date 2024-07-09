@@ -1,6 +1,6 @@
 {
-"date": "2024-07-07",
-"revision": "6936c4c3fc",
+"date": "2024-07-01",
+"revision": "ab488b411f",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -936,7 +936,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutProcesses.ftl",
-"count": 65
+"count": 66
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutProfiles.ftl",
@@ -1096,7 +1096,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/global/processTypes.ftl",
-"count": 23
+"count": 24
 },
 {
 "file": "en-US/toolkit/toolkit/global/profileDowngrade.ftl",
