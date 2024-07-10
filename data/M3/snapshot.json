@@ -1,6 +1,6 @@
 {
-"date": "2024-07-01",
-"revision": "ab488b411f",
+"date": "2024-07-09",
+"revision": "0b1d02b2cb",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -504,7 +504,7 @@
 },
 {
 "file": "en-US/devtools/client/debugger.properties",
-"count": 355
+"count": 346
 },
 {
 "file": "en-US/devtools/client/device.properties",
@@ -572,7 +572,7 @@
 },
 {
 "file": "en-US/devtools/client/startup.properties",
-"count": 54
+"count": 62
 },
 {
 "file": "en-US/devtools/client/storage.ftl",
@@ -992,7 +992,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/branding/brandings.ftl",
-"count": 19
+"count": 20
 },
 {
 "file": "en-US/toolkit/toolkit/contentanalysis/contentanalysis.ftl",
