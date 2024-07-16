@@ -1,6 +1,6 @@
 {
-"date": "2024-07-14",
-"revision": "54a5c4f14f",
+"date": "2024-07-16",
+"revision": "a95ca2357d",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -192,7 +192,7 @@
 },
 {
 "file": "en-US/browser/browser/policies/policies-descriptions.ftl",
-"count": 108
+"count": 109
 },
 {
 "file": "en-US/browser/browser/preferences/addEngine.ftl",
@@ -264,7 +264,7 @@
 },
 {
 "file": "en-US/browser/browser/profile/default-bookmarks.ftl",
-"count": 17
+"count": 14
 },
 {
 "file": "en-US/browser/browser/protections.ftl",
@@ -744,7 +744,7 @@
 },
 {
 "file": "en-US/netwerk/necko.properties",
-"count": 60
+"count": 61
 },
 {
 "file": "en-US/security/manager/chrome/pipnss/nsserrors.properties",
@@ -1204,7 +1204,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/updates/elevation.ftl",
-"count": 7
+"count": 10
 },
 {
 "file": "en-US/toolkit/toolkit/updates/history.ftl",
