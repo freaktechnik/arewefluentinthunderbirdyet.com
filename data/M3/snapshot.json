@@ -1,6 +1,6 @@
 {
-"date": "2024-07-19",
-"revision": "d91fa3650a",
+"date": "2024-07-20",
+"revision": "00e6de8399",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -248,7 +248,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 527
+"count": 530
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -336,7 +336,7 @@
 },
 {
 "file": "en-US/browser/browser/syncedTabs.ftl",
-"count": 21
+"count": 22
 },
 {
 "file": "en-US/browser/browser/tabContextMenu.ftl",
