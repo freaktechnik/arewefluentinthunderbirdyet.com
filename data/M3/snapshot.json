@@ -1,6 +1,6 @@
 {
-"date": "2024-07-28",
-"revision": "dd421ae149",
+"date": "2024-07-30",
+"revision": "5ce501ee48",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -160,7 +160,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 184
+"count": 199
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -296,7 +296,7 @@
 },
 {
 "file": "en-US/browser/browser/screenshots.ftl",
-"count": 39
+"count": 40
 },
 {
 "file": "en-US/browser/browser/search.ftl",
@@ -468,7 +468,7 @@
 },
 {
 "file": "en-US/devtools/client/aboutdebugging.ftl",
-"count": 99
+"count": 100
 },
 {
 "file": "en-US/devtools/client/accessibility.ftl",
@@ -1008,7 +1008,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/featuregates/features.ftl",
-"count": 19
+"count": 21
 },
 {
 "file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
