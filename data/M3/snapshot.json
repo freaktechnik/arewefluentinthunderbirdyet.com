@@ -1,6 +1,6 @@
 {
-"date": "2024-07-31",
-"revision": "b60bff00c0",
+"date": "2024-08-01",
+"revision": "354c834a39",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -160,11 +160,11 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 199
+"count": 207
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
-"count": 117
+"count": 122
 },
 {
 "file": "en-US/browser/browser/originControls.ftl",
