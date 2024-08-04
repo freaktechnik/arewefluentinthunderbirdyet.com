@@ -1,6 +1,6 @@
 {
-"date": "2024-08-02",
-"revision": "d92a075564",
+"date": "2024-08-03",
+"revision": "61ef38e43f",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -137,6 +137,10 @@
 {
 "file": "en-US/browser/browser/fxviewTabList.ftl",
 "count": 26
+},
+{
+"file": "en-US/browser/browser/genai.ftl",
+"count": 20
 },
 {
 "file": "en-US/browser/browser/identityCredentialNotification.ftl",
@@ -1012,7 +1016,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/featuregates/features.ftl",
-"count": 21
+"count": 22
 },
 {
 "file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
@@ -1180,7 +1184,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/pdfviewer/viewer.ftl",
-"count": 196
+"count": 227
 },
 {
 "file": "en-US/toolkit/toolkit/pictureinpicture/pictureinpicture.ftl",
