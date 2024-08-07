@@ -1,6 +1,6 @@
 {
-"date": "2024-08-06",
-"revision": "8b0666aff1",
+"date": "2024-08-07",
+"revision": "e754b43836",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -164,7 +164,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 208
+"count": 209
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -1016,7 +1016,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/featuregates/features.ftl",
-"count": 22
+"count": 27
 },
 {
 "file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
