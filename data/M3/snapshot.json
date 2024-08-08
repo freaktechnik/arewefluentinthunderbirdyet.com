@@ -1,6 +1,6 @@
 {
 "date": "2024-08-07",
-"revision": "e754b43836",
+"revision": "9eee5e0a82",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -440,7 +440,7 @@
 },
 {
 "file": "en-US/browser/chrome/overrides/appstrings.properties",
-"count": 37
+"count": 38
 },
 {
 "file": "en-US/browser/extensions/formautofill/formautofill.properties",
@@ -1164,7 +1164,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/certError.ftl",
-"count": 63
+"count": 64
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/netError.ftl",
