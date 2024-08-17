@@ -1,6 +1,6 @@
 {
-"date": "2024-08-15",
-"revision": "2455e4d638",
+"date": "2024-08-16",
+"revision": "10fcb8561f",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -692,7 +692,7 @@
 },
 {
 "file": "en-US/dom/chrome/layout/css.properties",
-"count": 46
+"count": 47
 },
 {
 "file": "en-US/dom/chrome/layout/htmlparser.properties",
