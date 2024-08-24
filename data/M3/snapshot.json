@@ -1,6 +1,6 @@
 {
 "date": "2024-08-23",
-"revision": "81e55ad78b",
+"revision": "cd5370ee07",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -944,7 +944,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutProcesses.ftl",
-"count": 66
+"count": 67
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutProfiles.ftl",
