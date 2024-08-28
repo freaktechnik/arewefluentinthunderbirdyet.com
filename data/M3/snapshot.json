@@ -1,6 +1,6 @@
 {
-"date": "2024-08-26",
-"revision": "490a1df802",
+"date": "2024-08-27",
+"revision": "45d6f8bf02",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -12,7 +12,7 @@
 },
 {
 "file": "en-US/browser/browser/aboutDialog.ftl",
-"count": 31
+"count": 33
 },
 {
 "file": "en-US/browser/browser/aboutLogins.ftl",
@@ -644,7 +644,7 @@
 },
 {
 "file": "en-US/devtools/shared/styleinspector.properties",
-"count": 62
+"count": 64
 },
 {
 "file": "en-US/devtools/shared/webconsole-commands.ftl",
@@ -1016,7 +1016,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/featuregates/features.ftl",
-"count": 27
+"count": 25
 },
 {
 "file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
