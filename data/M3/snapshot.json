@@ -1,6 +1,6 @@
 {
-"date": "2024-08-27",
-"revision": "45d6f8bf02",
+"date": "2024-08-29",
+"revision": "446ff34da0",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -296,7 +296,7 @@
 },
 {
 "file": "en-US/browser/browser/sanitize.ftl",
-"count": 42
+"count": 43
 },
 {
 "file": "en-US/browser/browser/screenshots.ftl",
@@ -312,7 +312,7 @@
 },
 {
 "file": "en-US/browser/browser/shopping.ftl",
-"count": 106
+"count": 105
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
@@ -388,7 +388,7 @@
 },
 {
 "file": "en-US/browser/chrome/browser/browser.properties",
-"count": 183
+"count": 187
 },
 {
 "file": "en-US/browser/chrome/browser/customizableui/customizableWidgets.properties",
