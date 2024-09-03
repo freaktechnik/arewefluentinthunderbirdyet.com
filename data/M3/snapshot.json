@@ -1,6 +1,6 @@
 {
-"date": "2024-09-01",
-"revision": "5f641898e1",
+"date": "2024-09-03",
+"revision": "aee7c3a0db",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -728,7 +728,7 @@
 },
 {
 "file": "en-US/dom/chrome/security/csp.properties",
-"count": 55
+"count": 57
 },
 {
 "file": "en-US/dom/chrome/security/security.properties",
