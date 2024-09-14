@@ -1,6 +1,6 @@
 {
-"date": "2024-09-12",
-"revision": "d31a0bb86e",
+"date": "2024-09-13",
+"revision": "69384e288c",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -316,7 +316,7 @@
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
-"count": 37
+"count": 39
 },
 {
 "file": "en-US/browser/browser/sidebarMenu.ftl",
@@ -676,7 +676,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 281
+"count": 280
 },
 {
 "file": "en-US/dom/chrome/global-strres.properties",
