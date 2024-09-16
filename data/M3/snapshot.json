@@ -1,6 +1,6 @@
 {
-"date": "2024-09-14",
-"revision": "f8904f7f9b",
+"date": "2024-09-15",
+"revision": "c414b4538d",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -16,7 +16,7 @@
 },
 {
 "file": "en-US/browser/browser/aboutLogins.ftl",
-"count": 150
+"count": 151
 },
 {
 "file": "en-US/browser/browser/aboutPocket.ftl",
