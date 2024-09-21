@@ -1,6 +1,6 @@
 {
-"date": "2024-09-19",
-"revision": "43450868e9",
+"date": "2024-09-20",
+"revision": "5049886134",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -316,7 +316,7 @@
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
-"count": 39
+"count": 41
 },
 {
 "file": "en-US/browser/browser/sidebarMenu.ftl",
@@ -476,7 +476,7 @@
 },
 {
 "file": "en-US/devtools/client/aboutdebugging.ftl",
-"count": 100
+"count": 101
 },
 {
 "file": "en-US/devtools/client/accessibility.ftl",
