@@ -1,6 +1,6 @@
 {
-"date": "2024-09-20",
-"revision": "5049886134",
+"date": "2024-09-21",
+"revision": "f4c8883651",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -124,7 +124,7 @@
 },
 {
 "file": "en-US/browser/browser/featureCallout.ftl",
-"count": 21
+"count": 28
 },
 {
 "file": "en-US/browser/browser/firefoxRelay.ftl",
@@ -160,7 +160,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/asrouter.ftl",
-"count": 83
+"count": 88
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
