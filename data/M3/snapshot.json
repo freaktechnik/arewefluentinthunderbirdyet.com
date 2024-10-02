@@ -1,6 +1,6 @@
 {
-"date": "2024-09-20",
-"revision": "1b90936792",
+"date": "2024-10-01",
+"revision": "3966e5534d",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -536,7 +536,7 @@
 },
 {
 "file": "en-US/devtools/client/inspector.properties",
-"count": 136
+"count": 137
 },
 {
 "file": "en-US/devtools/client/jsonview.properties",
