@@ -1,6 +1,6 @@
 {
-"date": "2024-10-02",
-"revision": "f0b3dafb55",
+"date": "2024-10-03",
+"revision": "9c8b512d4a",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -16,7 +16,7 @@
 },
 {
 "file": "en-US/browser/browser/aboutLogins.ftl",
-"count": 151
+"count": 150
 },
 {
 "file": "en-US/browser/browser/aboutPocket.ftl",
@@ -56,7 +56,7 @@
 },
 {
 "file": "en-US/browser/browser/addonNotifications.ftl",
-"count": 45
+"count": 46
 },
 {
 "file": "en-US/browser/browser/allTabsMenu.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 336
+"count": 338
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -164,7 +164,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 209
+"count": 211
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -1076,7 +1076,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/global/extensions.ftl",
-"count": 29
+"count": 31
 },
 {
 "file": "en-US/toolkit/toolkit/global/handlerDialog.ftl",
