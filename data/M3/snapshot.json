@@ -1,6 +1,6 @@
 {
-"date": "2024-10-06",
-"revision": "b546e74055",
+"date": "2024-10-08",
+"revision": "4e44d35ecf",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -928,7 +928,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutHttpsOnlyError.ftl",
-"count": 13
+"count": 14
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutLogging.ftl",
