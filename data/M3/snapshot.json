@@ -1,6 +1,6 @@
 {
-"date": "2024-10-08",
-"revision": "7a85a111b5",
+"date": "2024-10-09",
+"revision": "9f49f28c3b",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -352,7 +352,7 @@
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
-"count": 46
+"count": 45
 },
 {
 "file": "en-US/browser/browser/textRecognition.ftl",
@@ -824,7 +824,7 @@
 },
 {
 "file": "en-US/toolkit/chrome/global/commonDialogs.properties",
-"count": 30
+"count": 29
 },
 {
 "file": "en-US/toolkit/chrome/global/contentAreaCommands.properties",
