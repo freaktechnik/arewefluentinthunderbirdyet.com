@@ -1,6 +1,6 @@
 {
-"date": "2024-10-13",
-"revision": "d56687458d",
+"date": "2024-10-15",
+"revision": "248959e17f",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -756,7 +756,7 @@
 },
 {
 "file": "en-US/security/manager/chrome/pipnss/nsserrors.properties",
-"count": 327
+"count": 328
 },
 {
 "file": "en-US/security/manager/chrome/pipnss/pipnss.properties",
@@ -916,7 +916,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutAddons.ftl",
-"count": 216
+"count": 217
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutCompat.ftl",
@@ -1176,7 +1176,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/nsserrors.ftl",
-"count": 330
+"count": 331
 },
 {
 "file": "en-US/toolkit/toolkit/passwordmgr/passwordmgr.ftl",
