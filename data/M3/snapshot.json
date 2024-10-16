@@ -1,6 +1,6 @@
 {
-"date": "2024-10-15",
-"revision": "248959e17f",
+"date": "2024-10-16",
+"revision": "91c9ad7516",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -160,7 +160,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/asrouter.ftl",
-"count": 88
+"count": 89
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
@@ -756,7 +756,7 @@
 },
 {
 "file": "en-US/security/manager/chrome/pipnss/nsserrors.properties",
-"count": 328
+"count": 329
 },
 {
 "file": "en-US/security/manager/chrome/pipnss/pipnss.properties",
@@ -1168,11 +1168,11 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/certError.ftl",
-"count": 64
+"count": 65
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/netError.ftl",
-"count": 91
+"count": 92
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/nsserrors.ftl",
