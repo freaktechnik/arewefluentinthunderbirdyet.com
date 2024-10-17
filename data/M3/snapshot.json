@@ -1,6 +1,6 @@
 {
 "date": "2024-10-16",
-"revision": "91c9ad7516",
+"revision": "682dc9b944",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -160,7 +160,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/asrouter.ftl",
-"count": 89
+"count": 92
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
@@ -512,7 +512,7 @@
 },
 {
 "file": "en-US/devtools/client/debugger.properties",
-"count": 347
+"count": 350
 },
 {
 "file": "en-US/devtools/client/device.properties",
@@ -944,7 +944,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutProcesses.ftl",
-"count": 67
+"count": 66
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutProfiles.ftl",
