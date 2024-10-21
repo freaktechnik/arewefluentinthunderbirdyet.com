@@ -1,6 +1,6 @@
 {
-"date": "2024-10-19",
-"revision": "156b2012dc",
+"date": "2024-10-20",
+"revision": "ec342a3d48",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -160,7 +160,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/asrouter.ftl",
-"count": 92
+"count": 105
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
