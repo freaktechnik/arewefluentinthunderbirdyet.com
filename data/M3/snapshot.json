@@ -1,6 +1,6 @@
 {
-"date": "2024-10-21",
-"revision": "786a1efc72",
+"date": "2024-10-22",
+"revision": "360b702e1e",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -660,15 +660,15 @@
 },
 {
 "file": "en-US/dom/chrome/accessibility/mac/accessible.properties",
-"count": 47
+"count": 48
 },
 {
 "file": "en-US/dom/chrome/accessibility/unix/accessible.properties",
-"count": 14
+"count": 15
 },
 {
 "file": "en-US/dom/chrome/accessibility/win/accessible.properties",
-"count": 18
+"count": 19
 },
 {
 "file": "en-US/dom/chrome/appstrings.properties",
