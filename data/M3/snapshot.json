@@ -1,6 +1,6 @@
 {
-"date": "2024-10-22",
-"revision": "360b702e1e",
+"date": "2024-10-24",
+"revision": "f059c24346",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 348
+"count": 350
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -132,7 +132,7 @@
 },
 {
 "file": "en-US/browser/browser/firefoxView.ftl",
-"count": 129
+"count": 128
 },
 {
 "file": "en-US/browser/browser/fxviewTabList.ftl",
@@ -164,7 +164,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 211
+"count": 212
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -904,7 +904,7 @@
 },
 {
 "file": "en-US/toolkit/crashreporter/crashreporter.ftl",
-"count": 33
+"count": 32
 },
 {
 "file": "en-US/toolkit/services/accounts.ftl",
@@ -964,7 +964,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutSupport.ftl",
-"count": 318
+"count": 315
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutTelemetry.ftl",
