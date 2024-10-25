@@ -1,6 +1,6 @@
 {
 "date": "2024-10-24",
-"revision": "f059c24346",
+"revision": "b2d5ed9e89",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -124,7 +124,7 @@
 },
 {
 "file": "en-US/browser/browser/featureCallout.ftl",
-"count": 28
+"count": 30
 },
 {
 "file": "en-US/browser/browser/firefoxRelay.ftl",
@@ -1168,7 +1168,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/certError.ftl",
-"count": 65
+"count": 92
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/netError.ftl",
