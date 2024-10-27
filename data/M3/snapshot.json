@@ -1,6 +1,6 @@
 {
-"date": "2024-10-24",
-"revision": "9c0a612291",
+"date": "2024-10-26",
+"revision": "c0b40fc662",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -88,7 +88,7 @@
 },
 {
 "file": "en-US/browser/browser/browserSets.ftl",
-"count": 56
+"count": 57
 },
 {
 "file": "en-US/browser/browser/colorways.ftl",
@@ -140,7 +140,7 @@
 },
 {
 "file": "en-US/browser/browser/genai.ftl",
-"count": 64
+"count": 69
 },
 {
 "file": "en-US/browser/browser/identityCredentialNotification.ftl",
@@ -164,7 +164,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 212
+"count": 214
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -1188,7 +1188,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/pdfviewer/viewer.ftl",
-"count": 227
+"count": 226
 },
 {
 "file": "en-US/toolkit/toolkit/pictureinpicture/pictureinpicture.ftl",
