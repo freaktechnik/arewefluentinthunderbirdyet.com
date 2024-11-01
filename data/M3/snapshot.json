@@ -1,6 +1,6 @@
 {
-"date": "2024-10-30",
-"revision": "ca4a00cf20",
+"date": "2024-11-01",
+"revision": "b6c6133e43",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -751,8 +751,12 @@
 "count": 2
 },
 {
+"file": "en-US/netwerk/necko.ftl",
+"count": 11
+},
+{
 "file": "en-US/netwerk/necko.properties",
-"count": 61
+"count": 50
 },
 {
 "file": "en-US/security/manager/chrome/pipnss/nsserrors.properties",
