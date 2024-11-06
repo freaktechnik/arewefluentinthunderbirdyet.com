@@ -1,6 +1,6 @@
 {
-"date": "2024-11-04",
-"revision": "1bc0601cc5",
+"date": "2024-11-06",
+"revision": "64e2c3be9d",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -160,7 +160,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/asrouter.ftl",
-"count": 105
+"count": 114
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
@@ -752,7 +752,11 @@
 },
 {
 "file": "en-US/netwerk/necko.properties",
-"count": 61
+"count": 50
+},
+{
+"file": "en-US/netwerk/netwerk/necko.ftl",
+"count": 11
 },
 {
 "file": "en-US/security/manager/chrome/pipnss/nsserrors.properties",
