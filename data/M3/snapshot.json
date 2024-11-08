@@ -1,6 +1,6 @@
 {
-"date": "2024-11-06",
-"revision": "9fc1bfb2f3",
+"date": "2024-11-08",
+"revision": "f92eb1396b",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -168,7 +168,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
-"count": 140
+"count": 144
 },
 {
 "file": "en-US/browser/browser/originControls.ftl",
@@ -700,7 +700,7 @@
 },
 {
 "file": "en-US/dom/chrome/layout/layout_errors.properties",
-"count": 18
+"count": 19
 },
 {
 "file": "en-US/dom/chrome/layout/printing.properties",
