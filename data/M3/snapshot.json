@@ -1,6 +1,6 @@
 {
-"date": "2024-11-11",
-"revision": "f732a16510",
+"date": "2024-11-12",
+"revision": "55837bbe3e",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -272,7 +272,7 @@
 },
 {
 "file": "en-US/browser/browser/profiles.ftl",
-"count": 44
+"count": 47
 },
 {
 "file": "en-US/browser/browser/protections.ftl",
@@ -452,7 +452,7 @@
 },
 {
 "file": "en-US/browser/installer/custom.properties",
-"count": 57
+"count": 58
 },
 {
 "file": "en-US/browser/installer/mui.properties",
@@ -692,7 +692,7 @@
 },
 {
 "file": "en-US/dom/chrome/layout/css.properties",
-"count": 47
+"count": 50
 },
 {
 "file": "en-US/dom/chrome/layout/htmlparser.properties",
@@ -1176,7 +1176,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/netError.ftl",
-"count": 92
+"count": 93
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/nsserrors.ftl",
@@ -1192,7 +1192,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/pdfviewer/viewer.ftl",
-"count": 226
+"count": 230
 },
 {
 "file": "en-US/toolkit/toolkit/pictureinpicture/pictureinpicture.ftl",
