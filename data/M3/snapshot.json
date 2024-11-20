@@ -1,6 +1,6 @@
 {
-"date": "2024-11-19",
-"revision": "836e13f637",
+"date": "2024-11-20",
+"revision": "927b401fb9",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -700,7 +700,7 @@
 },
 {
 "file": "en-US/dom/chrome/layout/layout_errors.properties",
-"count": 19
+"count": 18
 },
 {
 "file": "en-US/dom/chrome/layout/printing.properties",
