@@ -1,6 +1,6 @@
 {
-"date": "2024-11-20",
-"revision": "927b401fb9",
+"date": "2024-11-21",
+"revision": "82124d60a7",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 350
+"count": 351
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -280,7 +280,7 @@
 },
 {
 "file": "en-US/browser/browser/protectionsPanel.ftl",
-"count": 46
+"count": 51
 },
 {
 "file": "en-US/browser/browser/recentlyClosed.ftl",
@@ -376,7 +376,7 @@
 },
 {
 "file": "en-US/browser/browser/unifiedExtensions.ftl",
-"count": 12
+"count": 17
 },
 {
 "file": "en-US/browser/browser/webProtocolHandler.ftl",
