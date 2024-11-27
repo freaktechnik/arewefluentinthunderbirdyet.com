@@ -1,6 +1,6 @@
 {
-"date": "2024-11-25",
-"revision": "81ea1ba1f0",
+"date": "2024-11-27",
+"revision": "234f91a9d3",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -308,7 +308,7 @@
 },
 {
 "file": "en-US/browser/browser/search.ftl",
-"count": 11
+"count": 14
 },
 {
 "file": "en-US/browser/browser/setDesktopBackground.ftl",
@@ -356,7 +356,7 @@
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
-"count": 45
+"count": 59
 },
 {
 "file": "en-US/browser/browser/textRecognition.ftl",
