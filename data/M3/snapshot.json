@@ -1,6 +1,6 @@
 {
-"date": "2024-11-28",
-"revision": "a13e145a48",
+"date": "2024-11-29",
+"revision": "e741c34019",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -1032,7 +1032,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/global/antiTracking.ftl",
-"count": 1
+"count": 2
 },
 {
 "file": "en-US/toolkit/toolkit/global/appPicker.ftl",
