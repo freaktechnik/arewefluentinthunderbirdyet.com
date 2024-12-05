@@ -1,6 +1,6 @@
 {
-"date": "2024-12-03",
-"revision": "fb8a1b0bee",
+"date": "2024-12-04",
+"revision": "8c9c85c74e",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -376,7 +376,7 @@
 },
 {
 "file": "en-US/browser/browser/unifiedExtensions.ftl",
-"count": 17
+"count": 18
 },
 {
 "file": "en-US/browser/browser/webProtocolHandler.ftl",
@@ -608,7 +608,7 @@
 },
 {
 "file": "en-US/devtools/client/tooltips.ftl",
-"count": 77
+"count": 79
 },
 {
 "file": "en-US/devtools/client/webconsole.properties",
@@ -928,7 +928,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutGlean.ftl",
-"count": 31
+"count": 43
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutHttpsOnlyError.ftl",
@@ -1192,7 +1192,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/pdfviewer/viewer.ftl",
-"count": 230
+"count": 239
 },
 {
 "file": "en-US/toolkit/toolkit/pictureinpicture/pictureinpicture.ftl",
