@@ -1,6 +1,6 @@
 {
-"date": "2024-12-06",
-"revision": "6b6613da89",
+"date": "2024-12-07",
+"revision": "3b1f061102",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -128,7 +128,7 @@
 },
 {
 "file": "en-US/browser/browser/firefoxRelay.ftl",
-"count": 10
+"count": 31
 },
 {
 "file": "en-US/browser/browser/firefoxView.ftl",
