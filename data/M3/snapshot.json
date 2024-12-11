@@ -1,6 +1,6 @@
 {
-"date": "2024-12-09",
-"revision": "5b93d2870a",
+"date": "2024-12-10",
+"revision": "d6ba540112",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -140,7 +140,7 @@
 },
 {
 "file": "en-US/browser/browser/genai.ftl",
-"count": 69
+"count": 71
 },
 {
 "file": "en-US/browser/browser/identityCredentialNotification.ftl",
@@ -1092,7 +1092,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/global/mozFiveStar.ftl",
-"count": 1
+"count": 2
 },
 {
 "file": "en-US/toolkit/toolkit/global/mozMessageBar.ftl",
