@@ -1,6 +1,6 @@
 {
-"date": "2024-12-12",
-"revision": "d1e731d931",
+"date": "2024-12-13",
+"revision": "3dbe1a8812",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -68,7 +68,7 @@
 },
 {
 "file": "en-US/browser/browser/appMenuNotifications.ftl",
-"count": 15
+"count": 13
 },
 {
 "file": "en-US/browser/browser/appmenu.ftl",
@@ -88,7 +88,7 @@
 },
 {
 "file": "en-US/browser/browser/browserSets.ftl",
-"count": 57
+"count": 58
 },
 {
 "file": "en-US/browser/browser/colorways.ftl",
@@ -320,7 +320,7 @@
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
-"count": 57
+"count": 58
 },
 {
 "file": "en-US/browser/browser/sidebarMenu.ftl",
