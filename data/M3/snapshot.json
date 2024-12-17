@@ -1,6 +1,6 @@
 {
-"date": "2024-12-15",
-"revision": "937d8e66a5",
+"date": "2024-12-17",
+"revision": "2493c256db",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -164,11 +164,11 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 211
+"count": 212
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
-"count": 151
+"count": 153
 },
 {
 "file": "en-US/browser/browser/originControls.ftl",
@@ -1136,7 +1136,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/global/textActions.ftl",
-"count": 23
+"count": 24
 },
 {
 "file": "en-US/toolkit/toolkit/global/tree.ftl",
