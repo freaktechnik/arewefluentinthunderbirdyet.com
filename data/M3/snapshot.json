@@ -1,6 +1,6 @@
 {
-"date": "2024-12-17",
-"revision": "fe6056f326",
+"date": "2024-12-19",
+"revision": "826ab25314",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -72,7 +72,7 @@
 },
 {
 "file": "en-US/browser/browser/appmenu.ftl",
-"count": 115
+"count": 118
 },
 {
 "file": "en-US/browser/browser/backgroundtasks/defaultagent.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 352
+"count": 353
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -168,7 +168,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
-"count": 159
+"count": 163
 },
 {
 "file": "en-US/browser/browser/originControls.ftl",
@@ -696,7 +696,7 @@
 },
 {
 "file": "en-US/dom/chrome/layout/htmlparser.properties",
-"count": 130
+"count": 127
 },
 {
 "file": "en-US/dom/chrome/layout/layout_errors.properties",
