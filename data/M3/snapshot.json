@@ -1,6 +1,6 @@
 {
-"date": "2024-12-22",
-"revision": "21710237a2",
+"date": "2024-12-23",
+"revision": "f490380b65",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -1076,7 +1076,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/global/extensionPermissions.ftl",
-"count": 26
+"count": 28
 },
 {
 "file": "en-US/toolkit/toolkit/global/extensions.ftl",
