@@ -1,6 +1,6 @@
 {
 "date": "2025-01-01",
-"revision": "c524840225",
+"revision": "492a2bc0e2",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -860,7 +860,7 @@
 },
 {
 "file": "en-US/toolkit/chrome/global/narrate.properties",
-"count": 14
+"count": 13
 },
 {
 "file": "en-US/toolkit/chrome/global/printdialog.properties",
@@ -956,7 +956,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutReader.ftl",
-"count": 51
+"count": 46
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutRights.ftl",
