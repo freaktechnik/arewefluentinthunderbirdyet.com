@@ -1,6 +1,6 @@
 {
-"date": "2025-01-05",
-"revision": "94c62970ba",
+"date": "2025-01-06",
+"revision": "f8f192c705",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -556,7 +556,7 @@
 },
 {
 "file": "en-US/devtools/client/netmonitor.properties",
-"count": 400
+"count": 402
 },
 {
 "file": "en-US/devtools/client/network-throttling.properties",
@@ -728,7 +728,7 @@
 },
 {
 "file": "en-US/dom/chrome/security/csp.properties",
-"count": 57
+"count": 58
 },
 {
 "file": "en-US/dom/chrome/security/security.properties",
