@@ -1,6 +1,6 @@
 {
-"date": "2025-01-10",
-"revision": "36f132063d",
+"date": "2025-01-11",
+"revision": "ef6f2584c7",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -88,7 +88,7 @@
 },
 {
 "file": "en-US/browser/browser/browserSets.ftl",
-"count": 58
+"count": 57
 },
 {
 "file": "en-US/browser/browser/colorways.ftl",
@@ -676,7 +676,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 280
+"count": 284
 },
 {
 "file": "en-US/dom/chrome/global-strres.properties",
