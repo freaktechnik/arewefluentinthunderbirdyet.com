@@ -8565,5 +8565,14 @@
 },
 "date": "2025-01-12",
 "revision": "9f9fa5d2cb"
+},
+{
+"data": {
+"ftl": 8573,
+"ini": 3,
+"properties": 3991
+},
+"date": "2025-01-13",
+"revision": "3973bd36aa"
 }
 ]
