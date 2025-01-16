@@ -1,6 +1,6 @@
 {
 "date": "2025-01-15",
-"revision": "cbc10b90d9",
+"revision": "b19c379ba7",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -560,7 +560,7 @@
 },
 {
 "file": "en-US/devtools/client/network-throttling.properties",
-"count": 2
+"count": 4
 },
 {
 "file": "en-US/devtools/client/perftools.ftl",
