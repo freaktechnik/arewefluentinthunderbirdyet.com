@@ -1,6 +1,6 @@
 {
 "date": "2025-01-17",
-"revision": "3aa93e41cf",
+"revision": "5ef39aaccb",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -164,7 +164,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 216
+"count": 225
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -604,7 +604,7 @@
 },
 {
 "file": "en-US/devtools/client/toolbox.properties",
-"count": 64
+"count": 65
 },
 {
 "file": "en-US/devtools/client/tooltips.ftl",
@@ -1020,7 +1020,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/featuregates/features.ftl",
-"count": 25
+"count": 23
 },
 {
 "file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
