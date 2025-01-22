@@ -1,6 +1,6 @@
 {
-"date": "2025-01-20",
-"revision": "3076c9156e",
+"date": "2025-01-22",
+"revision": "3ee2e63c1b",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -252,7 +252,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 529
+"count": 532
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -320,11 +320,11 @@
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
-"count": 58
+"count": 59
 },
 {
 "file": "en-US/browser/browser/sidebarMenu.ftl",
-"count": 6
+"count": 7
 },
 {
 "file": "en-US/browser/browser/sitePermissions.ftl",
@@ -440,7 +440,7 @@
 },
 {
 "file": "en-US/browser/chrome/overrides/appstrings.properties",
-"count": 38
+"count": 39
 },
 {
 "file": "en-US/browser/extensions/formautofill/formautofill.properties",
@@ -1176,7 +1176,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/netError.ftl",
-"count": 93
+"count": 97
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/nsserrors.ftl",
