@@ -1,6 +1,6 @@
 {
-"date": "2025-01-26",
-"revision": "3204e49704",
+"date": "2025-01-28",
+"revision": "a4da62e1b5",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -444,7 +444,7 @@
 },
 {
 "file": "en-US/browser/chrome/overrides/appstrings.properties",
-"count": 39
+"count": 41
 },
 {
 "file": "en-US/browser/extensions/formautofill/formautofill.properties",
@@ -676,7 +676,7 @@
 },
 {
 "file": "en-US/dom/chrome/appstrings.properties",
-"count": 34
+"count": 36
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
@@ -1176,11 +1176,11 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/certError.ftl",
-"count": 91
+"count": 92
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/netError.ftl",
-"count": 97
+"count": 99
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/nsserrors.ftl",
