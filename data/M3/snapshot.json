@@ -1,6 +1,6 @@
 {
-"date": "2025-01-28",
-"revision": "a4da62e1b5",
+"date": "2025-01-29",
+"revision": "338230dfeb",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -68,7 +68,7 @@
 },
 {
 "file": "en-US/browser/browser/appMenuNotifications.ftl",
-"count": 13
+"count": 14
 },
 {
 "file": "en-US/browser/browser/appmenu.ftl",
@@ -124,7 +124,7 @@
 },
 {
 "file": "en-US/browser/browser/featureCallout.ftl",
-"count": 53
+"count": 62
 },
 {
 "file": "en-US/browser/browser/firefoxRelay.ftl",
@@ -252,7 +252,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 532
+"count": 529
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -276,7 +276,7 @@
 },
 {
 "file": "en-US/browser/browser/profiles.ftl",
-"count": 47
+"count": 54
 },
 {
 "file": "en-US/browser/browser/protections.ftl",
@@ -360,7 +360,7 @@
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
-"count": 82
+"count": 83
 },
 {
 "file": "en-US/browser/browser/textRecognition.ftl",
