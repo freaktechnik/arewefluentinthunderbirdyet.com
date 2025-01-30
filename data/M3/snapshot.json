@@ -1,6 +1,6 @@
 {
-"date": "2025-01-29",
-"revision": "338230dfeb",
+"date": "2025-01-30",
+"revision": "0a2bca2cbf",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -252,7 +252,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 529
+"count": 536
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -356,7 +356,7 @@
 },
 {
 "file": "en-US/browser/browser/tabContextMenu.ftl",
-"count": 32
+"count": 34
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
@@ -680,7 +680,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 284
+"count": 285
 },
 {
 "file": "en-US/dom/chrome/global-strres.properties",
@@ -1024,7 +1024,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/featuregates/features.ftl",
-"count": 23
+"count": 19
 },
 {
 "file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
