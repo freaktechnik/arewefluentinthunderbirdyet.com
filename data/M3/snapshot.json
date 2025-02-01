@@ -1,6 +1,6 @@
 {
 "date": "2025-01-31",
-"revision": "671d010bef",
+"revision": "551493ea32",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -140,7 +140,7 @@
 },
 {
 "file": "en-US/browser/browser/genai.ftl",
-"count": 72
+"count": 67
 },
 {
 "file": "en-US/browser/browser/identityCredentialNotification.ftl",
@@ -324,7 +324,7 @@
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
-"count": 61
+"count": 57
 },
 {
 "file": "en-US/browser/browser/sidebarMenu.ftl",
@@ -368,7 +368,7 @@
 },
 {
 "file": "en-US/browser/browser/toolbarContextMenu.ftl",
-"count": 22
+"count": 25
 },
 {
 "file": "en-US/browser/browser/touchbar/touchbar.ftl",
@@ -1024,7 +1024,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/featuregates/features.ftl",
-"count": 17
+"count": 16
 },
 {
 "file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
