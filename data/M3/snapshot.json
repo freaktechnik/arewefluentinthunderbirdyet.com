@@ -1,6 +1,6 @@
 {
-"date": "2025-02-04",
-"revision": "e85232b4b2",
+"date": "2025-02-06",
+"revision": "12d5635876",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -324,7 +324,7 @@
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
-"count": 57
+"count": 58
 },
 {
 "file": "en-US/browser/browser/sidebarMenu.ftl",
@@ -540,7 +540,7 @@
 },
 {
 "file": "en-US/devtools/client/inspector.properties",
-"count": 137
+"count": 139
 },
 {
 "file": "en-US/devtools/client/jsonview.properties",
@@ -1024,7 +1024,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/featuregates/features.ftl",
-"count": 16
+"count": 15
 },
 {
 "file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
