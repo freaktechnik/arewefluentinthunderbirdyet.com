@@ -1,6 +1,6 @@
 {
 "date": "2025-02-07",
-"revision": "9bbbf735a4",
+"revision": "2097b2f701",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -140,7 +140,7 @@
 },
 {
 "file": "en-US/browser/browser/genai.ftl",
-"count": 67
+"count": 69
 },
 {
 "file": "en-US/browser/browser/identityCredentialNotification.ftl",
@@ -560,7 +560,7 @@
 },
 {
 "file": "en-US/devtools/client/netmonitor.properties",
-"count": 402
+"count": 410
 },
 {
 "file": "en-US/devtools/client/network-throttling.properties",
