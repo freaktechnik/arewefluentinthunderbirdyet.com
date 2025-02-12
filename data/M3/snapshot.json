@@ -1,6 +1,6 @@
 {
-"date": "2025-02-10",
-"revision": "7c573d9eb9",
+"date": "2025-02-11",
+"revision": "5e7382bf8b",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -68,7 +68,7 @@
 },
 {
 "file": "en-US/browser/browser/appMenuNotifications.ftl",
-"count": 14
+"count": 13
 },
 {
 "file": "en-US/browser/browser/appmenu.ftl",
@@ -648,7 +648,7 @@
 },
 {
 "file": "en-US/devtools/shared/styleinspector.properties",
-"count": 64
+"count": 65
 },
 {
 "file": "en-US/devtools/shared/webconsole-commands.ftl",
