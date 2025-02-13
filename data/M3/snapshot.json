@@ -1,6 +1,6 @@
 {
-"date": "2025-02-11",
-"revision": "5e7382bf8b",
+"date": "2025-02-12",
+"revision": "e8da1e780e",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 354
+"count": 355
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -560,7 +560,7 @@
 },
 {
 "file": "en-US/devtools/client/netmonitor.properties",
-"count": 410
+"count": 411
 },
 {
 "file": "en-US/devtools/client/network-throttling.properties",
