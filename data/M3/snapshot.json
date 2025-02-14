@@ -1,6 +1,6 @@
 {
-"date": "2025-02-12",
-"revision": "e8da1e780e",
+"date": "2025-02-13",
+"revision": "f3a243812e",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -60,7 +60,7 @@
 },
 {
 "file": "en-US/browser/browser/allTabsMenu.ftl",
-"count": 6
+"count": 7
 },
 {
 "file": "en-US/browser/browser/appExtensionFields.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 355
+"count": 357
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -168,7 +168,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
-"count": 170
+"count": 171
 },
 {
 "file": "en-US/browser/browser/originControls.ftl",
@@ -252,7 +252,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 536
+"count": 535
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -360,7 +360,7 @@
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
-"count": 83
+"count": 82
 },
 {
 "file": "en-US/browser/browser/textRecognition.ftl",
@@ -532,7 +532,7 @@
 },
 {
 "file": "en-US/devtools/client/font-inspector.properties",
-"count": 15
+"count": 23
 },
 {
 "file": "en-US/devtools/client/har.properties",
@@ -912,7 +912,7 @@
 },
 {
 "file": "en-US/toolkit/crashreporter/crashreporter.ftl",
-"count": 32
+"count": 34
 },
 {
 "file": "en-US/toolkit/services/accounts.ftl",
@@ -1140,7 +1140,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/global/textActions.ftl",
-"count": 24
+"count": 27
 },
 {
 "file": "en-US/toolkit/toolkit/global/tree.ftl",
@@ -1176,11 +1176,11 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/certError.ftl",
-"count": 92
+"count": 90
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/netError.ftl",
-"count": 99
+"count": 94
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/nsserrors.ftl",
