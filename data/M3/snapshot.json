@@ -1,6 +1,6 @@
 {
-"date": "2025-02-13",
-"revision": "f3a243812e",
+"date": "2025-02-14",
+"revision": "549796217a",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -152,7 +152,7 @@
 },
 {
 "file": "en-US/browser/browser/menubar.ftl",
-"count": 100
+"count": 99
 },
 {
 "file": "en-US/browser/browser/migrationWizard.ftl",
@@ -164,7 +164,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 225
+"count": 246
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -252,7 +252,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 535
+"count": 539
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -276,7 +276,7 @@
 },
 {
 "file": "en-US/browser/browser/profiles.ftl",
-"count": 54
+"count": 60
 },
 {
 "file": "en-US/browser/browser/protections.ftl",
@@ -324,7 +324,7 @@
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
-"count": 58
+"count": 61
 },
 {
 "file": "en-US/browser/browser/sidebarMenu.ftl",
@@ -356,7 +356,7 @@
 },
 {
 "file": "en-US/browser/browser/tabContextMenu.ftl",
-"count": 34
+"count": 32
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
@@ -1196,7 +1196,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/pdfviewer/viewer.ftl",
-"count": 264
+"count": 273
 },
 {
 "file": "en-US/toolkit/toolkit/pictureinpicture/pictureinpicture.ftl",
