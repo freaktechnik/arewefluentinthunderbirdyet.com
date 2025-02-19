@@ -1,6 +1,6 @@
 {
 "date": "2025-02-18",
-"revision": "f5923bf279",
+"revision": "439f498b2e",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -324,7 +324,7 @@
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
-"count": 61
+"count": 64
 },
 {
 "file": "en-US/browser/browser/sidebarMenu.ftl",
@@ -963,10 +963,6 @@
 "count": 46
 },
 {
-"file": "en-US/toolkit/toolkit/about/aboutRights.ftl",
-"count": 32
-},
-{
 "file": "en-US/toolkit/toolkit/about/aboutServiceWorkers.ftl",
 "count": 16
 },
@@ -1012,7 +1008,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/contentanalysis/contentanalysis.ftl",
-"count": 36
+"count": 37
 },
 {
 "file": "en-US/toolkit/toolkit/downloads/downloadUI.ftl",
