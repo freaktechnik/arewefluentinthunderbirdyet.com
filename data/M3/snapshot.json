@@ -1,6 +1,6 @@
 {
-"date": "2025-02-20",
-"revision": "f9f9b422f6",
+"date": "2025-02-21",
+"revision": "af5960c704",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -60,7 +60,7 @@
 },
 {
 "file": "en-US/browser/browser/allTabsMenu.ftl",
-"count": 7
+"count": 9
 },
 {
 "file": "en-US/browser/browser/appExtensionFields.ftl",
@@ -360,7 +360,7 @@
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
-"count": 82
+"count": 81
 },
 {
 "file": "en-US/browser/browser/textRecognition.ftl",
@@ -680,7 +680,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 285
+"count": 287
 },
 {
 "file": "en-US/dom/chrome/global-strres.properties",
