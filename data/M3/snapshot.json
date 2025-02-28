@@ -1,6 +1,6 @@
 {
-"date": "2025-02-26",
-"revision": "80ae03d93e",
+"date": "2025-02-27",
+"revision": "4bacdbc8ac",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 357
+"count": 360
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -124,7 +124,7 @@
 },
 {
 "file": "en-US/browser/browser/featureCallout.ftl",
-"count": 63
+"count": 78
 },
 {
 "file": "en-US/browser/browser/firefoxRelay.ftl",
@@ -252,7 +252,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 539
+"count": 549
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -960,7 +960,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutReader.ftl",
-"count": 46
+"count": 47
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutServiceWorkers.ftl",
