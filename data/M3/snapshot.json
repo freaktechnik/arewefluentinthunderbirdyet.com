@@ -1,6 +1,6 @@
 {
 "date": "2025-03-04",
-"revision": "8d67fee56f",
+"revision": "6be624ffe2",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -84,7 +84,7 @@
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
-"count": 100
+"count": 101
 },
 {
 "file": "en-US/browser/browser/browserSets.ftl",
@@ -199,10 +199,6 @@
 "count": 110
 },
 {
-"file": "en-US/browser/browser/preferences/addEngine.ftl",
-"count": 8
-},
-{
 "file": "en-US/browser/browser/preferences/applicationManager.ftl",
 "count": 6
 },
@@ -312,7 +308,7 @@
 },
 {
 "file": "en-US/browser/browser/search.ftl",
-"count": 14
+"count": 22
 },
 {
 "file": "en-US/browser/browser/setDesktopBackground.ftl",
@@ -444,7 +440,7 @@
 },
 {
 "file": "en-US/browser/chrome/overrides/appstrings.properties",
-"count": 41
+"count": 42
 },
 {
 "file": "en-US/browser/extensions/formautofill/formautofill.properties",
@@ -680,7 +676,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 287
+"count": 288
 },
 {
 "file": "en-US/dom/chrome/global-strres.properties",
@@ -968,7 +964,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutSupport.ftl",
-"count": 315
+"count": 312
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutTelemetry.ftl",
@@ -1176,7 +1172,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/netError.ftl",
-"count": 94
+"count": 95
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/nsserrors.ftl",
