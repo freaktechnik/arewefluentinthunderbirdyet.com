@@ -1,6 +1,6 @@
 {
-"date": "2025-03-05",
-"revision": "0146d98451",
+"date": "2025-03-07",
+"revision": "1719947aee",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -676,7 +676,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 288
+"count": 289
 },
 {
 "file": "en-US/dom/chrome/global-strres.properties",
