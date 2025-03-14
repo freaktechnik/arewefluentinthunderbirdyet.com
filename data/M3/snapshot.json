@@ -1,6 +1,6 @@
 {
-"date": "2025-03-12",
-"revision": "27583d5afd",
+"date": "2025-03-14",
+"revision": "1b79e3d893",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -164,7 +164,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 246
+"count": 248
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -1016,7 +1016,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/firefoxlabs/features.ftl",
-"count": 13
+"count": 15
 },
 {
 "file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
