@@ -1,6 +1,6 @@
 {
-"date": "2025-03-14",
-"revision": "1b79e3d893",
+"date": "2025-03-15",
+"revision": "183fbe6a65",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -823,10 +823,6 @@
 "count": 1
 },
 {
-"file": "en-US/toolkit/chrome/global/browser.properties",
-"count": 3
-},
-{
 "file": "en-US/toolkit/chrome/global/commonDialogs.properties",
 "count": 29
 },
@@ -1084,7 +1080,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/global/htmlForm.ftl",
-"count": 1
+"count": 4
 },
 {
 "file": "en-US/toolkit/toolkit/global/mozFiveStar.ftl",
@@ -1192,7 +1188,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/pdfviewer/viewer.ftl",
-"count": 273
+"count": 277
 },
 {
 "file": "en-US/toolkit/toolkit/pictureinpicture/pictureinpicture.ftl",
