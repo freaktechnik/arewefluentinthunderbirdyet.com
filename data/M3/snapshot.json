@@ -1,6 +1,6 @@
 {
-"date": "2025-03-15",
-"revision": "183fbe6a65",
+"date": "2025-03-16",
+"revision": "4ae7a054c5",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -443,10 +443,6 @@
 "count": 42
 },
 {
-"file": "en-US/browser/extensions/formautofill/formautofill.properties",
-"count": 5
-},
-{
 "file": "en-US/browser/extensions/report-site-issue/webcompat.properties",
 "count": 2
 },
@@ -555,8 +551,12 @@
 "count": 14
 },
 {
+"file": "en-US/devtools/client/netmonitor.ftl",
+"count": 9
+},
+{
 "file": "en-US/devtools/client/netmonitor.properties",
-"count": 412
+"count": 402
 },
 {
 "file": "en-US/devtools/client/network-throttling.properties",
@@ -1016,7 +1016,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
-"count": 37
+"count": 38
 },
 {
 "file": "en-US/toolkit/toolkit/global/alert.ftl",
