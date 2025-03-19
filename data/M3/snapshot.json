@@ -1,6 +1,6 @@
 {
 "date": "2025-03-18",
-"revision": "71aeedf704",
+"revision": "447fdc05e7",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 360
+"count": 361
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -920,7 +920,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutCompat.ftl",
-"count": 11
+"count": 9
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutGlean.ftl",
