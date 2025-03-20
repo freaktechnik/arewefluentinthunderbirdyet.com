@@ -1,6 +1,6 @@
 {
-"date": "2025-03-18",
-"revision": "447fdc05e7",
+"date": "2025-03-19",
+"revision": "1d94f372ce",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 361
+"count": 360
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -132,7 +132,7 @@
 },
 {
 "file": "en-US/browser/browser/firefoxView.ftl",
-"count": 128
+"count": 96
 },
 {
 "file": "en-US/browser/browser/fxviewTabList.ftl",
@@ -320,7 +320,7 @@
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
-"count": 65
+"count": 64
 },
 {
 "file": "en-US/browser/browser/sidebarMenu.ftl",
