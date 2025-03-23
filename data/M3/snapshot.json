@@ -1,6 +1,6 @@
 {
-"date": "2025-03-21",
-"revision": "805c333508",
+"date": "2025-03-22",
+"revision": "7930a55890",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -16,7 +16,7 @@
 },
 {
 "file": "en-US/browser/browser/aboutLogins.ftl",
-"count": 150
+"count": 149
 },
 {
 "file": "en-US/browser/browser/aboutPocket.ftl",
@@ -24,11 +24,11 @@
 },
 {
 "file": "en-US/browser/browser/aboutPolicies.ftl",
-"count": 9
+"count": 10
 },
 {
 "file": "en-US/browser/browser/aboutPrivateBrowsing.ftl",
-"count": 35
+"count": 33
 },
 {
 "file": "en-US/browser/browser/aboutRestartRequired.ftl",
@@ -56,7 +56,7 @@
 },
 {
 "file": "en-US/browser/browser/addonNotifications.ftl",
-"count": 46
+"count": 45
 },
 {
 "file": "en-US/browser/browser/allTabsMenu.ftl",
@@ -72,7 +72,7 @@
 },
 {
 "file": "en-US/browser/browser/appmenu.ftl",
-"count": 118
+"count": 116
 },
 {
 "file": "en-US/browser/browser/backgroundtasks/defaultagent.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 361
+"count": 351
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -116,7 +116,7 @@
 },
 {
 "file": "en-US/browser/browser/downloads.ftl",
-"count": 55
+"count": 54
 },
 {
 "file": "en-US/browser/browser/editBookmarkOverlay.ftl",
@@ -136,7 +136,7 @@
 },
 {
 "file": "en-US/browser/browser/firefoxView.ftl",
-"count": 96
+"count": 95
 },
 {
 "file": "en-US/browser/browser/fxviewTabList.ftl",
@@ -144,7 +144,7 @@
 },
 {
 "file": "en-US/browser/browser/genai.ftl",
-"count": 72
+"count": 71
 },
 {
 "file": "en-US/browser/browser/identityCredentialNotification.ftl",
@@ -180,7 +180,7 @@
 },
 {
 "file": "en-US/browser/browser/pageInfo.ftl",
-"count": 88
+"count": 86
 },
 {
 "file": "en-US/browser/browser/panelUI.ftl",
@@ -220,7 +220,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/connection.ftl",
-"count": 29
+"count": 28
 },
 {
 "file": "en-US/browser/browser/preferences/containers.ftl",
@@ -252,7 +252,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 554
+"count": 545
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -292,7 +292,7 @@
 },
 {
 "file": "en-US/browser/browser/reportBrokenSite.ftl",
-"count": 25
+"count": 24
 },
 {
 "file": "en-US/browser/browser/safeMode.ftl",
@@ -308,7 +308,7 @@
 },
 {
 "file": "en-US/browser/browser/screenshots.ftl",
-"count": 40
+"count": 21
 },
 {
 "file": "en-US/browser/browser/search.ftl",
@@ -320,7 +320,7 @@
 },
 {
 "file": "en-US/browser/browser/shopping.ftl",
-"count": 113
+"count": 112
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
@@ -348,7 +348,7 @@
 },
 {
 "file": "en-US/browser/browser/sync.ftl",
-"count": 36
+"count": 35
 },
 {
 "file": "en-US/browser/browser/syncedTabs.ftl",
@@ -372,7 +372,7 @@
 },
 {
 "file": "en-US/browser/browser/touchbar/touchbar.ftl",
-"count": 21
+"count": 20
 },
 {
 "file": "en-US/browser/browser/translations.ftl",
@@ -424,7 +424,7 @@
 },
 {
 "file": "en-US/browser/chrome/browser/shellservice.properties",
-"count": 8
+"count": 3
 },
 {
 "file": "en-US/browser/chrome/browser/siteData.properties",
