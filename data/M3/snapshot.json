@@ -1,6 +1,6 @@
 {
-"date": "2025-03-23",
-"revision": "3a0ca3dffd",
+"date": "2025-03-25",
+"revision": "c73fdac210",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -72,7 +72,7 @@
 },
 {
 "file": "en-US/browser/browser/appmenu.ftl",
-"count": 116
+"count": 115
 },
 {
 "file": "en-US/browser/browser/backgroundtasks/defaultagent.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 351
+"count": 355
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -156,7 +156,7 @@
 },
 {
 "file": "en-US/browser/browser/menubar.ftl",
-"count": 99
+"count": 98
 },
 {
 "file": "en-US/browser/browser/migrationWizard.ftl",
@@ -447,10 +447,6 @@
 "count": 42
 },
 {
-"file": "en-US/browser/extensions/report-site-issue/webcompat.properties",
-"count": 2
-},
-{
 "file": "en-US/browser/installer/custom.properties",
 "count": 58
 },
@@ -560,7 +556,7 @@
 },
 {
 "file": "en-US/devtools/client/netmonitor.properties",
-"count": 402
+"count": 403
 },
 {
 "file": "en-US/devtools/client/network-throttling.properties",
@@ -568,7 +564,7 @@
 },
 {
 "file": "en-US/devtools/client/perftools.ftl",
-"count": 69
+"count": 73
 },
 {
 "file": "en-US/devtools/client/responsive.properties",
