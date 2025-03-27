@@ -1,6 +1,6 @@
 {
-"date": "2025-03-25",
-"revision": "b22ec3f983",
+"date": "2025-03-26",
+"revision": "0b765f1050",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -20,7 +20,7 @@
 },
 {
 "file": "en-US/browser/browser/aboutPocket.ftl",
-"count": 46
+"count": 27
 },
 {
 "file": "en-US/browser/browser/aboutPolicies.ftl",
@@ -104,7 +104,7 @@
 },
 {
 "file": "en-US/browser/browser/contextual-manager.ftl",
-"count": 107
+"count": 106
 },
 {
 "file": "en-US/browser/browser/customizeMode.ftl",
@@ -168,7 +168,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 245
+"count": 232
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -371,6 +371,10 @@
 "count": 25
 },
 {
+"file": "en-US/browser/browser/toolbarDropHandler.ftl",
+"count": 3
+},
+{
 "file": "en-US/browser/browser/touchbar/touchbar.ftl",
 "count": 20
 },
@@ -396,7 +400,7 @@
 },
 {
 "file": "en-US/browser/chrome/browser/browser.properties",
-"count": 187
+"count": 184
 },
 {
 "file": "en-US/browser/chrome/browser/customizableui/customizableWidgets.properties",
@@ -508,7 +512,7 @@
 },
 {
 "file": "en-US/devtools/client/debugger.properties",
-"count": 343
+"count": 339
 },
 {
 "file": "en-US/devtools/client/device.properties",
@@ -1000,7 +1004,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/contentanalysis/contentanalysis.ftl",
-"count": 37
+"count": 38
 },
 {
 "file": "en-US/toolkit/toolkit/downloads/downloadUI.ftl",
