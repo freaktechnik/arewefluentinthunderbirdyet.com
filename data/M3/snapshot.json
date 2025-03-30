@@ -1,6 +1,6 @@
 {
-"date": "2025-03-28",
-"revision": "e44c234b56",
+"date": "2025-03-29",
+"revision": "12536fb3a3",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -756,7 +756,7 @@
 },
 {
 "file": "en-US/netwerk/necko.properties",
-"count": 50
+"count": 51
 },
 {
 "file": "en-US/netwerk/netwerk/necko.ftl",
@@ -1016,7 +1016,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/firefoxlabs/features.ftl",
-"count": 15
+"count": 17
 },
 {
 "file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
