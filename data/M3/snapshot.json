@@ -1,6 +1,6 @@
 {
-"date": "2025-03-30",
-"revision": "5fb48bf505",
+"date": "2025-04-01",
+"revision": "60acd1356b",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -324,7 +324,7 @@
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
-"count": 64
+"count": 63
 },
 {
 "file": "en-US/browser/browser/sidebarMenu.ftl",
@@ -920,7 +920,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutAddons.ftl",
-"count": 217
+"count": 218
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutCompat.ftl",
