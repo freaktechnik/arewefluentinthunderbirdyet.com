@@ -1,6 +1,6 @@
 {
-"date": "2025-04-06",
-"revision": "380b8fd795",
+"date": "2025-04-08",
+"revision": "afa00f3298",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 353
+"count": 351
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -172,7 +172,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
-"count": 173
+"count": 175
 },
 {
 "file": "en-US/browser/browser/originControls.ftl",
@@ -276,7 +276,7 @@
 },
 {
 "file": "en-US/browser/browser/profiles.ftl",
-"count": 60
+"count": 61
 },
 {
 "file": "en-US/browser/browser/protections.ftl",
