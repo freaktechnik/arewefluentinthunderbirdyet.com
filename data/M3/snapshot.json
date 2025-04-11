@@ -1,6 +1,6 @@
 {
-"date": "2025-04-09",
-"revision": "601256c3cc",
+"date": "2025-04-10",
+"revision": "0b08465677",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -312,7 +312,7 @@
 },
 {
 "file": "en-US/browser/browser/search.ftl",
-"count": 22
+"count": 24
 },
 {
 "file": "en-US/browser/browser/setDesktopBackground.ftl",
@@ -324,7 +324,7 @@
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
-"count": 63
+"count": 66
 },
 {
 "file": "en-US/browser/browser/sidebarMenu.ftl",
@@ -676,7 +676,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 290
+"count": 291
 },
 {
 "file": "en-US/dom/chrome/global-strres.properties",
