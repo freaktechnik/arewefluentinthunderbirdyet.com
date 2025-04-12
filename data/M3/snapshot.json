@@ -1,6 +1,6 @@
 {
-"date": "2025-04-10",
-"revision": "0b08465677",
+"date": "2025-04-11",
+"revision": "e92cea05ec",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -128,7 +128,7 @@
 },
 {
 "file": "en-US/browser/browser/featureCallout.ftl",
-"count": 78
+"count": 79
 },
 {
 "file": "en-US/browser/browser/firefoxRelay.ftl",
