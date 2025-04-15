@@ -1,6 +1,6 @@
 {
-"date": "2025-04-13",
-"revision": "4d00b50c42",
+"date": "2025-04-14",
+"revision": "7d16bef227",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -348,7 +348,7 @@
 },
 {
 "file": "en-US/browser/browser/sync.ftl",
-"count": 35
+"count": 38
 },
 {
 "file": "en-US/browser/browser/syncedTabs.ftl",
