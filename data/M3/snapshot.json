@@ -1,6 +1,6 @@
 {
-"date": "2025-04-14",
-"revision": "7d16bef227",
+"date": "2025-04-16",
+"revision": "ea9a8357c3",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -168,7 +168,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 234
+"count": 245
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -508,7 +508,7 @@
 },
 {
 "file": "en-US/devtools/client/debugger.properties",
-"count": 339
+"count": 341
 },
 {
 "file": "en-US/devtools/client/device.properties",
