@@ -1,6 +1,6 @@
 {
-"date": "2025-04-16",
-"revision": "ea9a8357c3",
+"date": "2025-04-17",
+"revision": "0383ce6fe9",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -320,11 +320,11 @@
 },
 {
 "file": "en-US/browser/browser/shopping.ftl",
-"count": 142
+"count": 139
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
-"count": 66
+"count": 70
 },
 {
 "file": "en-US/browser/browser/sidebarMenu.ftl",
