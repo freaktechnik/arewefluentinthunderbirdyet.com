@@ -1,6 +1,6 @@
 {
 "date": "2025-04-17",
-"revision": "0383ce6fe9",
+"revision": "41f77c57c5",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -128,7 +128,7 @@
 },
 {
 "file": "en-US/browser/browser/featureCallout.ftl",
-"count": 79
+"count": 92
 },
 {
 "file": "en-US/browser/browser/firefoxRelay.ftl",
@@ -168,7 +168,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 245
+"count": 250
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
