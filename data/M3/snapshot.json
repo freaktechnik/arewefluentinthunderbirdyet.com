@@ -1,6 +1,6 @@
 {
-"date": "2025-04-17",
-"revision": "41f77c57c5",
+"date": "2025-04-18",
+"revision": "03e0dbb613",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -89,6 +89,10 @@
 {
 "file": "en-US/browser/browser/browserSets.ftl",
 "count": 57
+},
+{
+"file": "en-US/browser/browser/clearDataForSite.ftl",
+"count": 9
 },
 {
 "file": "en-US/browser/browser/colorways.ftl",
@@ -192,7 +196,7 @@
 },
 {
 "file": "en-US/browser/browser/places.ftl",
-"count": 83
+"count": 80
 },
 {
 "file": "en-US/browser/browser/placesPrompts.ftl",
