@@ -9267,5 +9267,14 @@
 },
 "date": "2025-04-18",
 "revision": "03e0dbb613"
+},
+{
+"data": {
+"ftl": 8829,
+"ini": 3,
+"properties": 3979
+},
+"date": "2025-04-19",
+"revision": "1a2af15e02"
 }
 ]
