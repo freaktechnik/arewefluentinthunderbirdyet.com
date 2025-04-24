@@ -1,6 +1,6 @@
 {
-"date": "2025-04-22",
-"revision": "8867630d67",
+"date": "2025-04-23",
+"revision": "67e239d26b",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -64,7 +64,7 @@
 },
 {
 "file": "en-US/browser/browser/appExtensionFields.ftl",
-"count": 11
+"count": 8
 },
 {
 "file": "en-US/browser/browser/appMenuNotifications.ftl",
@@ -93,10 +93,6 @@
 {
 "file": "en-US/browser/browser/clearDataForSite.ftl",
 "count": 9
-},
-{
-"file": "en-US/browser/browser/colorways.ftl",
-"count": 12
 },
 {
 "file": "en-US/browser/browser/confirmationHints.ftl",
@@ -272,7 +268,7 @@
 },
 {
 "file": "en-US/browser/browser/preonboarding.ftl",
-"count": 14
+"count": 17
 },
 {
 "file": "en-US/browser/browser/profile/default-bookmarks.ftl",
@@ -364,7 +360,7 @@
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
-"count": 81
+"count": 83
 },
 {
 "file": "en-US/browser/browser/textRecognition.ftl",
@@ -560,7 +556,7 @@
 },
 {
 "file": "en-US/devtools/client/netmonitor.properties",
-"count": 402
+"count": 401
 },
 {
 "file": "en-US/devtools/client/network-throttling.properties",
@@ -920,7 +916,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutAddons.ftl",
-"count": 218
+"count": 221
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutCompat.ftl",
@@ -1076,7 +1072,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/global/extensions.ftl",
-"count": 29
+"count": 31
 },
 {
 "file": "en-US/toolkit/toolkit/global/handlerDialog.ftl",
