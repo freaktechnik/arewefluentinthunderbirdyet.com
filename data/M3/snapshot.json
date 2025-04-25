@@ -1,6 +1,6 @@
 {
-"date": "2025-04-23",
-"revision": "67e239d26b",
+"date": "2025-04-25",
+"revision": "8797dfc001",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -68,7 +68,7 @@
 },
 {
 "file": "en-US/browser/browser/appMenuNotifications.ftl",
-"count": 13
+"count": 15
 },
 {
 "file": "en-US/browser/browser/appmenu.ftl",
@@ -144,7 +144,7 @@
 },
 {
 "file": "en-US/browser/browser/genai.ftl",
-"count": 73
+"count": 76
 },
 {
 "file": "en-US/browser/browser/identityCredentialNotification.ftl",
