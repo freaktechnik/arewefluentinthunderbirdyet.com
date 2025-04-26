@@ -1,6 +1,6 @@
 {
 "date": "2025-04-25",
-"revision": "8797dfc001",
+"revision": "37cafe98cc",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 356
+"count": 357
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -128,7 +128,7 @@
 },
 {
 "file": "en-US/browser/browser/featureCallout.ftl",
-"count": 92
+"count": 101
 },
 {
 "file": "en-US/browser/browser/firefoxRelay.ftl",
@@ -144,7 +144,7 @@
 },
 {
 "file": "en-US/browser/browser/genai.ftl",
-"count": 76
+"count": 77
 },
 {
 "file": "en-US/browser/browser/identityCredentialNotification.ftl",
