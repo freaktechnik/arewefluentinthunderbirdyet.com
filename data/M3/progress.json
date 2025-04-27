@@ -9312,5 +9312,14 @@
 },
 "date": "2025-04-25",
 "revision": "37cafe98cc"
+},
+{
+"data": {
+"ftl": 8842,
+"ini": 3,
+"properties": 3978
+},
+"date": "2025-04-26",
+"revision": "5500f2a74a"
 }
 ]
