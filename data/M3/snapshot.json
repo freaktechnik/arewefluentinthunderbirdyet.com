@@ -1,6 +1,6 @@
 {
-"date": "2025-04-27",
-"revision": "931de23436",
+"date": "2025-04-28",
+"revision": "3f2a6c648f",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -679,10 +679,6 @@
 "count": 291
 },
 {
-"file": "en-US/dom/chrome/global-strres.properties",
-"count": 1
-},
-{
 "file": "en-US/dom/chrome/layout/HtmlForm.properties",
 "count": 17
 },
@@ -739,16 +735,16 @@
 "count": 1
 },
 {
-"file": "en-US/dom/chrome/xslt/xslt.properties",
-"count": 34
-},
-{
 "file": "en-US/dom/dom/XMLPrettyPrint.ftl",
 "count": 1
 },
 {
 "file": "en-US/dom/dom/media.ftl",
 "count": 2
+},
+{
+"file": "en-US/dom/dom/xslt.ftl",
+"count": 34
 },
 {
 "file": "en-US/netwerk/necko.properties",
@@ -1168,11 +1164,11 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/certError.ftl",
-"count": 91
+"count": 92
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/netError.ftl",
-"count": 95
+"count": 98
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/nsserrors.ftl",
