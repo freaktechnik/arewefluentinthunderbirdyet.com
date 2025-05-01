@@ -1,6 +1,6 @@
 {
-"date": "2025-04-29",
-"revision": "cc231cc166",
+"date": "2025-04-30",
+"revision": "7d73613454",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -592,7 +592,7 @@
 },
 {
 "file": "en-US/devtools/client/styleeditor.properties",
-"count": 14
+"count": 15
 },
 {
 "file": "en-US/devtools/client/toolbox-options.ftl",
