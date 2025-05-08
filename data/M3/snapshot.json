@@ -1,6 +1,6 @@
 {
 "date": "2025-05-07",
-"revision": "b38c904237",
+"revision": "f5c8e7780f",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -312,7 +312,7 @@
 },
 {
 "file": "en-US/browser/browser/search.ftl",
-"count": 24
+"count": 20
 },
 {
 "file": "en-US/browser/browser/setDesktopBackground.ftl",
