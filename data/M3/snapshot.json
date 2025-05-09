@@ -1,6 +1,6 @@
 {
-"date": "2025-05-07",
-"revision": "f5c8e7780f",
+"date": "2025-05-09",
+"revision": "40e72eb17a",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -68,7 +68,7 @@
 },
 {
 "file": "en-US/browser/browser/appMenuNotifications.ftl",
-"count": 15
+"count": 16
 },
 {
 "file": "en-US/browser/browser/appmenu.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 357
+"count": 358
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -312,7 +312,7 @@
 },
 {
 "file": "en-US/browser/browser/search.ftl",
-"count": 20
+"count": 19
 },
 {
 "file": "en-US/browser/browser/setDesktopBackground.ftl",
@@ -356,7 +356,7 @@
 },
 {
 "file": "en-US/browser/browser/tabContextMenu.ftl",
-"count": 32
+"count": 33
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
@@ -676,7 +676,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 291
+"count": 293
 },
 {
 "file": "en-US/dom/chrome/layout/HtmlForm.properties",
@@ -912,7 +912,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutAddons.ftl",
-"count": 221
+"count": 224
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutCompat.ftl",
@@ -1064,11 +1064,11 @@
 },
 {
 "file": "en-US/toolkit/toolkit/global/extensionPermissions.ftl",
-"count": 28
+"count": 52
 },
 {
 "file": "en-US/toolkit/toolkit/global/extensions.ftl",
-"count": 33
+"count": 45
 },
 {
 "file": "en-US/toolkit/toolkit/global/handlerDialog.ftl",
