@@ -1,6 +1,6 @@
 {
-"date": "2025-05-09",
-"revision": "9305025f45",
+"date": "2025-05-10",
+"revision": "7a33d9702c",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -160,7 +160,7 @@
 },
 {
 "file": "en-US/browser/browser/migrationWizard.ftl",
-"count": 106
+"count": 112
 },
 {
 "file": "en-US/browser/browser/newtab/asrouter.ftl",
@@ -320,7 +320,7 @@
 },
 {
 "file": "en-US/browser/browser/shopping.ftl",
-"count": 139
+"count": 115
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
