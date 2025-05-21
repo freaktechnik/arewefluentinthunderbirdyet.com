@@ -1,6 +1,6 @@
 {
-"date": "2025-05-19",
-"revision": "701e09fd09",
+"date": "2025-05-20",
+"revision": "dbef1a2f75",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -72,7 +72,7 @@
 },
 {
 "file": "en-US/browser/browser/appmenu.ftl",
-"count": 115
+"count": 116
 },
 {
 "file": "en-US/browser/browser/backgroundtasks/defaultagent.ftl",
@@ -96,7 +96,7 @@
 },
 {
 "file": "en-US/browser/browser/confirmationHints.ftl",
-"count": 15
+"count": 16
 },
 {
 "file": "en-US/browser/browser/contentCrash.ftl",
@@ -368,7 +368,7 @@
 },
 {
 "file": "en-US/browser/browser/toolbarContextMenu.ftl",
-"count": 25
+"count": 26
 },
 {
 "file": "en-US/browser/browser/toolbarDropHandler.ftl",
