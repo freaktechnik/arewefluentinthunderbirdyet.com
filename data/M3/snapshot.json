@@ -1,6 +1,6 @@
 {
-"date": "2025-05-20",
-"revision": "dbef1a2f75",
+"date": "2025-05-21",
+"revision": "02d33f4bf9",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -56,7 +56,7 @@
 },
 {
 "file": "en-US/browser/browser/addonNotifications.ftl",
-"count": 45
+"count": 46
 },
 {
 "file": "en-US/browser/browser/allTabsMenu.ftl",
@@ -252,7 +252,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 548
+"count": 550
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -312,7 +312,7 @@
 },
 {
 "file": "en-US/browser/browser/search.ftl",
-"count": 19
+"count": 37
 },
 {
 "file": "en-US/browser/browser/setDesktopBackground.ftl",
@@ -912,7 +912,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutAddons.ftl",
-"count": 224
+"count": 230
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutCompat.ftl",
@@ -928,7 +928,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutLogging.ftl",
-"count": 65
+"count": 67
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutMozilla.ftl",
@@ -1164,7 +1164,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/certError.ftl",
-"count": 92
+"count": 107
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/netError.ftl",
