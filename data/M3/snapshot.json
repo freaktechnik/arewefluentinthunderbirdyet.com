@@ -1,6 +1,6 @@
 {
-"date": "2025-05-21",
-"revision": "02d33f4bf9",
+"date": "2025-05-22",
+"revision": "5813af297b",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -68,7 +68,7 @@
 },
 {
 "file": "en-US/browser/browser/appMenuNotifications.ftl",
-"count": 16
+"count": 17
 },
 {
 "file": "en-US/browser/browser/appmenu.ftl",
@@ -292,7 +292,7 @@
 },
 {
 "file": "en-US/browser/browser/reportBrokenSite.ftl",
-"count": 24
+"count": 27
 },
 {
 "file": "en-US/browser/browser/safeMode.ftl",
@@ -317,10 +317,6 @@
 {
 "file": "en-US/browser/browser/setDesktopBackground.ftl",
 "count": 14
-},
-{
-"file": "en-US/browser/browser/shopping.ftl",
-"count": 115
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
@@ -728,7 +724,7 @@
 },
 {
 "file": "en-US/dom/chrome/security/security.properties",
-"count": 85
+"count": 84
 },
 {
 "file": "en-US/dom/chrome/svg/svg.properties",
@@ -900,7 +896,7 @@
 },
 {
 "file": "en-US/toolkit/crashreporter/crashreporter.ftl",
-"count": 34
+"count": 35
 },
 {
 "file": "en-US/toolkit/services/accounts.ftl",
