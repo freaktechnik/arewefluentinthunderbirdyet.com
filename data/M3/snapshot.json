@@ -1,6 +1,6 @@
 {
-"date": "2025-05-22",
-"revision": "5813af297b",
+"date": "2025-05-23",
+"revision": "573fc37363",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -252,7 +252,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 550
+"count": 551
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -908,7 +908,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutAddons.ftl",
-"count": 230
+"count": 240
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutCompat.ftl",
@@ -924,7 +924,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutLogging.ftl",
-"count": 67
+"count": 68
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutMozilla.ftl",
