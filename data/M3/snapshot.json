@@ -1,6 +1,6 @@
 {
-"date": "2025-05-27",
-"revision": "687fdfc58d",
+"date": "2025-05-29",
+"revision": "a589ce1e3f",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -320,7 +320,7 @@
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
-"count": 68
+"count": 69
 },
 {
 "file": "en-US/browser/browser/sidebarMenu.ftl",
@@ -776,7 +776,7 @@
 },
 {
 "file": "en-US/toolkit/chrome/alerts/alert.properties",
-"count": 6
+"count": 4
 },
 {
 "file": "en-US/toolkit/chrome/autoconfig/autoconfig.properties",
