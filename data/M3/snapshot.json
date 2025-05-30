@@ -1,6 +1,6 @@
 {
 "date": "2025-05-29",
-"revision": "a589ce1e3f",
+"revision": "b5ab48b8c3",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -1004,7 +1004,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/firefoxlabs/features.ftl",
-"count": 18
+"count": 20
 },
 {
 "file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
