@@ -1,6 +1,6 @@
 {
-"date": "2025-06-01",
-"revision": "ba7293cb27",
+"date": "2025-06-02",
+"revision": "738f82329b",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 359
+"count": 361
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -200,7 +200,7 @@
 },
 {
 "file": "en-US/browser/browser/policies/policies-descriptions.ftl",
-"count": 111
+"count": 110
 },
 {
 "file": "en-US/browser/browser/preferences/applicationManager.ftl",
@@ -744,7 +744,7 @@
 },
 {
 "file": "en-US/netwerk/necko.properties",
-"count": 51
+"count": 54
 },
 {
 "file": "en-US/netwerk/netwerk/necko.ftl",
