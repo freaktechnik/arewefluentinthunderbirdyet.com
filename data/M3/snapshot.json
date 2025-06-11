@@ -1,6 +1,6 @@
 {
 "date": "2025-06-10",
-"revision": "7f23a6bd66",
+"revision": "240ca3fb44",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -716,7 +716,7 @@
 },
 {
 "file": "en-US/dom/chrome/security/security.properties",
-"count": 84
+"count": 86
 },
 {
 "file": "en-US/dom/chrome/svg/svg.properties",
