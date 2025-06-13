@@ -1,6 +1,6 @@
 {
-"date": "2025-06-11",
-"revision": "56ca6fb492",
+"date": "2025-06-12",
+"revision": "89b764f878",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -268,7 +268,7 @@
 },
 {
 "file": "en-US/browser/browser/profiles.ftl",
-"count": 64
+"count": 69
 },
 {
 "file": "en-US/browser/browser/protections.ftl",
@@ -496,7 +496,7 @@
 },
 {
 "file": "en-US/devtools/client/debugger.properties",
-"count": 341
+"count": 345
 },
 {
 "file": "en-US/devtools/client/device.properties",
@@ -944,7 +944,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutSupport.ftl",
-"count": 309
+"count": 311
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutTelemetry.ftl",
