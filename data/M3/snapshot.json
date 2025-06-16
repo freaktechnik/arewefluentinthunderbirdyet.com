@@ -1,6 +1,6 @@
 {
-"date": "2025-06-14",
-"revision": "a87741c49c",
+"date": "2025-06-15",
+"revision": "b4412cedce",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -572,7 +572,7 @@
 },
 {
 "file": "en-US/devtools/client/storage.ftl",
-"count": 39
+"count": 41
 },
 {
 "file": "en-US/devtools/client/styleeditor.ftl",
