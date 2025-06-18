@@ -1,6 +1,6 @@
 {
-"date": "2025-06-16",
-"revision": "fdb34ddfe3",
+"date": "2025-06-17",
+"revision": "c7212ae0f8",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -100,7 +100,7 @@
 },
 {
 "file": "en-US/browser/browser/contextual-manager.ftl",
-"count": 107
+"count": 108
 },
 {
 "file": "en-US/browser/browser/customizeMode.ftl",
@@ -268,7 +268,7 @@
 },
 {
 "file": "en-US/browser/browser/profiles.ftl",
-"count": 64
+"count": 69
 },
 {
 "file": "en-US/browser/browser/protections.ftl",
@@ -396,7 +396,7 @@
 },
 {
 "file": "en-US/browser/chrome/browser/downloads/downloads.properties",
-"count": 26
+"count": 33
 },
 {
 "file": "en-US/browser/chrome/browser/feeds/subscribe.properties",
@@ -984,7 +984,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/contentanalysis/contentanalysis.ftl",
-"count": 38
+"count": 41
 },
 {
 "file": "en-US/toolkit/toolkit/downloads/downloadUI.ftl",
