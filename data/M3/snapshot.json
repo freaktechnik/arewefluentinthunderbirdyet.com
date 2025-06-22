@@ -1,6 +1,6 @@
 {
-"date": "2025-06-20",
-"revision": "96296f9d65",
+"date": "2025-06-21",
+"revision": "10ecded0ef",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -140,7 +140,7 @@
 },
 {
 "file": "en-US/browser/browser/genai.ftl",
-"count": 85
+"count": 91
 },
 {
 "file": "en-US/browser/browser/identityCredentialNotification.ftl",
