@@ -1,6 +1,6 @@
 {
-"date": "2025-06-23",
-"revision": "edcefd70b7",
+"date": "2025-06-24",
+"revision": "c25dbe453f",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -68,7 +68,7 @@
 },
 {
 "file": "en-US/browser/browser/appmenu.ftl",
-"count": 116
+"count": 118
 },
 {
 "file": "en-US/browser/browser/backgroundtasks/defaultagent.ftl",
@@ -100,7 +100,7 @@
 },
 {
 "file": "en-US/browser/browser/contextual-manager.ftl",
-"count": 109
+"count": 111
 },
 {
 "file": "en-US/browser/browser/customizeMode.ftl",
@@ -164,7 +164,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 254
+"count": 256
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -552,7 +552,7 @@
 },
 {
 "file": "en-US/devtools/client/perftools.ftl",
-"count": 73
+"count": 75
 },
 {
 "file": "en-US/devtools/client/responsive.properties",
@@ -916,7 +916,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutLogging.ftl",
-"count": 68
+"count": 70
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutMozilla.ftl",
