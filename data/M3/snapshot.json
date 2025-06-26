@@ -1,6 +1,6 @@
 {
-"date": "2025-06-24",
-"revision": "c25dbe453f",
+"date": "2025-06-26",
+"revision": "de87ab8fb7",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -76,7 +76,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 364
+"count": 360
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -396,7 +396,7 @@
 },
 {
 "file": "en-US/browser/chrome/browser/downloads/downloads.properties",
-"count": 33
+"count": 37
 },
 {
 "file": "en-US/browser/chrome/browser/feeds/subscribe.properties",
