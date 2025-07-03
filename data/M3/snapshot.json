@@ -1,6 +1,6 @@
 {
-"date": "2025-07-01",
-"revision": "311230215f",
+"date": "2025-07-03",
+"revision": "1a050839a7",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -152,7 +152,7 @@
 },
 {
 "file": "en-US/browser/browser/menubar.ftl",
-"count": 98
+"count": 99
 },
 {
 "file": "en-US/browser/browser/migrationWizard.ftl",
@@ -576,7 +576,7 @@
 },
 {
 "file": "en-US/devtools/client/styleeditor.ftl",
-"count": 19
+"count": 20
 },
 {
 "file": "en-US/devtools/client/styleeditor.properties",
