@@ -1,6 +1,6 @@
 {
-"date": "2025-07-03",
-"revision": "1a050839a7",
+"date": "2025-07-04",
+"revision": "1b598baff8",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -128,7 +128,7 @@
 },
 {
 "file": "en-US/browser/browser/firefoxRelay.ftl",
-"count": 32
+"count": 33
 },
 {
 "file": "en-US/browser/browser/firefoxView.ftl",
@@ -349,6 +349,10 @@
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
 "count": 84
+},
+{
+"file": "en-US/browser/browser/termsofuse.ftl",
+"count": 3
 },
 {
 "file": "en-US/browser/browser/textRecognition.ftl",
