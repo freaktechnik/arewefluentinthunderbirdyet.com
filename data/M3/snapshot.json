@@ -1,6 +1,6 @@
 {
-"date": "2025-07-04",
-"revision": "a1f4cb9fc0",
+"date": "2025-07-05",
+"revision": "f3c41d3c5b",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -720,7 +720,7 @@
 },
 {
 "file": "en-US/dom/chrome/security/security.properties",
-"count": 86
+"count": 88
 },
 {
 "file": "en-US/dom/chrome/svg/svg.properties",
