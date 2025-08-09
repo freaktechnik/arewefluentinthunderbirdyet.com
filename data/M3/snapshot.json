@@ -1,6 +1,6 @@
 {
-"date": "2025-08-05",
-"revision": "52d63682d12d",
+"date": "2025-08-06",
+"revision": "96b499af1fe4",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -356,7 +356,7 @@
 },
 {
 "file": "en-US/browser/browser/termsofuse.ftl",
-"count": 3
+"count": 5
 },
 {
 "file": "en-US/browser/browser/textRecognition.ftl",
