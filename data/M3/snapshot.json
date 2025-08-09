@@ -1,6 +1,6 @@
 {
-"date": "2025-07-22",
-"revision": "64bf739d08ec",
+"date": "2025-07-23",
+"revision": "dc55952ca277",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -76,7 +76,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 413
+"count": 414
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -636,7 +636,7 @@
 },
 {
 "file": "en-US/devtools/shared/styleinspector.properties",
-"count": 65
+"count": 66
 },
 {
 "file": "en-US/devtools/shared/webconsole-commands.ftl",
