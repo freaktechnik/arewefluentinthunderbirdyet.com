@@ -26,8 +26,8 @@ const State = {
     },
     {
       code: "M3",
-      name: "mozilla-central",
-      title: "Strings available in mozilla-central",
+      name: "firefox",
+      title: "Strings available in Firefox",
       categories: ["ini", "inc", "dtd", "properties", "ftl"],
       skipInDashboard: ["ini", "inc"],
       categoriesBar: [2, 4],
