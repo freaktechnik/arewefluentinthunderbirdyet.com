@@ -1,6 +1,6 @@
 {
-"date": "2025-07-30",
-"revision": "7d8e5d6bf45a",
+"date": "2025-07-31",
+"revision": "94883eac054b",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -312,7 +312,7 @@
 },
 {
 "file": "en-US/browser/browser/sidebar.ftl",
-"count": 73
+"count": 74
 },
 {
 "file": "en-US/browser/browser/sidebarMenu.ftl",
