@@ -1,6 +1,6 @@
 {
-"date": "2025-07-29",
-"revision": "36c7f14ca494",
+"date": "2025-07-30",
+"revision": "7d8e5d6bf45a",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -100,7 +100,7 @@
 },
 {
 "file": "en-US/browser/browser/contextual-manager.ftl",
-"count": 112
+"count": 115
 },
 {
 "file": "en-US/browser/browser/customizeMode.ftl",
@@ -724,7 +724,7 @@
 },
 {
 "file": "en-US/dom/chrome/security/security.properties",
-"count": 88
+"count": 89
 },
 {
 "file": "en-US/dom/chrome/svg/svg.properties",
@@ -1004,7 +1004,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/firefoxlabs/features.ftl",
-"count": 20
+"count": 22
 },
 {
 "file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
@@ -1188,7 +1188,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/pdfviewer/viewer.ftl",
-"count": 282
+"count": 298
 },
 {
 "file": "en-US/toolkit/toolkit/pictureinpicture/pictureinpicture.ftl",
