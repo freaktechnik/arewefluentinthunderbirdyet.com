@@ -1,6 +1,6 @@
 {
-"date": "2025-07-16",
-"revision": "a018211997a6",
+"date": "2025-07-17",
+"revision": "0215dc3a1937",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -500,7 +500,7 @@
 },
 {
 "file": "en-US/devtools/client/debugger.properties",
-"count": 345
+"count": 347
 },
 {
 "file": "en-US/devtools/client/device.properties",
