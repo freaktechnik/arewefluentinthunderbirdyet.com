@@ -1,6 +1,6 @@
 {
-"date": "2025-08-01",
-"revision": "5859f8b6c964",
+"date": "2025-08-02",
+"revision": "c978036a73ad",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -52,7 +52,7 @@
 },
 {
 "file": "en-US/browser/browser/addonNotifications.ftl",
-"count": 46
+"count": 48
 },
 {
 "file": "en-US/browser/browser/allTabsMenu.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
-"count": 100
+"count": 101
 },
 {
 "file": "en-US/browser/browser/browserSets.ftl",
@@ -160,7 +160,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/asrouter.ftl",
-"count": 125
+"count": 130
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
@@ -527,8 +527,12 @@
 "count": 2
 },
 {
+"file": "en-US/devtools/client/inspector.ftl",
+"count": 5
+},
+{
 "file": "en-US/devtools/client/inspector.properties",
-"count": 139
+"count": 134
 },
 {
 "file": "en-US/devtools/client/jsonview.properties",
