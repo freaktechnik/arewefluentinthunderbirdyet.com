@@ -10014,5 +10014,14 @@
 },
 "date": "2025-07-23",
 "revision": "dc55952ca277"
+},
+{
+"data": {
+"ftl": 9048,
+"ini": 3,
+"properties": 3966
+},
+"date": "2025-07-24",
+"revision": "588d14febde3"
 }
 ]
