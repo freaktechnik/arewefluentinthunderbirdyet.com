@@ -1,6 +1,6 @@
 {
-"date": "2025-07-18",
-"revision": "5aec717f79da",
+"date": "2025-07-19",
+"revision": "93a791b7019b",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -76,7 +76,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 412
+"count": 413
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -1164,7 +1164,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/certError.ftl",
-"count": 107
+"count": 104
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/netError.ftl",
