@@ -1,6 +1,6 @@
 {
-"date": "2025-07-17",
-"revision": "0215dc3a1937",
+"date": "2025-07-18",
+"revision": "5aec717f79da",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -76,7 +76,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 361
+"count": 412
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -124,7 +124,7 @@
 },
 {
 "file": "en-US/browser/browser/featureCallout.ftl",
-"count": 112
+"count": 129
 },
 {
 "file": "en-US/browser/browser/firefoxRelay.ftl",
@@ -160,7 +160,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/asrouter.ftl",
-"count": 118
+"count": 125
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
@@ -348,7 +348,7 @@
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
-"count": 84
+"count": 88
 },
 {
 "file": "en-US/browser/browser/termsofuse.ftl",
@@ -668,7 +668,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 294
+"count": 292
 },
 {
 "file": "en-US/dom/chrome/layout/HtmlForm.properties",
