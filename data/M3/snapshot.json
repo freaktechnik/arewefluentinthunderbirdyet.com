@@ -1,6 +1,6 @@
 {
-"date": "2025-08-11",
-"revision": "81c9bd5844",
+"date": "2025-08-12",
+"revision": "f5475a7d5f",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -536,7 +536,7 @@
 },
 {
 "file": "en-US/devtools/client/inspector.properties",
-"count": 134
+"count": 135
 },
 {
 "file": "en-US/devtools/client/jsonview.properties",
@@ -1140,7 +1140,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/global/textActions.ftl",
-"count": 27
+"count": 28
 },
 {
 "file": "en-US/toolkit/toolkit/global/tree.ftl",
