@@ -1,6 +1,6 @@
 {
-"date": "2025-08-12",
-"revision": "f5475a7d5f",
+"date": "2025-08-13",
+"revision": "16b54290d0",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -76,7 +76,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 427
+"count": 432
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -160,11 +160,11 @@
 },
 {
 "file": "en-US/browser/browser/newtab/asrouter.ftl",
-"count": 131
+"count": 154
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 303
+"count": 305
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -377,6 +377,10 @@
 {
 "file": "en-US/browser/browser/translations.ftl",
 "count": 80
+},
+{
+"file": "en-US/browser/browser/unexpectedScript.ftl",
+"count": 14
 },
 {
 "file": "en-US/browser/browser/unifiedExtensions.ftl",
@@ -1012,7 +1016,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/firefoxlabs/features.ftl",
-"count": 22
+"count": 26
 },
 {
 "file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
