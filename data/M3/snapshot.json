@@ -1,6 +1,6 @@
 {
-"date": "2025-08-18",
-"revision": "60308bc379",
+"date": "2025-08-19",
+"revision": "8e5b066167",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -164,7 +164,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 300
+"count": 298
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -244,7 +244,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 562
+"count": 563
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -1016,7 +1016,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/firefoxlabs/features.ftl",
-"count": 26
+"count": 27
 },
 {
 "file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
