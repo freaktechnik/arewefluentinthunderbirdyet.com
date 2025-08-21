@@ -1,6 +1,6 @@
 {
-"date": "2025-08-19",
-"revision": "8e5b066167",
+"date": "2025-08-20",
+"revision": "d683b2b2ed",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -160,11 +160,11 @@
 },
 {
 "file": "en-US/browser/browser/newtab/asrouter.ftl",
-"count": 154
+"count": 157
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 298
+"count": 300
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -244,7 +244,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 563
+"count": 567
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
