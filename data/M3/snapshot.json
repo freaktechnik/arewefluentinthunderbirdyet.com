@@ -1,6 +1,6 @@
 {
-"date": "2025-08-20",
-"revision": "d683b2b2ed",
+"date": "2025-08-21",
+"revision": "2560b9e464",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -268,7 +268,7 @@
 },
 {
 "file": "en-US/browser/browser/profiles.ftl",
-"count": 120
+"count": 123
 },
 {
 "file": "en-US/browser/browser/protections.ftl",
@@ -540,7 +540,7 @@
 },
 {
 "file": "en-US/devtools/client/inspector.properties",
-"count": 135
+"count": 136
 },
 {
 "file": "en-US/devtools/client/jsonview.properties",
@@ -652,7 +652,7 @@
 },
 {
 "file": "en-US/devtools/shared/styleinspector.properties",
-"count": 66
+"count": 67
 },
 {
 "file": "en-US/devtools/shared/webconsole-commands.ftl",
@@ -928,7 +928,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutGlean.ftl",
-"count": 43
+"count": 59
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutHttpsOnlyError.ftl",
