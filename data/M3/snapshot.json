@@ -1,6 +1,6 @@
 {
 "date": "2025-09-03",
-"revision": "8f85432344",
+"revision": "a96ff7db0b",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -268,7 +268,7 @@
 },
 {
 "file": "en-US/browser/browser/profiles.ftl",
-"count": 133
+"count": 161
 },
 {
 "file": "en-US/browser/browser/protections.ftl",
@@ -392,7 +392,7 @@
 },
 {
 "file": "en-US/browser/browser/webauthnDialog.ftl",
-"count": 9
+"count": 22
 },
 {
 "file": "en-US/browser/browser/webrtc-preview.ftl",
@@ -404,7 +404,7 @@
 },
 {
 "file": "en-US/browser/chrome/browser/browser.properties",
-"count": 196
+"count": 180
 },
 {
 "file": "en-US/browser/chrome/browser/customizableui/customizableWidgets.properties",
