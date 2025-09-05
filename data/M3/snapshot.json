@@ -1,6 +1,6 @@
 {
-"date": "2025-09-03",
-"revision": "a96ff7db0b",
+"date": "2025-09-05",
+"revision": "4ad97dd0fc",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -684,7 +684,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 291
+"count": 290
 },
 {
 "file": "en-US/dom/chrome/layout/HtmlForm.properties",
@@ -936,7 +936,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutLogging.ftl",
-"count": 73
+"count": 82
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutMozilla.ftl",
