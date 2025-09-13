@@ -1,6 +1,6 @@
 {
-"date": "2025-09-11",
-"revision": "d77b410bd9",
+"date": "2025-09-12",
+"revision": "1c04df7a2c",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -196,7 +196,7 @@
 },
 {
 "file": "en-US/browser/browser/policies/policies-descriptions.ftl",
-"count": 111
+"count": 112
 },
 {
 "file": "en-US/browser/browser/preferences/applicationManager.ftl",
@@ -352,7 +352,7 @@
 },
 {
 "file": "en-US/browser/browser/taskbartabs.ftl",
-"count": 8
+"count": 12
 },
 {
 "file": "en-US/browser/browser/termsofuse.ftl",
