@@ -1,6 +1,6 @@
 {
-"date": "2025-09-16",
-"revision": "ff87356d65",
+"date": "2025-09-17",
+"revision": "d5770dd3a8",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -1200,7 +1200,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/pdfviewer/viewer.ftl",
-"count": 298
+"count": 305
 },
 {
 "file": "en-US/toolkit/toolkit/pictureinpicture/pictureinpicture.ftl",
