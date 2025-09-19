@@ -1,6 +1,6 @@
 {
-"date": "2025-09-17",
-"revision": "d5770dd3a8",
+"date": "2025-09-18",
+"revision": "bd4c9573f3",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -124,7 +124,7 @@
 },
 {
 "file": "en-US/browser/browser/featureCallout.ftl",
-"count": 132
+"count": 142
 },
 {
 "file": "en-US/browser/browser/firefoxRelay.ftl",
@@ -160,7 +160,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/asrouter.ftl",
-"count": 157
+"count": 158
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
@@ -928,7 +928,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutGlean.ftl",
-"count": 59
+"count": 60
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutHttpsOnlyError.ftl",
