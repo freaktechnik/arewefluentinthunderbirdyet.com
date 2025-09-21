@@ -1,6 +1,6 @@
 {
-"date": "2025-09-19",
-"revision": "5696c25177",
+"date": "2025-09-20",
+"revision": "2e80fba3b3",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -244,7 +244,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 556
+"count": 554
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -684,7 +684,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 283
+"count": 282
 },
 {
 "file": "en-US/dom/chrome/layout/HtmlForm.properties",
@@ -1228,7 +1228,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/updates/elevation.ftl",
-"count": 10
+"count": 11
 },
 {
 "file": "en-US/toolkit/toolkit/updates/history.ftl",
