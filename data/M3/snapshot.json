@@ -1,6 +1,6 @@
 {
-"date": "2025-09-26",
-"revision": "2935a97289",
+"date": "2025-09-27",
+"revision": "43a4197707",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -1095,6 +1095,10 @@
 "count": 1
 },
 {
+"file": "en-US/toolkit/toolkit/global/mozButton.ftl",
+"count": 1
+},
+{
 "file": "en-US/toolkit/toolkit/global/mozFiveStar.ftl",
 "count": 2
 },
@@ -1200,7 +1204,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/pdfviewer/viewer.ftl",
-"count": 305
+"count": 307
 },
 {
 "file": "en-US/toolkit/toolkit/pictureinpicture/pictureinpicture.ftl",
