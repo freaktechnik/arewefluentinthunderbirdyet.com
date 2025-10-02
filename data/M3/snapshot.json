@@ -1,6 +1,6 @@
 {
 "date": "2025-10-01",
-"revision": "d285a4fb14",
+"revision": "6f3037f71b",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -284,7 +284,7 @@
 },
 {
 "file": "en-US/browser/browser/reportBrokenSite.ftl",
-"count": 27
+"count": 28
 },
 {
 "file": "en-US/browser/browser/safeMode.ftl",
@@ -348,7 +348,7 @@
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
-"count": 88
+"count": 89
 },
 {
 "file": "en-US/browser/browser/taskbartabs.ftl",
@@ -684,7 +684,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 282
+"count": 283
 },
 {
 "file": "en-US/dom/chrome/layout/HtmlForm.properties",
