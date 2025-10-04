@@ -1,6 +1,6 @@
 {
-"date": "2025-10-02",
-"revision": "9050781f98",
+"date": "2025-10-03",
+"revision": "d061baf359",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -268,7 +268,7 @@
 },
 {
 "file": "en-US/browser/browser/profiles.ftl",
-"count": 164
+"count": 167
 },
 {
 "file": "en-US/browser/browser/protections.ftl",
@@ -1080,7 +1080,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/global/handlerDialog.ftl",
-"count": 26
+"count": 31
 },
 {
 "file": "en-US/toolkit/toolkit/global/htmlForm.ftl",
