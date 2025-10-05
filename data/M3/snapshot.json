@@ -1,6 +1,6 @@
 {
-"date": "2025-10-03",
-"revision": "d061baf359",
+"date": "2025-10-04",
+"revision": "c264672892",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -928,7 +928,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutGlean.ftl",
-"count": 63
+"count": 65
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutHttpsOnlyError.ftl",
