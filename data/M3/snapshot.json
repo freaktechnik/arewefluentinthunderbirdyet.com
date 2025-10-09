@@ -1,6 +1,6 @@
 {
-"date": "2025-10-07",
-"revision": "054e2b0727",
+"date": "2025-10-08",
+"revision": "b30a9b7348",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -124,7 +124,7 @@
 },
 {
 "file": "en-US/browser/browser/featureCallout.ftl",
-"count": 138
+"count": 140
 },
 {
 "file": "en-US/browser/browser/firefoxRelay.ftl",
@@ -168,7 +168,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
-"count": 236
+"count": 237
 },
 {
 "file": "en-US/browser/browser/originControls.ftl",
@@ -200,7 +200,7 @@
 },
 {
 "file": "en-US/browser/browser/policies/policies-descriptions.ftl",
-"count": 113
+"count": 114
 },
 {
 "file": "en-US/browser/browser/preferences/applicationManager.ftl",
@@ -248,7 +248,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 558
+"count": 559
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -288,7 +288,7 @@
 },
 {
 "file": "en-US/browser/browser/reportBrokenSite.ftl",
-"count": 30
+"count": 31
 },
 {
 "file": "en-US/browser/browser/safeMode.ftl",
@@ -352,7 +352,7 @@
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
-"count": 89
+"count": 92
 },
 {
 "file": "en-US/browser/browser/taskbartabs.ftl",
