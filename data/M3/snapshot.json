@@ -1,6 +1,6 @@
 {
-"date": "2025-10-09",
-"revision": "ab5bf24017",
+"date": "2025-10-10",
+"revision": "b93eb9fea9",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -73,6 +73,10 @@
 {
 "file": "en-US/browser/browser/backgroundtasks/defaultagent.ftl",
 "count": 5
+},
+{
+"file": "en-US/browser/browser/backupSettings.ftl",
+"count": 105
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
