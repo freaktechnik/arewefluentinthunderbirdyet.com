@@ -1,6 +1,6 @@
 {
-"date": "2025-10-12",
-"revision": "91e6069b9c",
+"date": "2025-10-14",
+"revision": "77c24e7f8a",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -168,7 +168,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 310
+"count": 309
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -356,7 +356,7 @@
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
-"count": 92
+"count": 96
 },
 {
 "file": "en-US/browser/browser/taskbartabs.ftl",
