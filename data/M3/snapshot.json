@@ -1,6 +1,6 @@
 {
 "date": "2025-10-14",
-"revision": "77c24e7f8a",
+"revision": "6991721710",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -356,7 +356,7 @@
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
-"count": 96
+"count": 92
 },
 {
 "file": "en-US/browser/browser/taskbartabs.ftl",
@@ -692,7 +692,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 283
+"count": 285
 },
 {
 "file": "en-US/dom/chrome/layout/HtmlForm.properties",
