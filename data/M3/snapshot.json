@@ -1,6 +1,6 @@
 {
-"date": "2025-10-16",
-"revision": "e2e9153904",
+"date": "2025-10-17",
+"revision": "27689c413b",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -276,7 +276,7 @@
 },
 {
 "file": "en-US/browser/browser/profiles.ftl",
-"count": 167
+"count": 169
 },
 {
 "file": "en-US/browser/browser/protections.ftl",
@@ -356,7 +356,7 @@
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
-"count": 92
+"count": 96
 },
 {
 "file": "en-US/browser/browser/taskbartabs.ftl",
@@ -520,7 +520,7 @@
 },
 {
 "file": "en-US/devtools/client/debugger.properties",
-"count": 347
+"count": 349
 },
 {
 "file": "en-US/devtools/client/device.properties",
@@ -692,7 +692,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 285
+"count": 281
 },
 {
 "file": "en-US/dom/chrome/layout/HtmlForm.properties",
@@ -936,7 +936,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutGlean.ftl",
-"count": 65
+"count": 84
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutHttpsOnlyError.ftl",
