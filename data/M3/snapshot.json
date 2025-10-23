@@ -1,6 +1,6 @@
 {
-"date": "2025-10-21",
-"revision": "a5316cedc6",
+"date": "2025-10-22",
+"revision": "cf779e134b",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -996,7 +996,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/certviewer.ftl",
-"count": 81
+"count": 82
 },
 {
 "file": "en-US/toolkit/toolkit/about/config.ftl",
