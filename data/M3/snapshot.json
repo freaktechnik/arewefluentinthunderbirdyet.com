@@ -1,6 +1,6 @@
 {
-"date": "2025-10-24",
-"revision": "16707ce1df",
+"date": "2025-10-26",
+"revision": "643d732886",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -68,7 +68,7 @@
 },
 {
 "file": "en-US/browser/browser/appmenu.ftl",
-"count": 119
+"count": 120
 },
 {
 "file": "en-US/browser/browser/backgroundtasks/defaultagent.ftl",
@@ -76,7 +76,7 @@
 },
 {
 "file": "en-US/browser/browser/backupSettings.ftl",
-"count": 108
+"count": 106
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
@@ -364,7 +364,7 @@
 },
 {
 "file": "en-US/browser/browser/termsofuse.ftl",
-"count": 5
+"count": 6
 },
 {
 "file": "en-US/browser/browser/textRecognition.ftl",
@@ -1071,12 +1071,12 @@
 "count": 6
 },
 {
-"file": "en-US/toolkit/toolkit/global/datepicker.ftl",
-"count": 11
-},
-{
 "file": "en-US/toolkit/toolkit/global/datetimebox.ftl",
 "count": 13
+},
+{
+"file": "en-US/toolkit/toolkit/global/datetimepicker.ftl",
+"count": 22
 },
 {
 "file": "en-US/toolkit/toolkit/global/extensionPermissions.ftl",
