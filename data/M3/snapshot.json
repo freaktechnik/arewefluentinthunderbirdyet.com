@@ -1,6 +1,6 @@
 {
-"date": "2025-10-29",
-"revision": "0b834e0ecd",
+"date": "2025-10-30",
+"revision": "50445a0ee5",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -144,7 +144,7 @@
 },
 {
 "file": "en-US/browser/browser/genai.ftl",
-"count": 83
+"count": 85
 },
 {
 "file": "en-US/browser/browser/identityCredentialNotification.ftl",
@@ -164,7 +164,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/asrouter.ftl",
-"count": 164
+"count": 166
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
@@ -252,7 +252,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 579
+"count": 583
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -412,7 +412,7 @@
 },
 {
 "file": "en-US/browser/chrome/browser/browser.properties",
-"count": 180
+"count": 179
 },
 {
 "file": "en-US/browser/chrome/browser/customizableui/customizableWidgets.properties",
@@ -655,10 +655,6 @@
 "count": 25
 },
 {
-"file": "en-US/devtools/shared/shared.properties",
-"count": 1
-},
-{
 "file": "en-US/devtools/shared/styleinspector.properties",
 "count": 68
 },
@@ -803,24 +799,12 @@
 "count": 6
 },
 {
-"file": "en-US/toolkit/chrome/global-platform/mac/intl.properties",
-"count": 1
-},
-{
 "file": "en-US/toolkit/chrome/global-platform/mac/platformKeys.properties",
 "count": 6
 },
 {
-"file": "en-US/toolkit/chrome/global-platform/unix/intl.properties",
-"count": 1
-},
-{
 "file": "en-US/toolkit/chrome/global-platform/unix/platformKeys.properties",
 "count": 6
-},
-{
-"file": "en-US/toolkit/chrome/global-platform/win/intl.properties",
-"count": 1
 },
 {
 "file": "en-US/toolkit/chrome/global-platform/win/platformKeys.properties",
@@ -857,10 +841,6 @@
 {
 "file": "en-US/toolkit/chrome/global/filepicker.properties",
 "count": 12
-},
-{
-"file": "en-US/toolkit/chrome/global/intl.properties",
-"count": 5
 },
 {
 "file": "en-US/toolkit/chrome/global/keys.properties",
@@ -1004,7 +984,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/url-classifier.ftl",
-"count": 49
+"count": 50
 },
 {
 "file": "en-US/toolkit/toolkit/branding/brandings.ftl",
@@ -1119,6 +1099,10 @@
 "count": 5
 },
 {
+"file": "en-US/toolkit/toolkit/global/mozPageHeader.ftl",
+"count": 1
+},
+{
 "file": "en-US/toolkit/toolkit/global/mozSupportLink.ftl",
 "count": 1
 },
@@ -1192,7 +1176,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/certError.ftl",
-"count": 104
+"count": 107
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/netError.ftl",
