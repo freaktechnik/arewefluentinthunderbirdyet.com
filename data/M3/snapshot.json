@@ -1,6 +1,6 @@
 {
-"date": "2025-10-31",
-"revision": "40933b1623",
+"date": "2025-11-01",
+"revision": "844aa58663",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -600,7 +600,7 @@
 },
 {
 "file": "en-US/devtools/client/storage.ftl",
-"count": 41
+"count": 42
 },
 {
 "file": "en-US/devtools/client/styleeditor.ftl",
@@ -760,7 +760,7 @@
 },
 {
 "file": "en-US/netwerk/necko.properties",
-"count": 54
+"count": 56
 },
 {
 "file": "en-US/netwerk/netwerk/necko.ftl",
@@ -908,7 +908,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutAddons.ftl",
-"count": 244
+"count": 245
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutCompat.ftl",
