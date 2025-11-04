@@ -1,6 +1,6 @@
 {
-"date": "2025-11-02",
-"revision": "1a8c62b862",
+"date": "2025-11-03",
+"revision": "f6385e6644",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -168,7 +168,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 309
+"count": 308
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -1000,7 +1000,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/downloads/downloadUtils.ftl",
-"count": 22
+"count": 20
 },
 {
 "file": "en-US/toolkit/toolkit/firefoxlabs/features.ftl",
@@ -1028,7 +1028,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/global/browser-utils.ftl",
-"count": 2
+"count": 4
 },
 {
 "file": "en-US/toolkit/toolkit/global/commonDialog.ftl",
