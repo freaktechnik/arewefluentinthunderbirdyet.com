@@ -1,6 +1,6 @@
 {
-"date": "2025-11-12",
-"revision": "cf44690593",
+"date": "2025-11-13",
+"revision": "7690c1665f",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -109,6 +109,10 @@
 {
 "file": "en-US/browser/browser/customizeMode.ftl",
 "count": 16
+},
+{
+"file": "en-US/browser/browser/customkeys.ftl",
+"count": 31
 },
 {
 "file": "en-US/browser/browser/defaultBrowserNotification.ftl",
@@ -252,7 +256,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 585
+"count": 584
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
