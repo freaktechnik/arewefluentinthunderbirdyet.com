@@ -1,6 +1,6 @@
 {
-"date": "2025-11-13",
-"revision": "c82adde571",
+"date": "2025-11-14",
+"revision": "24a9d09796",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -256,7 +256,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 584
+"count": 586
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -556,7 +556,7 @@
 },
 {
 "file": "en-US/devtools/client/jsonview.properties",
-"count": 12
+"count": 14
 },
 {
 "file": "en-US/devtools/client/layout.properties",
