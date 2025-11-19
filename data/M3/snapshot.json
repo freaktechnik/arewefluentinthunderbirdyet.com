@@ -1,6 +1,6 @@
 {
-"date": "2025-11-17",
-"revision": "d88792ab9d",
+"date": "2025-11-19",
+"revision": "f90004e7e9",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -68,7 +68,7 @@
 },
 {
 "file": "en-US/browser/browser/appmenu.ftl",
-"count": 120
+"count": 122
 },
 {
 "file": "en-US/browser/browser/backgroundtasks/defaultagent.ftl",
@@ -256,7 +256,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 576
+"count": 587
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -584,7 +584,7 @@
 },
 {
 "file": "en-US/devtools/client/perftools.ftl",
-"count": 75
+"count": 77
 },
 {
 "file": "en-US/devtools/client/responsive.properties",
@@ -692,7 +692,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 284
+"count": 285
 },
 {
 "file": "en-US/dom/chrome/layout/HtmlForm.properties",
