@@ -1,6 +1,6 @@
 {
-"date": "2025-11-25",
-"revision": "1c9d86edc5",
+"date": "2025-11-26",
+"revision": "f81fae7890",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -296,7 +296,7 @@
 },
 {
 "file": "en-US/browser/browser/reportBrokenSite.ftl",
-"count": 31
+"count": 34
 },
 {
 "file": "en-US/browser/browser/safeMode.ftl",
@@ -692,7 +692,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 285
+"count": 286
 },
 {
 "file": "en-US/dom/chrome/layout/HtmlForm.properties",
@@ -764,7 +764,7 @@
 },
 {
 "file": "en-US/netwerk/necko.properties",
-"count": 56
+"count": 54
 },
 {
 "file": "en-US/netwerk/netwerk/necko.ftl",
