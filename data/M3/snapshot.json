@@ -1,6 +1,6 @@
 {
-"date": "2025-12-01",
-"revision": "6f57fc9216",
+"date": "2025-12-03",
+"revision": "5a5b374198",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -132,7 +132,7 @@
 },
 {
 "file": "en-US/browser/browser/featureCallout.ftl",
-"count": 140
+"count": 143
 },
 {
 "file": "en-US/browser/browser/firefoxRelay.ftl",
@@ -256,7 +256,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 603
+"count": 604
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -296,7 +296,7 @@
 },
 {
 "file": "en-US/browser/browser/reportBrokenSite.ftl",
-"count": 34
+"count": 33
 },
 {
 "file": "en-US/browser/browser/safeMode.ftl",
@@ -1008,7 +1008,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/firefoxlabs/features.ftl",
-"count": 29
+"count": 27
 },
 {
 "file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
@@ -1184,7 +1184,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/netError.ftl",
-"count": 101
+"count": 104
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/nsserrors.ftl",
