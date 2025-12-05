@@ -1,6 +1,6 @@
 {
-"date": "2025-12-03",
-"revision": "8bc7f4beac",
+"date": "2025-12-04",
+"revision": "a495db9a78",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 439
+"count": 440
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -256,7 +256,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 604
+"count": 606
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -304,7 +304,7 @@
 },
 {
 "file": "en-US/browser/browser/safebrowsing/blockedSite.ftl",
-"count": 23
+"count": 30
 },
 {
 "file": "en-US/browser/browser/sanitize.ftl",
@@ -460,7 +460,7 @@
 },
 {
 "file": "en-US/browser/chrome/overrides/appstrings.properties",
-"count": 42
+"count": 43
 },
 {
 "file": "en-US/browser/installer/custom.properties",
@@ -576,7 +576,7 @@
 },
 {
 "file": "en-US/devtools/client/netmonitor.properties",
-"count": 401
+"count": 402
 },
 {
 "file": "en-US/devtools/client/network-throttling.properties",
@@ -688,7 +688,7 @@
 },
 {
 "file": "en-US/dom/chrome/appstrings.properties",
-"count": 38
+"count": 39
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
@@ -1180,11 +1180,11 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/certError.ftl",
-"count": 107
+"count": 109
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/netError.ftl",
-"count": 104
+"count": 107
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/nsserrors.ftl",
