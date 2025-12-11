@@ -1,6 +1,6 @@
 {
-"date": "2025-12-09",
-"revision": "9e27f248e2",
+"date": "2025-12-10",
+"revision": "04cf275823",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -632,7 +632,7 @@
 },
 {
 "file": "en-US/devtools/client/tooltips.ftl",
-"count": 87
+"count": 88
 },
 {
 "file": "en-US/devtools/client/webconsole.properties",
@@ -969,6 +969,10 @@
 {
 "file": "en-US/toolkit/toolkit/about/aboutThirdParty.ftl",
 "count": 36
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutTranslations.ftl",
+"count": 14
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutWebauthn.ftl",
