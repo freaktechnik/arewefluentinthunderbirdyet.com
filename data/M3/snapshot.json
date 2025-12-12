@@ -1,6 +1,6 @@
 {
-"date": "2025-12-10",
-"revision": "04cf275823",
+"date": "2025-12-11",
+"revision": "e7114bcf28",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -172,7 +172,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 304
+"count": 300
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -632,7 +632,7 @@
 },
 {
 "file": "en-US/devtools/client/tooltips.ftl",
-"count": 88
+"count": 90
 },
 {
 "file": "en-US/devtools/client/webconsole.properties",
@@ -960,7 +960,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutSupport.ftl",
-"count": 310
+"count": 313
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutTelemetry.ftl",
@@ -1188,7 +1188,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/certError.ftl",
-"count": 109
+"count": 113
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/netError.ftl",
