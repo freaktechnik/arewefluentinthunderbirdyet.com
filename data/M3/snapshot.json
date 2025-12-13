@@ -1,6 +1,6 @@
 {
-"date": "2025-12-11",
-"revision": "e7114bcf28",
+"date": "2025-12-12",
+"revision": "96eccf5af2",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -260,7 +260,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 609
+"count": 621
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
