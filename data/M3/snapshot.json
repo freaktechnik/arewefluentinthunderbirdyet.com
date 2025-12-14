@@ -1,6 +1,6 @@
 {
-"date": "2025-12-12",
-"revision": "96eccf5af2",
+"date": "2025-12-13",
+"revision": "38a6c8cd9c",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -260,7 +260,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 621
+"count": 620
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -696,7 +696,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 291
+"count": 292
 },
 {
 "file": "en-US/dom/chrome/layout/HtmlForm.properties",
@@ -832,7 +832,7 @@
 },
 {
 "file": "en-US/toolkit/chrome/global/contentAreaCommands.properties",
-"count": 12
+"count": 11
 },
 {
 "file": "en-US/toolkit/chrome/global/dialog.properties",
