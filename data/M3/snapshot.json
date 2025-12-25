@@ -1,6 +1,6 @@
 {
-"date": "2025-12-23",
-"revision": "f26084f2df",
+"date": "2025-12-24",
+"revision": "bfd4da6a49",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -260,7 +260,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 665
+"count": 658
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -944,7 +944,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutProcesses.ftl",
-"count": 67
+"count": 66
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutProfiles.ftl",
