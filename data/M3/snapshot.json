@@ -1,6 +1,6 @@
 {
-"date": "2026-01-07",
-"revision": "8faede9a1f",
+"date": "2026-01-08",
+"revision": "2002947047",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 442
+"count": 443
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -172,7 +172,7 @@
 },
 {
 "file": "en-US/browser/browser/newtab/newtab.ftl",
-"count": 302
+"count": 305
 },
 {
 "file": "en-US/browser/browser/newtab/onboarding.ftl",
@@ -364,7 +364,7 @@
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
-"count": 111
+"count": 112
 },
 {
 "file": "en-US/browser/browser/taskbartabs.ftl",
@@ -1188,7 +1188,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/certError.ftl",
-"count": 113
+"count": 114
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/netError.ftl",
@@ -1208,7 +1208,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/pdfviewer/viewer.ftl",
-"count": 307
+"count": 331
 },
 {
 "file": "en-US/toolkit/toolkit/pictureinpicture/pictureinpicture.ftl",
