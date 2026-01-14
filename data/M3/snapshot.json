@@ -1,6 +1,6 @@
 {
-"date": "2026-01-12",
-"revision": "6ece603789",
+"date": "2026-01-13",
+"revision": "ad555479fa",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -212,7 +212,7 @@
 },
 {
 "file": "en-US/browser/browser/policies/policies-descriptions.ftl",
-"count": 114
+"count": 115
 },
 {
 "file": "en-US/browser/browser/preferences/applicationManager.ftl",
@@ -260,7 +260,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 660
+"count": 667
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -364,7 +364,7 @@
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
-"count": 112
+"count": 113
 },
 {
 "file": "en-US/browser/browser/taskbartabs.ftl",
@@ -944,7 +944,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutProcesses.ftl",
-"count": 66
+"count": 67
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutProfiles.ftl",
