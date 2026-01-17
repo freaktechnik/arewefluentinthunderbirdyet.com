@@ -1,6 +1,6 @@
 {
 "date": "2026-01-16",
-"revision": "15e87a3496",
+"revision": "cb6fc6aec0",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -260,7 +260,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/preferences.ftl",
-"count": 662
+"count": 696
 },
 {
 "file": "en-US/browser/browser/preferences/selectBookmark.ftl",
@@ -948,7 +948,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutProfiles.ftl",
-"count": 36
+"count": 37
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutReader.ftl",
@@ -1136,7 +1136,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/global/profileSelection.ftl",
-"count": 10
+"count": 12
 },
 {
 "file": "en-US/toolkit/toolkit/global/resetProfile.ftl",
