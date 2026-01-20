@@ -1,6 +1,6 @@
 {
-"date": "2026-01-18",
-"revision": "e5219f2ad4",
+"date": "2026-01-20",
+"revision": "458f97bada",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -1192,7 +1192,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/netError.ftl",
-"count": 114
+"count": 113
 },
 {
 "file": "en-US/toolkit/toolkit/neterror/nsserrors.ftl",
