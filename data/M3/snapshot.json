@@ -1,6 +1,6 @@
 {
 "date": "2026-01-20",
-"revision": "458f97bada",
+"revision": "0ba3af42be",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -924,7 +924,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutGlean.ftl",
-"count": 84
+"count": 85
 },
 {
 "file": "en-US/toolkit/toolkit/about/aboutHttpsOnlyError.ftl",
