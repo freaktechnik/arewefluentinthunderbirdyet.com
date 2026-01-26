@@ -1,6 +1,6 @@
 {
-"date": "2026-01-24",
-"revision": "409e9501b8",
+"date": "2026-01-25",
+"revision": "69888f5835",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 441
+"count": 442
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
