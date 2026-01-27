@@ -1,6 +1,6 @@
 {
-"date": "2026-01-25",
-"revision": "69888f5835",
+"date": "2026-01-27",
+"revision": "ff0a6dce73",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -696,7 +696,7 @@
 },
 {
 "file": "en-US/dom/chrome/dom/dom.properties",
-"count": 295
+"count": 297
 },
 {
 "file": "en-US/dom/chrome/layout/HtmlForm.properties",
