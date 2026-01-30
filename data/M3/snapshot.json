@@ -1,6 +1,6 @@
 {
-"date": "2026-01-28",
-"revision": "0fc599421f",
+"date": "2026-01-29",
+"revision": "8d8cb89b01",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -240,7 +240,7 @@
 },
 {
 "file": "en-US/browser/browser/preferences/formAutofill.ftl",
-"count": 65
+"count": 66
 },
 {
 "file": "en-US/browser/browser/preferences/fxaPairDevice.ftl",
@@ -1208,7 +1208,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/pdfviewer/viewer.ftl",
-"count": 331
+"count": 332
 },
 {
 "file": "en-US/toolkit/toolkit/pictureinpicture/pictureinpicture.ftl",
