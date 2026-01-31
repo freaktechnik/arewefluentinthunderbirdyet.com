@@ -1,6 +1,6 @@
 {
-"date": "2026-01-29",
-"revision": "8d8cb89b01",
+"date": "2026-01-30",
+"revision": "119305da94",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/browser/browser/browser.ftl",
-"count": 442
+"count": 445
 },
 {
 "file": "en-US/browser/browser/browserContext.ftl",
@@ -140,7 +140,7 @@
 },
 {
 "file": "en-US/browser/browser/firefoxView.ftl",
-"count": 95
+"count": 103
 },
 {
 "file": "en-US/browser/browser/fxviewTabList.ftl",
@@ -588,7 +588,7 @@
 },
 {
 "file": "en-US/devtools/client/perftools.ftl",
-"count": 77
+"count": 78
 },
 {
 "file": "en-US/devtools/client/responsive.properties",
@@ -1000,7 +1000,7 @@
 },
 {
 "file": "en-US/toolkit/toolkit/branding/brandings.ftl",
-"count": 21
+"count": 23
 },
 {
 "file": "en-US/toolkit/toolkit/contentanalysis/contentanalysis.ftl",
