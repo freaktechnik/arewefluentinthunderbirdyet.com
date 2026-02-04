@@ -1,6 +1,6 @@
 {
-"date": "2026-02-03",
-"revision": "d8636da7d7",
+"date": "2026-02-04",
+"revision": "4960eb24f6",
 "data": [
 {
 "file": "en-US/browser/branding/official/brand.ftl",
@@ -132,7 +132,7 @@
 },
 {
 "file": "en-US/browser/browser/featureCallout.ftl",
-"count": 143
+"count": 149
 },
 {
 "file": "en-US/browser/browser/firefoxRelay.ftl",
@@ -364,7 +364,7 @@
 },
 {
 "file": "en-US/browser/browser/tabbrowser.ftl",
-"count": 113
+"count": 114
 },
 {
 "file": "en-US/browser/browser/taskbartabs.ftl",
