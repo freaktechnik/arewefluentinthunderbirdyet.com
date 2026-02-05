@@ -1,6 +1,6 @@
 {
-"date": "2026-01-15",
-"revision": "9c91f3cb",
+"date": "2026-02-05",
+"revision": "1aaa1465f89b8a314d0bc8f711cbe4003fb12e93",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -76,7 +76,7 @@
 },
 {
 "file": "en-US/calendar/calendar/calendar.ftl",
-"count": 357
+"count": 360
 },
 {
 "file": "en-US/calendar/calendar/categories.ftl",
@@ -213,6 +213,10 @@
 {
 "file": "en-US/chat/yahoo.ftl",
 "count": 1
+},
+{
+"file": "en-US/devtools/startup/key-shortcuts.ftl",
+"count": 17
 },
 {
 "file": "en-US/mail/branding/tb_beta/brand.dtd",
@@ -512,7 +516,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/filter.properties",
-"count": 56
+"count": 25
 },
 {
 "file": "en-US/mail/chrome/messenger/folderProps.dtd",
@@ -588,11 +592,11 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/messenger.dtd",
-"count": 722
+"count": 701
 },
 {
 "file": "en-US/mail/chrome/messenger/messenger.properties",
-"count": 298
+"count": 293
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/EdAdvancedEdit.dtd",
@@ -672,7 +676,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/composeMsgs.properties",
-"count": 177
+"count": 175
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/editor.properties",
@@ -895,6 +899,10 @@
 "count": 2
 },
 {
+"file": "en-US/mail/messenger/EdReplace.ftl",
+"count": 2
+},
+{
 "file": "en-US/mail/messenger/about3Pane.ftl",
 "count": 161
 },
@@ -984,7 +992,7 @@
 },
 {
 "file": "en-US/mail/messenger/calendarDialog.ftl",
-"count": 9
+"count": 15
 },
 {
 "file": "en-US/mail/messenger/certError.ftl",
@@ -1028,7 +1036,7 @@
 },
 {
 "file": "en-US/mail/messenger/filterEditor.ftl",
-"count": 8
+"count": 38
 },
 {
 "file": "en-US/mail/messenger/flatpak.ftl",
@@ -1064,7 +1072,7 @@
 },
 {
 "file": "en-US/mail/messenger/messenger.ftl",
-"count": 185
+"count": 193
 },
 {
 "file": "en-US/mail/messenger/messengercompose/messengercompose.ftl",
@@ -1120,7 +1128,7 @@
 },
 {
 "file": "en-US/mail/messenger/openpgp/openpgp.ftl",
-"count": 352
+"count": 356
 },
 {
 "file": "en-US/mail/messenger/otr/add-finger.ftl",
@@ -1289,6 +1297,10 @@
 {
 "file": "en-US/mail/messenger/viewSource.ftl",
 "count": 4
+},
+{
+"file": "en-US/mail/messenger/virtualFolderProperties.ftl",
+"count": 1
 },
 {
 "file": "en-US/mail/updater/updater.ini",
