@@ -7,7 +7,7 @@ const State = {
     {
       code: "M1",
       name: "messenger.xhtml",
-      title: "Strings loaded in messenger.xhtml",
+      title: "Strings loaded in messenger.xhtml (without includes?)",
       categories: ["dtd", "ftl"],
       skipInDashboard: [],
       categoriesBar: [null, 1],

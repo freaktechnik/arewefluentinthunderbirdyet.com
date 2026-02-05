@@ -1,1 +1,2570 @@
-[]
+[
+{
+"data": {
+"dtd": 1620,
+"ftl": 2
+},
+"date": "2019-12-24",
+"revision": "5a0b6e3a4343db3fa6e5d655cacd665a37f6b63c"
+},
+{
+"data": {
+"dtd": 1574,
+"ftl": 28
+},
+"date": "2019-12-31",
+"revision": "738c9587a2f0a5d65289ca73937b8241b6177534"
+},
+{
+"data": {
+"dtd": 1574,
+"ftl": 28
+},
+"date": "2020-01-07",
+"revision": "b4e1c22a54e49886946f3390c7369b1e5a1ce27c"
+},
+{
+"data": {
+"dtd": 1574,
+"ftl": 28
+},
+"date": "2020-01-14",
+"revision": "a9d1bbebb67f0407900127d2653e5d5656b0c4aa"
+},
+{
+"data": {
+"dtd": 1567,
+"ftl": 35
+},
+"date": "2020-01-21",
+"revision": "81cf5d6780d7f5312504d6749990093ac8df5a66"
+},
+{
+"data": {
+"dtd": 1567,
+"ftl": 35
+},
+"date": "2020-01-28",
+"revision": "dd978b04bcee77c3b9f8cb5300baec1d04bcc8ee"
+},
+{
+"data": {
+"dtd": 1568,
+"ftl": 35
+},
+"date": "2020-02-04",
+"revision": "26bc58b449520c4b92ded793cf93575aee0f6925"
+},
+{
+"data": {
+"dtd": 2341,
+"ftl": 35
+},
+"date": "2020-02-11",
+"revision": "992826d12a7e8448f56f446d6e42644032bf7bea"
+},
+{
+"data": {
+"dtd": 2341,
+"ftl": 35
+},
+"date": "2020-02-18",
+"revision": "aeb27fcae525d98551ac72f2529c310c58575e52"
+},
+{
+"data": {
+"dtd": 2341,
+"ftl": 35
+},
+"date": "2020-02-25",
+"revision": "560479c08fef0a1657c7d7ceea382a469ff909c1"
+},
+{
+"data": {
+"dtd": 2341,
+"ftl": 35
+},
+"date": "2020-03-03",
+"revision": "6ff26362e02bd7fa696aa130dfac251422017bd9"
+},
+{
+"data": {
+"dtd": 2327,
+"ftl": 35
+},
+"date": "2020-03-10",
+"revision": "cea2c511fce027fb49729371102e7ebe25e24022"
+},
+{
+"data": {
+"dtd": 2330,
+"ftl": 35
+},
+"date": "2020-03-17",
+"revision": "a12bb1124869bc1562cf3763e1c8f59113c0cc2c"
+},
+{
+"data": {
+"dtd": 2330,
+"ftl": 35
+},
+"date": "2020-03-24",
+"revision": "2bf83584b702a24c5c9f6dcba8f6675ae1e6337e"
+},
+{
+"data": {
+"dtd": 2330,
+"ftl": 35
+},
+"date": "2020-03-31",
+"revision": "5117addf33591f9a5bdf80f6430c80a584a5e5b2"
+},
+{
+"data": {
+"dtd": 2330,
+"ftl": 35
+},
+"date": "2020-04-07",
+"revision": "3f497398788daab69b15f64d49ea1d18cdafbccc"
+},
+{
+"data": {
+"dtd": 2333,
+"ftl": 35
+},
+"date": "2020-04-14",
+"revision": "4a6f4e4423980eebe6e78951c433a4ae0849725e"
+},
+{
+"data": {
+"dtd": 2333,
+"ftl": 35
+},
+"date": "2020-04-21",
+"revision": "dda8f7871fbbeea697ce53a0f7a45c5dced29b69"
+},
+{
+"data": {
+"dtd": 2338,
+"ftl": 35
+},
+"date": "2020-04-28",
+"revision": "ffa711650cb168714e3e6179267ab8656e8d47b5"
+},
+{
+"data": {
+"dtd": 2340,
+"ftl": 35
+},
+"date": "2020-05-05",
+"revision": "01b3a50f3311f7b1d4fdfea8581532c31ab3e67a"
+},
+{
+"data": {
+"dtd": 2340,
+"ftl": 35
+},
+"date": "2020-05-12",
+"revision": "0b9a9d6280be4f4d6b7a902acc26b6aa326719af"
+},
+{
+"data": {
+"dtd": 2340,
+"ftl": 35
+},
+"date": "2020-05-19",
+"revision": "ca7b96352c89729abcfa11f6798dea94487e5a0d"
+},
+{
+"data": {
+"dtd": 2325,
+"ftl": 45
+},
+"date": "2020-05-25",
+"revision": "1317619f493e6c9718d92299ece67ec97e287254"
+},
+{
+"data": {
+"dtd": 2325,
+"ftl": 48
+},
+"date": "2020-06-02",
+"revision": "90acb84d2bf6a56773ba7e88a1aa74d3157669c2"
+},
+{
+"data": {
+"dtd": 2325,
+"ftl": 48
+},
+"date": "2020-06-09",
+"revision": "f8d95023913a43a93dd4a5f9f81fc6732aca8da8"
+},
+{
+"data": {
+"dtd": 2319,
+"ftl": 48
+},
+"date": "2020-06-16",
+"revision": "d31e5b627413057dd99c2ccd901a3a8b6261272d"
+},
+{
+"data": {
+"dtd": 2319,
+"ftl": 49
+},
+"date": "2020-06-23",
+"revision": "9cfb71b9e9f91f914c65a5461939dbb882044c79"
+},
+{
+"data": {
+"dtd": 2319,
+"ftl": 49
+},
+"date": "2020-06-30",
+"revision": "ee5eb95ccf70ffcf8e4b32a0d88386353a2f16ce"
+},
+{
+"data": {
+"dtd": 2319,
+"ftl": 49
+},
+"date": "2020-07-07",
+"revision": "4bb55b313b29c66e2e67809790887c601cfcd555"
+},
+{
+"data": {
+"dtd": 2319,
+"ftl": 49
+},
+"date": "2020-07-14",
+"revision": "2823367d6cc6fdd055e2362e67747b5c2c51ba5c"
+},
+{
+"data": {
+"dtd": 2319,
+"ftl": 49
+},
+"date": "2020-07-21",
+"revision": "1411c065c96371d5001e2b93b9186d57056f2cbb"
+},
+{
+"data": {
+"dtd": 2319,
+"ftl": 49
+},
+"date": "2020-07-28",
+"revision": "88df419ba851c88ee7f8dafbd3365a906b5729fa"
+},
+{
+"data": {
+"dtd": 2319,
+"ftl": 49
+},
+"date": "2020-08-04",
+"revision": "ae90541a3ecd8dc02aafcb15fb74ad592c6332e4"
+},
+{
+"data": {
+"dtd": 2319,
+"ftl": 49
+},
+"date": "2020-08-11",
+"revision": "034b7e5d52f27b9a3e77048b661297d80883b095"
+},
+{
+"data": {
+"dtd": 2319,
+"ftl": 49
+},
+"date": "2020-08-18",
+"revision": "e5cda005037b5f592b6b8830488597c81be6d6c9"
+},
+{
+"data": {
+"dtd": 2319,
+"ftl": 49
+},
+"date": "2020-08-25",
+"revision": "5f28a64eac96c8988db11e4e9660d5514c4f4b31"
+},
+{
+"data": {
+"dtd": 2319,
+"ftl": 49
+},
+"date": "2020-09-01",
+"revision": "eb2f000b2b6c73e92c6b7e9d6200a98c3f5140ba"
+},
+{
+"data": {
+"dtd": 2315,
+"ftl": 49
+},
+"date": "2020-09-08",
+"revision": "cc16d83efd052e476884e86ac24b500a821a77e1"
+},
+{
+"data": {
+"dtd": 2316,
+"ftl": 49
+},
+"date": "2020-09-15",
+"revision": "fa6b284953dfe9e71e0e23ca471a09898eefbd12"
+},
+{
+"data": {
+"dtd": 2316,
+"ftl": 49
+},
+"date": "2020-09-22",
+"revision": "ab66d318053c9e0f8e00aa4c86731b9c26239db9"
+},
+{
+"data": {
+"dtd": 2321,
+"ftl": 52
+},
+"date": "2020-09-29",
+"revision": "0615e44793150f7a7dfb56710b7f28b1ec4d416e"
+},
+{
+"data": {
+"dtd": 2321,
+"ftl": 52
+},
+"date": "2020-10-06",
+"revision": "7ed29df27b2a76eb4b1c0e94622a3478250cbc45"
+},
+{
+"data": {
+"dtd": 2321,
+"ftl": 52
+},
+"date": "2020-10-13",
+"revision": "6c03504ee2daf5bbdad90309cc7fbf17726fc192"
+},
+{
+"data": {
+"dtd": 2321,
+"ftl": 52
+},
+"date": "2020-10-20",
+"revision": "a06510a40d9898134a02964972269f6f04e66be0"
+},
+{
+"data": {
+"dtd": 2321,
+"ftl": 52
+},
+"date": "2020-10-27",
+"revision": "c7f284a94afda90c972d848f835f4c692ed77117"
+},
+{
+"data": {
+"dtd": 2319,
+"ftl": 49
+},
+"date": "2020-11-03",
+"revision": "69dc70d9427244f0ab196c5ece2d6960be7ffc50"
+},
+{
+"data": {
+"dtd": 2319,
+"ftl": 49
+},
+"date": "2020-11-10",
+"revision": "8fd1b44855a35346818ca6878759dfb3f1cccd05"
+},
+{
+"data": {
+"dtd": 2319,
+"ftl": 49
+},
+"date": "2020-11-17",
+"revision": "cf9f1ec769dc7ef59c86b18df4abfe29fc4a28cb"
+},
+{
+"data": {
+"dtd": 2319,
+"ftl": 49
+},
+"date": "2020-11-24",
+"revision": "20e032e67470dc5ed848a8a9e93ae32fc696555d"
+},
+{
+"data": {
+"dtd": 2312,
+"ftl": 51
+},
+"date": "2020-12-01",
+"revision": "7c6bbc6c04b0181a986c68e7caf9470c42e468cd"
+},
+{
+"data": {
+"dtd": 2310,
+"ftl": 51
+},
+"date": "2020-12-08",
+"revision": "2bcaef14a6f81edafe803f5cfbc4ef8d4d79aae7"
+},
+{
+"data": {
+"dtd": 2310,
+"ftl": 51
+},
+"date": "2020-12-15",
+"revision": "6ed5bceb466170ac1ab2f5a49396b7aecd0f7361"
+},
+{
+"data": {
+"dtd": 2310,
+"ftl": 51
+},
+"date": "2020-12-22",
+"revision": "bff9af596e07d595d18fd9f20fb588cd33d39e58"
+},
+{
+"data": {
+"dtd": 2310,
+"ftl": 51
+},
+"date": "2020-12-29",
+"revision": "30b39201c92fc9ceb80468361be566f3e2f5e17b"
+},
+{
+"data": {
+"dtd": 2310,
+"ftl": 51
+},
+"date": "2021-01-05",
+"revision": "d98578e77e81a30c84844820f4443fde21986f2a"
+},
+{
+"data": {
+"dtd": 2309,
+"ftl": 54
+},
+"date": "2021-01-12",
+"revision": "da8f7c92208d7678a0ad0f9e8c12f7ee5d2b41f9"
+},
+{
+"data": {
+"dtd": 2310,
+"ftl": 54
+},
+"date": "2021-01-19",
+"revision": "47627b7a5b34d04816233abe24bf4051b8ac807c"
+},
+{
+"data": {
+"dtd": 2312,
+"ftl": 54
+},
+"date": "2021-01-26",
+"revision": "609aabe0aa00e13fe821713f82b9f190e7f178b1"
+},
+{
+"data": {
+"dtd": 2312,
+"ftl": 54
+},
+"date": "2021-02-02",
+"revision": "15033ffab222d43c6588def8e8353e2b4b51a385"
+},
+{
+"data": {
+"dtd": 2312,
+"ftl": 54
+},
+"date": "2021-02-09",
+"revision": "102aad946173342471fa76d1ddeb98940a8432cf"
+},
+{
+"data": {
+"dtd": 2312,
+"ftl": 54
+},
+"date": "2021-02-16",
+"revision": "33d452b075b3bf20b22176309e72de0ada43b508"
+},
+{
+"data": {
+"dtd": 2312,
+"ftl": 55
+},
+"date": "2021-02-23",
+"revision": "3c1f317b2f627724aa28f2e081bf2b4dccf6354e"
+},
+{
+"data": {
+"dtd": 2312,
+"ftl": 55
+},
+"date": "2021-03-02",
+"revision": "f5fae7e6894900512797576e62d1d1e6386cc440"
+},
+{
+"data": {
+"dtd": 2303,
+"ftl": 59
+},
+"date": "2021-03-09",
+"revision": "183cfa8604828b2b1f10440f20f4e9db5ba24761"
+},
+{
+"data": {
+"dtd": 2303,
+"ftl": 59
+},
+"date": "2021-03-16",
+"revision": "334660236f156025ddcafff2752b8e29ae47ee10"
+},
+{
+"data": {
+"dtd": 2303,
+"ftl": 59
+},
+"date": "2021-03-23",
+"revision": "cf1486a704949d3b2143496596c2766ccdadce78"
+},
+{
+"data": {
+"dtd": 2303,
+"ftl": 59
+},
+"date": "2021-03-30",
+"revision": "f332f703490e558edfd0a8984486694750ca60fc"
+},
+{
+"data": {
+"dtd": 2303,
+"ftl": 59
+},
+"date": "2021-04-06",
+"revision": "9cca2363d7e1537b736b911b766cdf950ad68b9b"
+},
+{
+"data": {
+"dtd": 2291,
+"ftl": 66
+},
+"date": "2021-04-13",
+"revision": "8e3f134f37fe78b46b3bee6e52b5aa07e6bac8fd"
+},
+{
+"data": {
+"dtd": 2291,
+"ftl": 78
+},
+"date": "2021-04-20",
+"revision": "f1ae1325568f2df85322e3fc8b970bd5be582373"
+},
+{
+"data": {
+"dtd": 2291,
+"ftl": 78
+},
+"date": "2021-04-27",
+"revision": "6730027e6753d39dfcb6603900e44bfeaca1b600"
+},
+{
+"data": {
+"dtd": 2291,
+"ftl": 78
+},
+"date": "2021-05-04",
+"revision": "d3383b71397cfd7c915f47007f1c096bfc724011"
+},
+{
+"data": {
+"dtd": 2291,
+"ftl": 78
+},
+"date": "2021-05-11",
+"revision": "d5de99115896d8db7eac5b2a62685fee130b8d2c"
+},
+{
+"data": {
+"dtd": 2291,
+"ftl": 78
+},
+"date": "2021-05-18",
+"revision": "efedacd5538c28eedc542c0c52c46b91b510cca3"
+},
+{
+"data": {
+"dtd": 2291,
+"ftl": 83
+},
+"date": "2021-05-25",
+"revision": "e00f5ab045f7a04e037fc8669e43bb3f89f5acd6"
+},
+{
+"data": {
+"dtd": 2274,
+"ftl": 97
+},
+"date": "2021-06-01",
+"revision": "a84d70e678b453f16894023f0d7754a60cf5fc29"
+},
+{
+"data": {
+"dtd": 2274,
+"ftl": 97
+},
+"date": "2021-06-08",
+"revision": "9d4c932955c5ec086aee550d4bb914d1143a0a32"
+},
+{
+"data": {
+"dtd": 2274,
+"ftl": 97
+},
+"date": "2021-06-15",
+"revision": "c1227ffbc658edbaecb0159ca90b8b175a1dd021"
+},
+{
+"data": {
+"dtd": 2273,
+"ftl": 98
+},
+"date": "2021-06-22",
+"revision": "d0f8efdda8e58c674b07b7b994352bb658e0f53f"
+},
+{
+"data": {
+"dtd": 2273,
+"ftl": 98
+},
+"date": "2021-06-29",
+"revision": "8a90435ecfbc66b2ff729771bdf608963abbc238"
+},
+{
+"data": {
+"dtd": 2273,
+"ftl": 98
+},
+"date": "2021-07-06",
+"revision": "519210ebc75c9c736c05158101fdc5b42b55ceb6"
+},
+{
+"data": {
+"dtd": 2276,
+"ftl": 98
+},
+"date": "2021-07-13",
+"revision": "4f0c437f865ce896bf90682058de23a6ff49f9a6"
+},
+{
+"data": {
+"dtd": 2276,
+"ftl": 98
+},
+"date": "2021-07-20",
+"revision": "f8ac674397dd88300566b19c66c45792a8ed4a4d"
+},
+{
+"data": {
+"dtd": 2276,
+"ftl": 98
+},
+"date": "2021-07-27",
+"revision": "d3849f5e9222a66f652a9943864f7492c3630418"
+},
+{
+"data": {
+"dtd": 2276,
+"ftl": 98
+},
+"date": "2021-08-03",
+"revision": "9054c137e8fbb3878cca2a1dc5434ffdee4bf2d8"
+},
+{
+"data": {
+"dtd": 2276,
+"ftl": 98
+},
+"date": "2021-08-10",
+"revision": "b4705b6adee8a26d1067ef8d39825015fcbb7678"
+},
+{
+"data": {
+"dtd": 2276,
+"ftl": 98
+},
+"date": "2021-08-17",
+"revision": "1764da179451b0fe14ff8854a7b4b71657d9986d"
+},
+{
+"data": {
+"dtd": 2276,
+"ftl": 98
+},
+"date": "2021-08-24",
+"revision": "b1001baeed56c308394dc2e3a8564a3526bcefa7"
+},
+{
+"data": {
+"dtd": 2260,
+"ftl": 107
+},
+"date": "2021-08-31",
+"revision": "7240e9e01797c3ed9b678d656cd883ee8b4940fe"
+},
+{
+"data": {
+"dtd": 2257,
+"ftl": 109
+},
+"date": "2021-09-07",
+"revision": "584727f9187f5c8ba81f3e5723459f327868c291"
+},
+{
+"data": {
+"dtd": 2257,
+"ftl": 109
+},
+"date": "2021-09-14",
+"revision": "65b997803513de13c66f212bcd0be6d1e15cbe04"
+},
+{
+"data": {
+"dtd": 2257,
+"ftl": 109
+},
+"date": "2021-09-21",
+"revision": "f3534fb14348e664ee9fe4e6495e9b6b42a2c83c"
+},
+{
+"data": {
+"dtd": 2257,
+"ftl": 109
+},
+"date": "2021-09-28",
+"revision": "835d5553ba304a885c9e5415ad670f028ba3d9a6"
+},
+{
+"data": {
+"dtd": 2254,
+"ftl": 113
+},
+"date": "2021-10-05",
+"revision": "aefd5cce86730f99de432b0459e284ecd5f806c4"
+},
+{
+"data": {
+"dtd": 2251,
+"ftl": 113
+},
+"date": "2021-10-12",
+"revision": "de7394ca56c35827a49e02205a69feff8e4eb055"
+},
+{
+"data": {
+"dtd": 2251,
+"ftl": 113
+},
+"date": "2021-10-19",
+"revision": "9db42ee18caa128d5eb08dda2d2d8d0a2a274f26"
+},
+{
+"data": {
+"dtd": 2251,
+"ftl": 113
+},
+"date": "2021-10-26",
+"revision": "d5d59bccfb10d87cdf8adf8638c345b51f8d6bdc"
+},
+{
+"data": {
+"dtd": 2251,
+"ftl": 114
+},
+"date": "2021-11-02",
+"revision": "3f3be2a092b9ff60c0b9fede2674dfe0f9362daa"
+},
+{
+"data": {
+"dtd": 2251,
+"ftl": 115
+},
+"date": "2021-11-09",
+"revision": "abc7fdc37ebd0dd14c282b58ece8115980a1e591"
+},
+{
+"data": {
+"dtd": 2251,
+"ftl": 115
+},
+"date": "2021-11-16",
+"revision": "922acc61355fb6b129c36c4aa0e171b9143dadd6"
+},
+{
+"data": {
+"dtd": 2251,
+"ftl": 115
+},
+"date": "2021-11-23",
+"revision": "21b9820cffa4ba9162ad8ee0b92098f7704c783d"
+},
+{
+"data": {
+"dtd": 2255,
+"ftl": 116
+},
+"date": "2021-11-30",
+"revision": "9502064d884ff29982e4eb85d4acfdc624dc199c"
+},
+{
+"data": {
+"dtd": 2255,
+"ftl": 116
+},
+"date": "2021-12-07",
+"revision": "a3092558b8b8a97cbf684e056bfc3a024cc3acba"
+},
+{
+"data": {
+"dtd": 2255,
+"ftl": 116
+},
+"date": "2021-12-14",
+"revision": "175318cfc6c4f937909566cd31e1d153b1126d20"
+},
+{
+"data": {
+"dtd": 2253,
+"ftl": 125
+},
+"date": "2021-12-21",
+"revision": "903e46f1350ca6c7fd29d6a4c4c0992c4273c202"
+},
+{
+"data": {
+"dtd": 2253,
+"ftl": 125
+},
+"date": "2021-12-28",
+"revision": "0805456805e0b5dacad07afbbef95043839adff9"
+},
+{
+"data": {
+"dtd": 2253,
+"ftl": 125
+},
+"date": "2022-01-04",
+"revision": "5a90b24a70cc6c4cb8482e7470d04e04ad6e1fe7"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 135
+},
+"date": "2022-01-11",
+"revision": "2ed40bdcd41537652f078066a70ef26899ec6f04"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 135
+},
+"date": "2022-01-18",
+"revision": "7850fafeebbcfdee08aec9107a1e117d57bb3f1e"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 135
+},
+"date": "2022-01-25",
+"revision": "d003cea03301e2fcddfc3550d6c3c3cae3dd3f5f"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 135
+},
+"date": "2022-02-01",
+"revision": "6aed229a3bcb08fb034ff481cd741f8bf0bf2ebd"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 135
+},
+"date": "2022-02-08",
+"revision": "e894c52ee2d20edad463e410d49395b85ee004b4"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 136
+},
+"date": "2022-02-15",
+"revision": "bd7445ed164d0f99e93343f6648cc7e5abc14877"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 141
+},
+"date": "2022-02-22",
+"revision": "eba4866d79e3d1f10e2d3059645fa551d4d514a2"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 148
+},
+"date": "2022-03-01",
+"revision": "5f6ca8ed2cec0b3baaa165b687a011080ee8dcd4"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 149
+},
+"date": "2022-03-08",
+"revision": "c2a8f73f04678b96345e724162a9d498b8b1e0bb"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 157
+},
+"date": "2022-03-15",
+"revision": "6eb138e2d3e785cf323be6173bbfa14ba1fc5685"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 169
+},
+"date": "2022-03-22",
+"revision": "edf1ef65a00a2e1497fcaa43e2e39c222ebb90e5"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 169
+},
+"date": "2022-03-29",
+"revision": "22a8a6232b4ed67a6c8cb706ae57d5f1dcb5aa34"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 169
+},
+"date": "2022-04-05",
+"revision": "79b9ea2e593269541d77c607d05fc136a28cca79"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 169
+},
+"date": "2022-04-12",
+"revision": "401803b1ad8cbef497eb1c78cda2fbf2fffdd937"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 169
+},
+"date": "2022-04-19",
+"revision": "479d6edcd16f99d2d79de3297713df96b03b9401"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 177
+},
+"date": "2022-04-26",
+"revision": "b85b35de23e34b5db84eb316d744d489e3a3846a"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 177
+},
+"date": "2022-05-03",
+"revision": "a3eba558343fcd7890c26a59f00a850d3a035972"
+},
+{
+"data": {
+"dtd": 2249,
+"ftl": 177
+},
+"date": "2022-05-10",
+"revision": "1a65436305f387f33a847b8106d3b1493170f29c"
+},
+{
+"data": {
+"dtd": 2246,
+"ftl": 185
+},
+"date": "2022-05-17",
+"revision": "612f0e9e2fc5ce0394c92398376d6601d5534b5d"
+},
+{
+"data": {
+"dtd": 2246,
+"ftl": 185
+},
+"date": "2022-05-24",
+"revision": "28c4b21a04ecb70c45cd273b5c8e868162f9cb9e"
+},
+{
+"data": {
+"dtd": 2246,
+"ftl": 190
+},
+"date": "2022-05-31",
+"revision": "32d16ea55d46feac2218091fa1dcf104bbcac1dc"
+},
+{
+"data": {
+"dtd": 2246,
+"ftl": 190
+},
+"date": "2022-06-07",
+"revision": "1e77455940c42a968cd297224c1d419190368069"
+},
+{
+"data": {
+"dtd": 2246,
+"ftl": 190
+},
+"date": "2022-06-14",
+"revision": "9163e343a98baab477ae50139f37a2909a646b6b"
+},
+{
+"data": {
+"dtd": 2246,
+"ftl": 190
+},
+"date": "2022-06-21",
+"revision": "6e849249b8e15b9b84907714eee9ec2732d607cd"
+},
+{
+"data": {
+"dtd": 2248,
+"ftl": 191
+},
+"date": "2022-06-28",
+"revision": "52c3f2c019877adf21b08b0d2fab931211b93f36"
+},
+{
+"data": {
+"dtd": 2248,
+"ftl": 191
+},
+"date": "2022-07-05",
+"revision": "67ca37b26089b1604e0f149478eea89c10c6ef74"
+},
+{
+"data": {
+"dtd": 2248,
+"ftl": 191
+},
+"date": "2022-07-12",
+"revision": "a5799bfbc30c68853233cb226fcccb6d48826fd4"
+},
+{
+"data": {
+"dtd": 2248,
+"ftl": 191
+},
+"date": "2022-07-19",
+"revision": "02ffdc8da2de5d96855dba85405cc883ab5d3482"
+},
+{
+"data": {
+"dtd": 2248,
+"ftl": 191
+},
+"date": "2022-07-26",
+"revision": "f6baa37ea7ae4009e5a2bf445c23a0d84fa8e0c1"
+},
+{
+"data": {
+"dtd": 2248,
+"ftl": 191
+},
+"date": "2022-08-02",
+"revision": "f63073efa5130cf9b601d52e3a8fd1ddd43bb8de"
+},
+{
+"data": {
+"dtd": 2248,
+"ftl": 191
+},
+"date": "2022-08-09",
+"revision": "b52dbcd825c438cca7cc553e1086214e977c05d0"
+},
+{
+"data": {
+"dtd": 2248,
+"ftl": 191
+},
+"date": "2022-08-16",
+"revision": "01d457f9084d8a643395db39bcdcee9ee8f70b5c"
+},
+{
+"data": {
+"dtd": 2248,
+"ftl": 191
+},
+"date": "2022-08-23",
+"revision": "0bd63307f8cc42ec18c66651a3e7aaa941a8a3de"
+},
+{
+"data": {
+"dtd": 2248,
+"ftl": 191
+},
+"date": "2022-08-30",
+"revision": "0bd2f63ad5db291a3813836e06f1da866f1e6987"
+},
+{
+"data": {
+"dtd": 2162,
+"ftl": 209
+},
+"date": "2022-09-06",
+"revision": "37f92985c1cbf3c4578337618d5c6245cfc9eddc"
+},
+{
+"data": {
+"dtd": 2030,
+"ftl": 236
+},
+"date": "2022-09-13",
+"revision": "45d0d89ca3fc212f3f1b0a3069a29b2f05cb36dd"
+},
+{
+"data": {
+"dtd": 2010,
+"ftl": 236
+},
+"date": "2022-09-20",
+"revision": "16f56004162eb444cc8cf16a88ef06d6c8bbbedd"
+},
+{
+"data": {
+"dtd": 2003,
+"ftl": 240
+},
+"date": "2022-09-27",
+"revision": "e04f31ba752e5e24d8d82117d6e4f4380c4e5fd7"
+},
+{
+"data": {
+"dtd": 1921,
+"ftl": 241
+},
+"date": "2022-10-04",
+"revision": "fb2dec42c8e0083844395ce6f9bf0819582bda6e"
+},
+{
+"data": {
+"dtd": 1921,
+"ftl": 241
+},
+"date": "2022-10-11",
+"revision": "b17b63c80f3ef36f1975bb6f975c189fd247f15d"
+},
+{
+"data": {
+"dtd": 1921,
+"ftl": 242
+},
+"date": "2022-10-18",
+"revision": "a1a50418d546dddf12c187de7eadc9f9c76bd7d9"
+},
+{
+"data": {
+"dtd": 1921,
+"ftl": 242
+},
+"date": "2022-10-25",
+"revision": "a2958dfb3462eac068cb1a2c75c5213fc4808b1a"
+},
+{
+"data": {
+"dtd": 1921,
+"ftl": 254
+},
+"date": "2022-11-01",
+"revision": "11d94177cff369c75d7e18ede106f87eb4e1abdc"
+},
+{
+"data": {
+"dtd": 1921,
+"ftl": 257
+},
+"date": "2022-11-08",
+"revision": "7ba61053642ea15407e8c2005e2bef2c2a5dbfb3"
+},
+{
+"data": {
+"dtd": 1921,
+"ftl": 257
+},
+"date": "2022-11-15",
+"revision": "12873fa00872d7753975813a3af001bc07d7cf34"
+},
+{
+"data": {
+"dtd": 1921,
+"ftl": 257
+},
+"date": "2022-11-22",
+"revision": "87360d9e8dcaaf8e5dba3230a82042117fb98d69"
+},
+{
+"data": {
+"dtd": 1921,
+"ftl": 257
+},
+"date": "2022-11-29",
+"revision": "0e1b1f004d530e20dc1cb1f134139939b38f17d1"
+},
+{
+"data": {
+"dtd": 1921,
+"ftl": 257
+},
+"date": "2022-12-06",
+"revision": "22f87e5b9e9aeb0bb0fd453a5f1d3f18b3d9ca07"
+},
+{
+"data": {
+"dtd": 1919,
+"ftl": 266
+},
+"date": "2022-12-13",
+"revision": "b0ff2773a3dd8a348cc08008fef205218453ba9d"
+},
+{
+"data": {
+"dtd": 1919,
+"ftl": 266
+},
+"date": "2022-12-20",
+"revision": "56e0796b8b47dd87718f1cbc123aa7e5ae8ea5e4"
+},
+{
+"data": {
+"dtd": 1919,
+"ftl": 270
+},
+"date": "2022-12-27",
+"revision": "9356a74876cc08e81145c7a1efc9abf840b066aa"
+},
+{
+"data": {
+"dtd": 1919,
+"ftl": 270
+},
+"date": "2023-01-03",
+"revision": "366172ea477807c44f65199f9370b2ff5fe54cfa"
+},
+{
+"data": {
+"dtd": 1919,
+"ftl": 270
+},
+"date": "2023-01-10",
+"revision": "9b067716705cae3db330f62cc4c3bfe7e7de01e2"
+},
+{
+"data": {
+"dtd": 1909,
+"ftl": 271
+},
+"date": "2023-01-17",
+"revision": "e603b763721727d1ddac6b6fdbd54b410c06a31f"
+},
+{
+"data": {
+"dtd": 1400,
+"ftl": 293
+},
+"date": "2023-01-24",
+"revision": "c778318217b836c51ca5e8fad4a6d2649b9b743c"
+},
+{
+"data": {
+"dtd": 1392,
+"ftl": 293
+},
+"date": "2023-01-31",
+"revision": "9c5b4aa0d9f124ffbfd1901dec4c7e4f6307d18d"
+},
+{
+"data": {
+"dtd": 1392,
+"ftl": 304
+},
+"date": "2023-02-07",
+"revision": "5975cca80d29c11fb81e89d83de1d6a38673f1da"
+},
+{
+"data": {
+"dtd": 1390,
+"ftl": 305
+},
+"date": "2023-02-14",
+"revision": "7f9bd4193c5bf898751ca219e384f6decebbcca1"
+},
+{
+"data": {
+"dtd": 1390,
+"ftl": 307
+},
+"date": "2023-02-21",
+"revision": "eb3e84c06222b32a55a4824c7373407393d0fa6e"
+},
+{
+"data": {
+"dtd": 1390,
+"ftl": 313
+},
+"date": "2023-02-28",
+"revision": "2c41c52ca7ccbfe13d1af58a482271ace0f7e45f"
+},
+{
+"data": {
+"dtd": 1374,
+"ftl": 313
+},
+"date": "2023-03-07",
+"revision": "fc3b05468db6d770fe90852580a7a00b84fce7f1"
+},
+{
+"data": {
+"dtd": 1374,
+"ftl": 313
+},
+"date": "2023-03-14",
+"revision": "d0cb7c43177ebd4421fe9cb486f612eaf7c878df"
+},
+{
+"data": {
+"dtd": 1374,
+"ftl": 317
+},
+"date": "2023-03-21",
+"revision": "df0ff2f553d736cbe458680d0f920b91a2b3b39b"
+},
+{
+"data": {
+"dtd": 1370,
+"ftl": 326
+},
+"date": "2023-03-28",
+"revision": "f7b70ea423ffbf371e0ef0ef9a4bfe3509a76893"
+},
+{
+"data": {
+"dtd": 1370,
+"ftl": 326
+},
+"date": "2023-04-04",
+"revision": "ac9a362c58ff13eb34a60516a9eea242527cc232"
+},
+{
+"data": {
+"dtd": 1370,
+"ftl": 326
+},
+"date": "2023-04-11",
+"revision": "f101aed90e852a3fe928860b1477b065b57e25b6"
+},
+{
+"data": {
+"dtd": 1370,
+"ftl": 326
+},
+"date": "2023-04-18",
+"revision": "c44307b7a8c021ca1045fa4556904c1fffd9c076"
+},
+{
+"data": {
+"dtd": 1370,
+"ftl": 326
+},
+"date": "2023-04-25",
+"revision": "3de6b2ff9690cd12548eae710151da3086283753"
+},
+{
+"data": {
+"dtd": 1370,
+"ftl": 326
+},
+"date": "2023-05-02",
+"revision": "7a6d6e41f38e6295002e0cecc932bc30cf388280"
+},
+{
+"data": {
+"dtd": 1370,
+"ftl": 325
+},
+"date": "2023-05-09",
+"revision": "b46ac2fc5c5a9136f529483444187efcbd705e49"
+},
+{
+"data": {
+"dtd": 1322,
+"ftl": 324
+},
+"date": "2023-05-16",
+"revision": "08af69b87678e2d5bfbc3410418e809d5cfba6a8"
+},
+{
+"data": {
+"dtd": 1319,
+"ftl": 324
+},
+"date": "2023-05-23",
+"revision": "9d04c39d3e9534f70fd702477193d1d2a6004f2b"
+},
+{
+"data": {
+"dtd": 1319,
+"ftl": 324
+},
+"date": "2023-05-30",
+"revision": "1fcee7ea690ccbc11c9f738c41e120379befca91"
+},
+{
+"data": {
+"dtd": 1301,
+"ftl": 338
+},
+"date": "2023-06-06",
+"revision": "8fc0d3a70d0b81019215f4725837f5ba439867c0"
+},
+{
+"data": {
+"dtd": 1200,
+"ftl": 337
+},
+"date": "2023-06-13",
+"revision": "9dcc277a193409e2f79721527c8941ff5d49c45f"
+},
+{
+"data": {
+"dtd": 1200,
+"ftl": 337
+},
+"date": "2023-06-20",
+"revision": "8239c38fd4b184a2b1c1d8171edef2f17e0b7bca"
+},
+{
+"data": {
+"dtd": 1194,
+"ftl": 337
+},
+"date": "2023-06-27",
+"revision": "d1b467bfd9903f5496d7e205230db11dadf5ef7b"
+},
+{
+"data": {
+"dtd": 1194,
+"ftl": 337
+},
+"date": "2023-07-04",
+"revision": "605f78c33aa268d9b72cdb1d2b0c41abf988418f"
+},
+{
+"data": {
+"dtd": 1196,
+"ftl": 337
+},
+"date": "2023-07-11",
+"revision": "e5db488152cbbda9be895ea812304797810dcdcd"
+},
+{
+"data": {
+"dtd": 1196,
+"ftl": 337
+},
+"date": "2023-07-18",
+"revision": "82d685831f867de79e6eb2ff035b7d5071b57a1e"
+},
+{
+"data": {
+"dtd": 1196,
+"ftl": 337
+},
+"date": "2023-07-25",
+"revision": "3bf67df670ae8193a977385f2b471fa06f11c9d1"
+},
+{
+"data": {
+"dtd": 1196,
+"ftl": 337
+},
+"date": "2023-08-01",
+"revision": "1f0fe94dd1c73ccab5d02b04439e912bf2589ab9"
+},
+{
+"data": {
+"dtd": 1170,
+"ftl": 355
+},
+"date": "2023-08-08",
+"revision": "5ffa8b6e596846431cbbe801f98af15eaae1a4a9"
+},
+{
+"data": {
+"dtd": 1170,
+"ftl": 355
+},
+"date": "2023-08-15",
+"revision": "284edc21574688a2c0ffed0cbea4d7a87ce39d0b"
+},
+{
+"data": {
+"dtd": 1170,
+"ftl": 355
+},
+"date": "2023-08-22",
+"revision": "8d6e0f3f14d9c4581ebab9ec1a577a803f65eb59"
+},
+{
+"data": {
+"dtd": 1170,
+"ftl": 355
+},
+"date": "2023-08-29",
+"revision": "aab0679037443391820774ca179b9b229be89422"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 355
+},
+"date": "2023-09-05",
+"revision": "894d89f64450cab12e127ef3d3b334a827ad39a6"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 355
+},
+"date": "2023-09-12",
+"revision": "eaf52b27ea0a4ad679a84d9773e23b25259b1dba"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 355
+},
+"date": "2023-09-19",
+"revision": "0bd6894424b54c840098e611a53fa945d009bbd9"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 355
+},
+"date": "2023-09-26",
+"revision": "df4fe2c144a2e24bb0608cb17176408045f72d9d"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 355
+},
+"date": "2023-10-03",
+"revision": "ea2fd2a1201392eed871b5a92c7f7b26f11f8c94"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 355
+},
+"date": "2023-10-10",
+"revision": "8f792cd992f9b7914e0b41ba7a7c8fb753396855"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 356
+},
+"date": "2023-10-17",
+"revision": "5718770fa1a9bebd58eeba4c1b52bfcdfb96a478"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 395
+},
+"date": "2023-10-24",
+"revision": "15f22acd1373a09dfcbd3ab11024354628991eaa"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 395
+},
+"date": "2023-10-31",
+"revision": "9d746d20c41c7cbe9d688dadd5befa0e1cf1556f"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 398
+},
+"date": "2023-11-07",
+"revision": "cd28124806b25dfea973a476dd8ab306c5ae41f2"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 398
+},
+"date": "2023-11-14",
+"revision": "38efd251e789224328dd1fb807f44ca4db722a8a"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 398
+},
+"date": "2023-11-21",
+"revision": "aebcb6b00fdc6ce7dc7d2e5a1e66fc976b119c36"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 398
+},
+"date": "2023-11-28",
+"revision": "59d9a28f7c79a5bb34a6383cb1177a242a5c13dd"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 398
+},
+"date": "2023-12-05",
+"revision": "9b405512422c0fb63a22b4fde7ec6bb0812250c6"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 398
+},
+"date": "2023-12-12",
+"revision": "71f0b3cd1905f4c248a9f3319729f56411a27382"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 398
+},
+"date": "2023-12-19",
+"revision": "62620a3581e525e6125b05ad42981a44b58b2234"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 400
+},
+"date": "2023-12-26",
+"revision": "866e2f8e68d58b5d120d78a6fea5ed7dfed58c95"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 400
+},
+"date": "2024-01-02",
+"revision": "ec5b063e9e5d4cc9489187e12caa21f6c9f7cc2b"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 400
+},
+"date": "2024-01-09",
+"revision": "78c6087ab12dc119d00e651f9b7eecfea148f045"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 401
+},
+"date": "2024-01-16",
+"revision": "3a8d56442e9bad16a53ffb9c889cc6974c562fa8"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 401
+},
+"date": "2024-01-23",
+"revision": "dadd358c08760d1dc81d5948bd7aba253622bdb5"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 401
+},
+"date": "2024-01-30",
+"revision": "daecd5a45ddb76c3819699364e54bc4537fc44e2"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 401
+},
+"date": "2024-02-06",
+"revision": "40a6b945c9ba79faed60aed9a130e4227771b3b6"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 401
+},
+"date": "2024-02-13",
+"revision": "84627aac377f1e4e037a3189c4312917ddfa5829"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 401
+},
+"date": "2024-02-20",
+"revision": "4bb54cb606c854efe529575518c6afe16b6b4d6b"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 401
+},
+"date": "2024-02-27",
+"revision": "cbf3ae8ed2f140856b674db619fd42ab32f197ce"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 401
+},
+"date": "2024-03-05",
+"revision": "8f79d9e50fc9003754c03100ab9aecaed22d4c0e"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 401
+},
+"date": "2024-03-12",
+"revision": "decf930f14717e2bdf4a8cf7382097a9c7dc2182"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 401
+},
+"date": "2024-03-19",
+"revision": "4180f44afaf0ea06cec1dae62a6621d80b3fbd7e"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 401
+},
+"date": "2024-03-26",
+"revision": "8d673e87d2163ae3577331b07cf3593a2c3a9524"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 401
+},
+"date": "2024-04-02",
+"revision": "0325274ee44c976d6829216696aa292115de97c4"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 397
+},
+"date": "2024-04-09",
+"revision": "0ba3ac5e8e7d76d0081119740efba304fc9f8f1d"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 398
+},
+"date": "2024-04-16",
+"revision": "9e5570a0622017c0fc06d264c9f4d91bdf86a1fd"
+},
+{
+"data": {
+"dtd": 1166,
+"ftl": 398
+},
+"date": "2024-04-23",
+"revision": "0c73b92af5cf53d3857b4a614e88623c3abe0570"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 398
+},
+"date": "2024-04-30",
+"revision": "5e9b6b0fede8fb6a061e976c66cbef79d411242a"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 398
+},
+"date": "2024-05-07",
+"revision": "6fb59d66a6352e1d7a28f59e23a73a6bc1dac34a"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 398
+},
+"date": "2024-05-14",
+"revision": "48d90ab3921457866fc836ede4e5dec6893434d9"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 399
+},
+"date": "2024-05-21",
+"revision": "699f1e2ec58b1c318ded4401089dbf9e82dc1065"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 400
+},
+"date": "2024-05-28",
+"revision": "863d1547980681f2163c80dafab16ed32fc437b6"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 400
+},
+"date": "2024-06-04",
+"revision": "9d1da820353e790f24ce52fe1442f1af5fc0a69f"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 398
+},
+"date": "2024-06-11",
+"revision": "8a70452fd168420fd372ee1a595772d2de812040"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 398
+},
+"date": "2024-06-18",
+"revision": "e00bafb28c98fcad90ef58817b35bdfd4e2f5730"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 400
+},
+"date": "2024-06-25",
+"revision": "e070c1ba5fd57fb921dbae6439aaf428bbac6a48"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 400
+},
+"date": "2024-07-02",
+"revision": "068e9ccf42fda8463c1fd9194aefca8ff2a0a32b"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 400
+},
+"date": "2024-07-09",
+"revision": "a691b28dd377ab78451dd598cc50ce9c9f90bfe2"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 400
+},
+"date": "2024-07-16",
+"revision": "99ba195239d6df0c5763a673353999b6480577f2"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 400
+},
+"date": "2024-07-23",
+"revision": "a323f5d25a910085b5eac5f7e814e933f251ea17"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 386
+},
+"date": "2024-07-30",
+"revision": "c11e788c342418d508bad8725bdc159d3a4ab73e"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 393
+},
+"date": "2024-08-06",
+"revision": "0bfa2c900d658a7f4818c67a44890f131f5e2888"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 393
+},
+"date": "2024-08-13",
+"revision": "1d6240cf1717defb42e30cfe4d06b36b6084dccf"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 393
+},
+"date": "2024-08-20",
+"revision": "dd8faa635c24b436119375048457927b1246c5d9"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 393
+},
+"date": "2024-08-27",
+"revision": "76a5845579a8439cc1835bec3449335f3bc58e17"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 395
+},
+"date": "2024-09-03",
+"revision": "32fb87ba20ef5513f04be1bd086e49242b482b28"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 395
+},
+"date": "2024-09-10",
+"revision": "211ada9ebdb1eff151e50b4887d430e91e08db24"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 391
+},
+"date": "2024-09-17",
+"revision": "c6aac84135d511d6fe62cf29187192e38d64cac7"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 392
+},
+"date": "2024-09-24",
+"revision": "a2eb59577338cd0f5380cef160a3db61795c1001"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 392
+},
+"date": "2024-10-01",
+"revision": "081ba41b4678c1a45fdc7947654f1460526a43d4"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 395
+},
+"date": "2024-10-08",
+"revision": "cc6e4fdc1edf943256be87aa57b2ba844d143b48"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 395
+},
+"date": "2024-10-15",
+"revision": "1099035790c43204286675245790a635763c0693"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 395
+},
+"date": "2024-10-22",
+"revision": "9d217ec40cabfd974f5729452d2f33cd94c2deb8"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 396
+},
+"date": "2024-10-29",
+"revision": "d0a8f36a68677e0d8da53bc4207e14635da9bb84"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 412
+},
+"date": "2024-11-05",
+"revision": "1e85b2cdc1b5e9c9b2111ae051dbf4ab7f5ea814"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 415
+},
+"date": "2024-11-12",
+"revision": "9b5b6cefd84eb0eb54513faaeb886e1ce5b64c19"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 416
+},
+"date": "2024-11-19",
+"revision": "b43e4ab38ee373edb7991d4ae4aeef27e409b20c"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 418
+},
+"date": "2024-11-26",
+"revision": "bb5be5273616aeaf13b03b99791e78bc7ee05103"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 422
+},
+"date": "2024-12-03",
+"revision": "f8512f3e5d3ac510ae92864046eb9467d17711c8"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 425
+},
+"date": "2024-12-10",
+"revision": "baeff4baccbcadb54d8613995d53e2b33171d963"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 426
+},
+"date": "2024-12-17",
+"revision": "b8e6c7ea20679118a7abc7a0019ff2740a5efd75"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 426
+},
+"date": "2024-12-24",
+"revision": "a4565e837271c12fa994914d1c4c6b08d29fc06a"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 426
+},
+"date": "2024-12-31",
+"revision": "f1822bfd9804b333bfd315fd8e5268947b6c1759"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 426
+},
+"date": "2025-01-07",
+"revision": "3e486fdb95368f3c4f4a0c2f43801d2a970f1e8e"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 426
+},
+"date": "2025-01-14",
+"revision": "f07bda8d21a30c15e0f2ccd984866f4f1acb9401"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 434
+},
+"date": "2025-01-21",
+"revision": "702afde5a45a5c99690aa064c8d2e8ae495a9ac3"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 437
+},
+"date": "2025-01-28",
+"revision": "3af2c1d7b8dfb9b310892875106ecf22e405087d"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 437
+},
+"date": "2025-02-04",
+"revision": "837abd4bedecaa442140d62ab518aca6ab52d0c9"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 437
+},
+"date": "2025-02-11",
+"revision": "4a6ba9153e491ac24f33960584d26d3574f4243e"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 439
+},
+"date": "2025-02-18",
+"revision": "1a243e794833ab6d6ec593a7ecda9c55d963a904"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 439
+},
+"date": "2025-02-25",
+"revision": "bb3e5520331121abdf3d55894cd9df695e657418"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 439
+},
+"date": "2025-03-04",
+"revision": "a850cdf0d60605c452b2f2ce050cd0c814c463c9"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 439
+},
+"date": "2025-03-11",
+"revision": "b87ae121ea60a1a2157891968322cb2d86eeb4bb"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 439
+},
+"date": "2025-03-18",
+"revision": "89d4efbecaf301d6512908885c90ef66507e0090"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 439
+},
+"date": "2025-03-25",
+"revision": "0555f268df1b1af79ca5b8d69703cf993a08cfc5"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 439
+},
+"date": "2025-04-01",
+"revision": "75c4990d1f66a99115fa239424745dc8477ccba1"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 444
+},
+"date": "2025-04-08",
+"revision": "7046641878dee69952ee195c9678ce80d63a653b"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 447
+},
+"date": "2025-04-15",
+"revision": "c952a3f4c95c33bd887e06d7f37dd6c4e2aef382"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 447
+},
+"date": "2025-04-22",
+"revision": "a0ce5a42585bee901e097c9d637adcbc7e3100bb"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 447
+},
+"date": "2025-04-29",
+"revision": "5e2742c009a1e1a6005f57690e67190948427c43"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 447
+},
+"date": "2025-05-06",
+"revision": "4e890f9f20640e1c982575935642bebb56dbef2c"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 448
+},
+"date": "2025-05-13",
+"revision": "f8d07b105b16a993b2ca2bc26840c25d98fc3d38"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 448
+},
+"date": "2025-05-20",
+"revision": "063b5d178a06ab0b8739aea3d84b3de6d4c0e23c"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 459
+},
+"date": "2025-05-27",
+"revision": "05b37ef9718ed7b2af52caf83b56681324dc46fa"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 460
+},
+"date": "2025-06-03",
+"revision": "866172149464aa5de9550afa6b6fc5fa73823533"
+},
+{
+"data": {
+"dtd": 1162,
+"ftl": 463
+},
+"date": "2025-06-10",
+"revision": "0ff30d5302b3af43e9a43ea459c4972cc30f1ceb"
+},
+{
+"data": {
+"dtd": 1161,
+"ftl": 471
+},
+"date": "2025-06-17",
+"revision": "e2cf1d95ecfbdaa6cf1aa1d757e56208b8ccb8a5"
+},
+{
+"data": {
+"dtd": 1161,
+"ftl": 470
+},
+"date": "2025-06-24",
+"revision": "8934448a21ca9a774ccfb9cfc51303bda7e1577a"
+},
+{
+"data": {
+"dtd": 1161,
+"ftl": 479
+},
+"date": "2025-07-01",
+"revision": "bc9fee10b433cabefec0f8b2085fb597335af2fe"
+},
+{
+"data": {
+"dtd": 1161,
+"ftl": 479
+},
+"date": "2025-07-08",
+"revision": "7a0edb1235a2d59d4979ca35215fe9226195549b"
+},
+{
+"data": {
+"dtd": 1161,
+"ftl": 490
+},
+"date": "2025-07-15",
+"revision": "ee5f36ccf323d1c6064c156c128be30a3fb30822"
+},
+{
+"data": {
+"dtd": 1161,
+"ftl": 490
+},
+"date": "2025-07-22",
+"revision": "fd15124901865aa80306cf23a99467b7b9027dd3"
+},
+{
+"data": {
+"dtd": 1161,
+"ftl": 495
+},
+"date": "2025-07-29",
+"revision": "abaa14d7a3c0fdca465c9a27e9ea2b1a4c3fde3a"
+},
+{
+"data": {
+"dtd": 1161,
+"ftl": 495
+},
+"date": "2025-08-05",
+"revision": "517090c71477e8fbb62cfbe57db219772b7a37ba"
+},
+{
+"data": {
+"dtd": 1161,
+"ftl": 495
+},
+"date": "2025-08-12",
+"revision": "5e8c25e48b1f28c57b0f83e909c62b3a0c20f4de"
+},
+{
+"data": {
+"dtd": 959,
+"ftl": 605
+},
+"date": "2025-08-19",
+"revision": "43d3f69838d8c7d26b938c0f2a45ea1fe7417f14"
+},
+{
+"data": {
+"dtd": 959,
+"ftl": 605
+},
+"date": "2025-08-26",
+"revision": "200025086246192b69565ed0e0a94725075e513e"
+},
+{
+"data": {
+"dtd": 890,
+"ftl": 637
+},
+"date": "2025-09-02",
+"revision": "fbfa5051d8335172809ccfc19e93574f867346a4"
+},
+{
+"data": {
+"dtd": 890,
+"ftl": 637
+},
+"date": "2025-09-09",
+"revision": "6d5c3438cc6d0dc74785143f3b54987a1fb05c6a"
+},
+{
+"data": {
+"dtd": 822,
+"ftl": 683
+},
+"date": "2025-09-16",
+"revision": "d4d6a057f8b743a34263fe7d007da0abedf13eb6"
+},
+{
+"data": {
+"dtd": 822,
+"ftl": 690
+},
+"date": "2025-09-23",
+"revision": "1e08dde6cc788b624f0fbb2aca60a8fc114f1612"
+},
+{
+"data": {
+"dtd": 822,
+"ftl": 690
+},
+"date": "2025-09-30",
+"revision": "81433d41a585588011c030632238e89a41ac1bb8"
+},
+{
+"data": {
+"dtd": 790,
+"ftl": 708
+},
+"date": "2025-10-07",
+"revision": "67d4372c19f5d0b9add13e392a31b298da13c60c"
+},
+{
+"data": {
+"dtd": 790,
+"ftl": 714
+},
+"date": "2025-10-14",
+"revision": "4bbbd4f4ac60a852e7e9716265d3fbf985e7ec9c"
+},
+{
+"data": {
+"dtd": 787,
+"ftl": 712
+},
+"date": "2025-10-21",
+"revision": "e32f2ac3f5de71536173383b21612e3e80caef0c"
+},
+{
+"data": {
+"dtd": 787,
+"ftl": 712
+},
+"date": "2025-10-28",
+"revision": "40269ad6a3490308a28e127ca13f51757ce2bdee"
+},
+{
+"data": {
+"dtd": 787,
+"ftl": 711
+},
+"date": "2025-11-04",
+"revision": "33286c4be07a4616c514af1d0f3fe67db87f2cbe"
+},
+{
+"data": {
+"dtd": 787,
+"ftl": 711
+},
+"date": "2025-11-11",
+"revision": "6481fa1c20faa96c2e52c1f3e4659e34db7c3101"
+},
+{
+"data": {
+"dtd": 787,
+"ftl": 711
+},
+"date": "2025-11-18",
+"revision": "4ceb7c04d277403982bb70f35e35c75a8af3534e"
+},
+{
+"data": {
+"dtd": 787,
+"ftl": 711
+},
+"date": "2025-11-25",
+"revision": "ef8217db0644e15a3f9b637e70d360aa8b731ad4"
+},
+{
+"data": {
+"dtd": 787,
+"ftl": 711
+},
+"date": "2025-12-02",
+"revision": "3b065caca59f0ae0493ff2fab8b557d9795b34b4"
+},
+{
+"data": {
+"dtd": 785,
+"ftl": 717
+},
+"date": "2025-12-09",
+"revision": "09ff653fb551b022496c979a13244a17281c3a2e"
+},
+{
+"data": {
+"dtd": 785,
+"ftl": 717
+},
+"date": "2025-12-16",
+"revision": "f1d501c229d307c09a16851b8729c06593f4099b"
+},
+{
+"data": {
+"dtd": 785,
+"ftl": 717
+},
+"date": "2025-12-23",
+"revision": "ba321d9bb526c240bd46796ed430825a708bb3a2"
+},
+{
+"data": {
+"dtd": 785,
+"ftl": 717
+},
+"date": "2025-12-30",
+"revision": "88b8264f06e4a274f5f5ba4ef828d981193188c2"
+},
+{
+"data": {
+"dtd": 785,
+"ftl": 717
+},
+"date": "2026-01-06",
+"revision": "ce66d67aef3d55f407102e5670ae574362535499"
+},
+{
+"data": {
+"dtd": 787,
+"ftl": 717
+},
+"date": "2026-01-13",
+"revision": "26966e8f0a2fb015cde95e2a434c33568e1c1685"
+},
+{
+"data": {
+"dtd": 787,
+"ftl": 718
+},
+"date": "2026-01-20",
+"revision": "52a8f2a91aef61dd4963e9ef2b39692e884d371c"
+},
+{
+"data": {
+"dtd": 787,
+"ftl": 718
+},
+"date": "2026-01-27",
+"revision": "bcee52fba79c511a4ee3ea531997c30182a8edc4"
+},
+{
+"data": {
+"dtd": 763,
+"ftl": 723
+},
+"date": "2026-02-03",
+"revision": "61b7c1b103d1659695e275fd82696f78b2a282ca"
+},
+{
+"data": {
+"dtd": 763,
+"ftl": 726
+},
+"date": "2026-02-05",
+"revision": "1aaa1465f89b8a314d0bc8f711cbe4003fb12e93"
+}
+]

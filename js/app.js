@@ -7,8 +7,8 @@ const State = {
   milestones: [
     {
       code: "M1",
-      name: "browser.xhtml",
-      title: "Strings loaded in browser.xhtml",
+      name: "messenger.xhtml",
+      title: "Strings loaded in messenger.xhtml (without includes?)",
       categories: ["dtd", "ftl"],
       skipInDashboard: [],
       categoriesBar: [null, 1],

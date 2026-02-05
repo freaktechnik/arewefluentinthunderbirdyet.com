@@ -1,1 +1,5962 @@
-{}
+{
+"date": "2026-02-05",
+"revision": "1aaa1465f89b8a314d0bc8f711cbe4003fb12e93",
+"data": [
+{
+"type": "dtd",
+"id": "titledefault.label"
+},
+{
+"type": "dtd",
+"id": "titleSeparator.label"
+},
+{
+"type": "dtd",
+"id": "defaultTabTitle.label"
+},
+{
+"type": "dtd",
+"id": "titledefault.label"
+},
+{
+"type": "dtd",
+"id": "undoDeleteMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "undoMoveMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "undoCopyMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "undoMarkAllCmd.label"
+},
+{
+"type": "dtd",
+"id": "undoDefaultCmd.label"
+},
+{
+"type": "dtd",
+"id": "redoDeleteMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "redoMoveMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "redoCopyMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "redoMarkAllCmd.label"
+},
+{
+"type": "dtd",
+"id": "redoDefaultCmd.label"
+},
+{
+"type": "dtd",
+"id": "filtersApplyToSelection.label"
+},
+{
+"type": "dtd",
+"id": "filtersApplyToSelection.accesskey"
+},
+{
+"type": "dtd",
+"id": "filtersApplyToMessage.label"
+},
+{
+"type": "dtd",
+"id": "filtersApplyToMessage.accesskey"
+},
+{
+"type": "dtd",
+"id": "minimizeWindow.label"
+},
+{
+"type": "dtd",
+"id": "zoomWindow.label"
+},
+{
+"type": "dtd",
+"id": "closeCmd.key"
+},
+{
+"type": "dtd",
+"id": "renameFolder.key"
+},
+{
+"type": "dtd",
+"id": "selectThreadCmd.key"
+},
+{
+"type": "dtd",
+"id": "toggleReadCmd.key"
+},
+{
+"type": "dtd",
+"id": "markStarredCmd.key"
+},
+{
+"type": "dtd",
+"id": "markAllReadCmd.key"
+},
+{
+"type": "dtd",
+"id": "markThreadAsReadCmd.key"
+},
+{
+"type": "dtd",
+"id": "markReadByDateCmd.key"
+},
+{
+"type": "dtd",
+"id": "nextMsgCmd.key"
+},
+{
+"type": "dtd",
+"id": "nextUnreadMsgCmd.key"
+},
+{
+"type": "dtd",
+"id": "expandAllThreadsCmd.key"
+},
+{
+"type": "dtd",
+"id": "expandAllThreadsCmd.key"
+},
+{
+"type": "dtd",
+"id": "collapseAllThreadsCmd.key"
+},
+{
+"type": "dtd",
+"id": "collapseAllThreadsCmd.key"
+},
+{
+"type": "dtd",
+"id": "nextUnreadThread.key"
+},
+{
+"type": "dtd",
+"id": "prevMsgCmd.key"
+},
+{
+"type": "dtd",
+"id": "prevUnreadMsgCmd.key"
+},
+{
+"type": "dtd",
+"id": "archiveMsgCmd.key"
+},
+{
+"type": "dtd",
+"id": "goForwardCmd.commandKey"
+},
+{
+"type": "dtd",
+"id": "goBackCmd.commandKey"
+},
+{
+"type": "dtd",
+"id": "undoCloseTabCmd.commandkey"
+},
+{
+"type": "dtd",
+"id": "replyMsgCmd.key"
+},
+{
+"type": "dtd",
+"id": "replyToAllMsgCmd.key"
+},
+{
+"type": "dtd",
+"id": "replyToListMsgCmd.key"
+},
+{
+"type": "dtd",
+"id": "forwardMsgCmd.key"
+},
+{
+"type": "dtd",
+"id": "editAsNewMsgCmd.key"
+},
+{
+"type": "dtd",
+"id": "newMsgFromTemplateCmd.keycode"
+},
+{
+"type": "dtd",
+"id": "watchThreadMenu.key"
+},
+{
+"type": "dtd",
+"id": "killThreadMenu.key"
+},
+{
+"type": "dtd",
+"id": "killSubthreadMenu.key"
+},
+{
+"type": "dtd",
+"id": "openMessageWindowCmd.key"
+},
+{
+"type": "dtd",
+"id": "openInConversationCmd.key"
+},
+{
+"type": "dtd",
+"id": "printCmd.key"
+},
+{
+"type": "dtd",
+"id": "saveAsFileCmd.key"
+},
+{
+"type": "dtd",
+"id": "pageSourceCmd.key"
+},
+{
+"type": "dtd",
+"id": "getNewMessagesCmd.key"
+},
+{
+"type": "dtd",
+"id": "getAllNewMessagesCmd.key"
+},
+{
+"type": "dtd",
+"id": "findCmd.key"
+},
+{
+"type": "dtd",
+"id": "findAgainCmd.key"
+},
+{
+"type": "dtd",
+"id": "findPrevCmd.key"
+},
+{
+"type": "dtd",
+"id": "findAgainCmd.key2"
+},
+{
+"type": "dtd",
+"id": "findPrevCmd.key2"
+},
+{
+"type": "dtd",
+"id": "quickSearchCmd.key"
+},
+{
+"type": "dtd",
+"id": "fullZoomReduceCmd.commandkey"
+},
+{
+"type": "dtd",
+"id": "fullZoomReduceCmd.commandkey2"
+},
+{
+"type": "dtd",
+"id": "fullZoomEnlargeCmd.commandkey"
+},
+{
+"type": "dtd",
+"id": "fullZoomEnlargeCmd.commandkey2"
+},
+{
+"type": "dtd",
+"id": "fullZoomEnlargeCmd.commandkey3"
+},
+{
+"type": "dtd",
+"id": "fullZoomResetCmd.commandkey"
+},
+{
+"type": "dtd",
+"id": "fullZoomResetCmd.commandkey2"
+},
+{
+"type": "dtd",
+"id": "tagCmd0.key"
+},
+{
+"type": "dtd",
+"id": "tagCmd1.key"
+},
+{
+"type": "dtd",
+"id": "tagCmd2.key"
+},
+{
+"type": "dtd",
+"id": "tagCmd3.key"
+},
+{
+"type": "dtd",
+"id": "tagCmd4.key"
+},
+{
+"type": "dtd",
+"id": "tagCmd5.key"
+},
+{
+"type": "dtd",
+"id": "tagCmd6.key"
+},
+{
+"type": "dtd",
+"id": "tagCmd7.key"
+},
+{
+"type": "dtd",
+"id": "tagCmd8.key"
+},
+{
+"type": "dtd",
+"id": "tagCmd9.key"
+},
+{
+"type": "dtd",
+"id": "errorConsoleCmd.commandkey"
+},
+{
+"type": "dtd",
+"id": "devToolboxCmd.commandkey"
+},
+{
+"type": "dtd",
+"id": "addressBookCmd.key"
+},
+{
+"type": "dtd",
+"id": "savedFiles.key"
+},
+{
+"type": "dtd",
+"id": "minimizeWindow.key"
+},
+{
+"type": "dtd",
+"id": "addressBookCmd.key"
+},
+{
+"type": "dtd",
+"id": "preferencesCmdMac.commandkey"
+},
+{
+"type": "dtd",
+"id": "preferencesCmdMac.modifiers"
+},
+{
+"type": "dtd",
+"id": "hideThisAppCmdMac.commandkey"
+},
+{
+"type": "dtd",
+"id": "hideThisAppCmdMac.modifiers"
+},
+{
+"type": "dtd",
+"id": "hideOtherAppsCmdMac.commandkey"
+},
+{
+"type": "dtd",
+"id": "hideOtherAppsCmdMac.modifiers"
+},
+{
+"type": "dtd",
+"id": "productHelpMac.commandkey"
+},
+{
+"type": "dtd",
+"id": "productHelpMac.modifiers"
+},
+{
+"type": "dtd",
+"id": "productHelp.commandkey"
+},
+{
+"type": "dtd",
+"id": "newMessageCmd.key"
+},
+{
+"type": "dtd",
+"id": "newMessageCmd2.key"
+},
+{
+"type": "dtd",
+"id": "newMessageCmd.key"
+},
+{
+"type": "dtd",
+"id": "newMessageCmd2.key"
+},
+{
+"type": "dtd",
+"id": "lightning.keys.event.new"
+},
+{
+"type": "dtd",
+"id": "lightning.keys.todo.new"
+},
+{
+"type": "dtd",
+"id": "openInBrowser.label"
+},
+{
+"type": "dtd",
+"id": "openInBrowser.accesskey"
+},
+{
+"type": "dtd",
+"id": "openLinkInBrowser.label"
+},
+{
+"type": "dtd",
+"id": "openLinkInBrowser.accesskey"
+},
+{
+"type": "dtd",
+"id": "undoDefaultCmd.label"
+},
+{
+"type": "dtd",
+"id": "undoDefaultCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "spellAddDictionaries.label"
+},
+{
+"type": "dtd",
+"id": "spellAddDictionaries.accesskey"
+},
+{
+"type": "dtd",
+"id": "spellAddDictionaries.label"
+},
+{
+"type": "dtd",
+"id": "spellAddDictionaries.accesskey"
+},
+{
+"type": "dtd",
+"id": "contextPlay.label"
+},
+{
+"type": "dtd",
+"id": "contextPlay.accesskey"
+},
+{
+"type": "dtd",
+"id": "contextPause.label"
+},
+{
+"type": "dtd",
+"id": "contextPause.accesskey"
+},
+{
+"type": "dtd",
+"id": "contextMute.label"
+},
+{
+"type": "dtd",
+"id": "contextMute.accesskey"
+},
+{
+"type": "dtd",
+"id": "contextUnmute.label"
+},
+{
+"type": "dtd",
+"id": "contextUnmute.accesskey"
+},
+{
+"type": "dtd",
+"id": "copyLinkCmd.label"
+},
+{
+"type": "dtd",
+"id": "copyLinkCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "copyImageAllCmd.label"
+},
+{
+"type": "dtd",
+"id": "copyImageAllCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "AddToAddressBook.label"
+},
+{
+"type": "dtd",
+"id": "AddToAddressBook.accesskey"
+},
+{
+"type": "dtd",
+"id": "SendMessageTo.label"
+},
+{
+"type": "dtd",
+"id": "SendMessageTo.accesskey"
+},
+{
+"type": "dtd",
+"id": "copyEmailCmd.label"
+},
+{
+"type": "dtd",
+"id": "copyEmailCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "saveLinkAsCmd.label"
+},
+{
+"type": "dtd",
+"id": "saveLinkAsCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "saveImageAsCmd.label"
+},
+{
+"type": "dtd",
+"id": "saveImageAsCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "customizeToolbar.label"
+},
+{
+"type": "dtd",
+"id": "customizeToolbar.accesskey"
+},
+{
+"type": "dtd",
+"id": "accountManagerCmd2.label"
+},
+{
+"type": "dtd",
+"id": "viewToolbarsMenu.label"
+},
+{
+"type": "dtd",
+"id": "showTaskbarCmd.label"
+},
+{
+"type": "dtd",
+"id": "appmenuToolbarLayout.label"
+},
+{
+"type": "dtd",
+"id": "messagePaneLayoutStyle.label"
+},
+{
+"type": "dtd",
+"id": "messagePaneClassic.label"
+},
+{
+"type": "dtd",
+"id": "messagePaneWide.label"
+},
+{
+"type": "dtd",
+"id": "messagePaneVertical.label"
+},
+{
+"type": "dtd",
+"id": "showFolderPaneCmd.label"
+},
+{
+"type": "dtd",
+"id": "showMessageCmd.label"
+},
+{
+"type": "dtd",
+"id": "todaypane.showTodayPane.label"
+},
+{
+"type": "dtd",
+"id": "viewToolbarsMenu.label"
+},
+{
+"type": "dtd",
+"id": "viewToolbarsMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "messagePaneLayoutStyle.label"
+},
+{
+"type": "dtd",
+"id": "folderView.label"
+},
+{
+"type": "dtd",
+"id": "folderView.label"
+},
+{
+"type": "dtd",
+"id": "menuFavoriteFolder.label"
+},
+{
+"type": "dtd",
+"id": "viewTags.label"
+},
+{
+"type": "dtd",
+"id": "viewCustomViews.label"
+},
+{
+"type": "dtd",
+"id": "menubarCmd.label"
+},
+{
+"type": "dtd",
+"id": "menubarCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "addNewTag.label"
+},
+{
+"type": "dtd",
+"id": "addNewTag.accesskey"
+},
+{
+"type": "dtd",
+"id": "manageTags.label"
+},
+{
+"type": "dtd",
+"id": "manageTags.accesskey"
+},
+{
+"type": "dtd",
+"id": "markAsReadCmd.label"
+},
+{
+"type": "dtd",
+"id": "markAsReadCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "markAsUnreadCmd.label"
+},
+{
+"type": "dtd",
+"id": "markAsUnreadCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "markThreadAsReadCmd.label"
+},
+{
+"type": "dtd",
+"id": "markThreadAsReadCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "markReadByDateCmd.label"
+},
+{
+"type": "dtd",
+"id": "markReadByDateCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "markAllReadCmd.label"
+},
+{
+"type": "dtd",
+"id": "markAllReadCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "markStarredCmd.label"
+},
+{
+"type": "dtd",
+"id": "markStarredCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "viewAll.label"
+},
+{
+"type": "dtd",
+"id": "viewUnread.label"
+},
+{
+"type": "dtd",
+"id": "viewNotDeleted.label"
+},
+{
+"type": "dtd",
+"id": "viewTags.label"
+},
+{
+"type": "dtd",
+"id": "viewCustomViews.label"
+},
+{
+"type": "dtd",
+"id": "viewVirtualFolder.label"
+},
+{
+"type": "dtd",
+"id": "viewCustomizeView.label"
+},
+{
+"type": "dtd",
+"id": "moveToNewWindow.label"
+},
+{
+"type": "dtd",
+"id": "moveToNewWindow.accesskey"
+},
+{
+"type": "dtd",
+"id": "closeOtherTabsCmd2.label"
+},
+{
+"type": "dtd",
+"id": "closeOtherTabsCmd2.accesskey"
+},
+{
+"type": "dtd",
+"id": "recentlyClosedTabsCmd.label"
+},
+{
+"type": "dtd",
+"id": "recentlyClosedTabsCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "closeTabCmd2.label"
+},
+{
+"type": "dtd",
+"id": "closeTabCmd2.accesskey"
+},
+{
+"type": "dtd",
+"id": "openConversationCmd.label"
+},
+{
+"type": "dtd",
+"id": "openConversationCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "closeConversationCmd.label"
+},
+{
+"type": "dtd",
+"id": "closeConversationCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "aliasCmd.label"
+},
+{
+"type": "dtd",
+"id": "aliasCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "openLinkCmd.label"
+},
+{
+"type": "dtd",
+"id": "openLinkCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "copyEmailCmd.label"
+},
+{
+"type": "dtd",
+"id": "copyEmailCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "copyLinkCmd.label"
+},
+{
+"type": "dtd",
+"id": "copyLinkCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "customizeToolbar.label"
+},
+{
+"type": "dtd",
+"id": "customizeToolbar.accesskey"
+},
+{
+"type": "dtd",
+"id": "spellAddDictionaries.label"
+},
+{
+"type": "dtd",
+"id": "spellAddDictionaries.accesskey"
+},
+{
+"type": "dtd",
+"id": "event.menu.view.toolbars.customize.label"
+},
+{
+"type": "dtd",
+"id": "appmenuButton.label"
+},
+{
+"type": "dtd",
+"id": "appmenuButton1.tooltip"
+},
+{
+"type": "dtd",
+"id": "fileMenu.label"
+},
+{
+"type": "dtd",
+"id": "fileMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "newMenu.label"
+},
+{
+"type": "dtd",
+"id": "newMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "newNewMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "newNewMsgCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.menupopup.new.event.label"
+},
+{
+"type": "dtd",
+"id": "lightning.menupopup.new.event.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.menupopup.new.task.label"
+},
+{
+"type": "dtd",
+"id": "lightning.menupopup.new.task.accesskey"
+},
+{
+"type": "dtd",
+"id": "newFolderCmd.label"
+},
+{
+"type": "dtd",
+"id": "newFolderCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "newVirtualFolderCmd.label"
+},
+{
+"type": "dtd",
+"id": "newVirtualFolderCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.menupopup.new.calendar.label"
+},
+{
+"type": "dtd",
+"id": "lightning.menupopup.new.calendar.accesskey"
+},
+{
+"type": "dtd",
+"id": "newIMAccountCmd.label"
+},
+{
+"type": "dtd",
+"id": "newIMAccountCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "newFeedAccountCmd.label"
+},
+{
+"type": "dtd",
+"id": "newFeedAccountCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "newContactCmd.label"
+},
+{
+"type": "dtd",
+"id": "newContactCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "newIMContactCmd.label"
+},
+{
+"type": "dtd",
+"id": "newIMContactCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "openMenuCmd.label"
+},
+{
+"type": "dtd",
+"id": "openMenuCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "openMessageFileCmd.label"
+},
+{
+"type": "dtd",
+"id": "openMessageFileCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.menupopup.open.calendar.label"
+},
+{
+"type": "dtd",
+"id": "lightning.menupopup.open.calendar.accesskey"
+},
+{
+"type": "dtd",
+"id": "closeCmd.label"
+},
+{
+"type": "dtd",
+"id": "closeCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "event.menu.item.save.label"
+},
+{
+"type": "dtd",
+"id": "event.menu.item.save.tab.accesskey"
+},
+{
+"type": "dtd",
+"id": "event.menu.item.saveandclose.label"
+},
+{
+"type": "dtd",
+"id": "event.menu.item.saveandclose.tab.accesskey"
+},
+{
+"type": "dtd",
+"id": "saveAsMenu.label"
+},
+{
+"type": "dtd",
+"id": "saveAsMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "saveAsTemplateCmd.label"
+},
+{
+"type": "dtd",
+"id": "saveAsTemplateCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "getNewMsgForCmd.label"
+},
+{
+"type": "dtd",
+"id": "getNewMsgForCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "getAllNewMsgCmdPopupMenu.label"
+},
+{
+"type": "dtd",
+"id": "getAllNewMsgCmdPopupMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "getNewMsgCurrentAccountCmdPopupMenu.label"
+},
+{
+"type": "dtd",
+"id": "getNewMsgCurrentAccountCmdPopupMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "getNextNMsgCmd2.label"
+},
+{
+"type": "dtd",
+"id": "getNextNMsgCmd2.accesskey"
+},
+{
+"type": "dtd",
+"id": "sendUnsentCmd.label"
+},
+{
+"type": "dtd",
+"id": "sendUnsentCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "subscribeCmd.label"
+},
+{
+"type": "dtd",
+"id": "subscribeCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "renameFolder.label"
+},
+{
+"type": "dtd",
+"id": "renameFolder.accesskey"
+},
+{
+"type": "dtd",
+"id": "emptyTrashCmd.label"
+},
+{
+"type": "dtd",
+"id": "emptyTrashCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "offlineMenu.label"
+},
+{
+"type": "dtd",
+"id": "offlineMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "offlineGoOfflineCmd.label"
+},
+{
+"type": "dtd",
+"id": "offlineGoOfflineCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "synchronizeOfflineCmd.label"
+},
+{
+"type": "dtd",
+"id": "synchronizeOfflineCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "settingsOfflineCmd2.label"
+},
+{
+"type": "dtd",
+"id": "settingsOfflineCmd2.accesskey"
+},
+{
+"type": "dtd",
+"id": "downloadStarredCmd.label"
+},
+{
+"type": "dtd",
+"id": "downloadStarredCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "downloadSelectedCmd.label"
+},
+{
+"type": "dtd",
+"id": "downloadSelectedCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "printCmd.label"
+},
+{
+"type": "dtd",
+"id": "printCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "editMenu.label"
+},
+{
+"type": "dtd",
+"id": "editMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "undoDefaultCmd.label"
+},
+{
+"type": "dtd",
+"id": "undoDefaultCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "redoDefaultCmd.label"
+},
+{
+"type": "dtd",
+"id": "redoDefaultCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "selectMenu.label"
+},
+{
+"type": "dtd",
+"id": "selectMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "all.label"
+},
+{
+"type": "dtd",
+"id": "all.accesskey"
+},
+{
+"type": "dtd",
+"id": "selectThreadCmd.label"
+},
+{
+"type": "dtd",
+"id": "selectThreadCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "selectFlaggedCmd.label"
+},
+{
+"type": "dtd",
+"id": "selectFlaggedCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "findMenu.label"
+},
+{
+"type": "dtd",
+"id": "findMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "findCmd.label"
+},
+{
+"type": "dtd",
+"id": "findCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "findAgainCmd.label"
+},
+{
+"type": "dtd",
+"id": "findAgainCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "searchMailCmd.label"
+},
+{
+"type": "dtd",
+"id": "searchMailCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "glodaSearchCmd.label"
+},
+{
+"type": "dtd",
+"id": "glodaSearchCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "searchAddressesCmd.label"
+},
+{
+"type": "dtd",
+"id": "searchAddressesCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "menuFavoriteFolder.label"
+},
+{
+"type": "dtd",
+"id": "menuFavoriteFolder.accesskey"
+},
+{
+"type": "dtd",
+"id": "calendar.properties.label"
+},
+{
+"type": "dtd",
+"id": "calendar.properties.accesskey"
+},
+{
+"type": "dtd",
+"id": "accountManagerCmd2.label"
+},
+{
+"type": "dtd",
+"id": "accountManagerCmdUnix2.accesskey"
+},
+{
+"type": "dtd",
+"id": "viewMenu.label"
+},
+{
+"type": "dtd",
+"id": "viewMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "viewToolbarsMenu.label"
+},
+{
+"type": "dtd",
+"id": "viewToolbarsMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "showTaskbarCmd.label"
+},
+{
+"type": "dtd",
+"id": "showTaskbarCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "customizeToolbar.label"
+},
+{
+"type": "dtd",
+"id": "customizeToolbar.accesskey"
+},
+{
+"type": "dtd",
+"id": "messagePaneLayoutStyle.label"
+},
+{
+"type": "dtd",
+"id": "messagePaneLayoutStyle.accesskey"
+},
+{
+"type": "dtd",
+"id": "messagePaneClassic.label"
+},
+{
+"type": "dtd",
+"id": "messagePaneClassic.accesskey"
+},
+{
+"type": "dtd",
+"id": "messagePaneWide.label"
+},
+{
+"type": "dtd",
+"id": "messagePaneWide.accesskey"
+},
+{
+"type": "dtd",
+"id": "messagePaneVertical.label"
+},
+{
+"type": "dtd",
+"id": "messagePaneVertical.accesskey"
+},
+{
+"type": "dtd",
+"id": "showFolderPaneCmd.label"
+},
+{
+"type": "dtd",
+"id": "showFolderPaneCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "showMessageCmd.label"
+},
+{
+"type": "dtd",
+"id": "showMessageCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "folderView.label"
+},
+{
+"type": "dtd",
+"id": "folderView.accesskey"
+},
+{
+"type": "dtd",
+"id": "fullZoom.label"
+},
+{
+"type": "dtd",
+"id": "fullZoom.accesskey"
+},
+{
+"type": "dtd",
+"id": "fullZoomEnlargeCmd.label"
+},
+{
+"type": "dtd",
+"id": "fullZoomEnlargeCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "fullZoomReduceCmd.label"
+},
+{
+"type": "dtd",
+"id": "fullZoomReduceCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "fullZoomResetCmd.label"
+},
+{
+"type": "dtd",
+"id": "fullZoomResetCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "fullZoomToggleCmd.label"
+},
+{
+"type": "dtd",
+"id": "fullZoomToggleCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "todaypane.showTodayPane.label"
+},
+{
+"type": "dtd",
+"id": "todaypane.showTodayPane.accesskey"
+},
+{
+"type": "dtd",
+"id": "todaypane.showMiniday.label"
+},
+{
+"type": "dtd",
+"id": "todaypane.showMiniday.accesskey"
+},
+{
+"type": "dtd",
+"id": "todaypane.showMinimonth.label"
+},
+{
+"type": "dtd",
+"id": "todaypane.showMinimonth.accesskey"
+},
+{
+"type": "dtd",
+"id": "todaypane.showNone.label"
+},
+{
+"type": "dtd",
+"id": "todaypane.showNone.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.menu.view.calendar.label"
+},
+{
+"type": "dtd",
+"id": "lightning.menu.view.calendar.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.day.label"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.day.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.week.label"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.week.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.multiweek.label"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.multiweek.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.month.label"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.month.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.calendarmenu.label"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.calendarmenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.calendarpane.label"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.calendarpane.accesskey"
+},
+{
+"type": "dtd",
+"id": "showCurrentView.label"
+},
+{
+"type": "dtd",
+"id": "showCurrentView.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.menu.view.tasks.label"
+},
+{
+"type": "dtd",
+"id": "lightning.menu.view.tasks.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortMenu.label"
+},
+{
+"type": "dtd",
+"id": "sortByDateCmd.label"
+},
+{
+"type": "dtd",
+"id": "sortByDateCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortByReceivedCmd.label"
+},
+{
+"type": "dtd",
+"id": "sortByReceivedCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortByStarCmd.label"
+},
+{
+"type": "dtd",
+"id": "sortByStarCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortByOrderReceivedCmd.label"
+},
+{
+"type": "dtd",
+"id": "sortByOrderReceivedCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortByPriorityCmd.label"
+},
+{
+"type": "dtd",
+"id": "sortByPriorityCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortByFromCmd.label"
+},
+{
+"type": "dtd",
+"id": "sortByFromCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortByRecipientCmd.label"
+},
+{
+"type": "dtd",
+"id": "sortByRecipientCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortByCorrespondentCmd.label"
+},
+{
+"type": "dtd",
+"id": "sortByCorrespondentCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortBySizeCmd.label"
+},
+{
+"type": "dtd",
+"id": "sortBySizeCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortByStatusCmd.label"
+},
+{
+"type": "dtd",
+"id": "sortByStatusCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortBySubjectCmd.label"
+},
+{
+"type": "dtd",
+"id": "sortBySubjectCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortByUnreadCmd.label"
+},
+{
+"type": "dtd",
+"id": "sortByUnreadCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortByTagsCmd.label"
+},
+{
+"type": "dtd",
+"id": "sortByTagsCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortByAttachmentsCmd.label"
+},
+{
+"type": "dtd",
+"id": "sortByAttachmentsCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortAscending.label"
+},
+{
+"type": "dtd",
+"id": "sortAscending.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortDescending.label"
+},
+{
+"type": "dtd",
+"id": "sortDescending.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortThreaded.label"
+},
+{
+"type": "dtd",
+"id": "sortThreaded.accesskey"
+},
+{
+"type": "dtd",
+"id": "sortUnthreaded.label"
+},
+{
+"type": "dtd",
+"id": "sortUnthreaded.accesskey"
+},
+{
+"type": "dtd",
+"id": "groupBySort.label"
+},
+{
+"type": "dtd",
+"id": "groupBySort.accesskey"
+},
+{
+"type": "dtd",
+"id": "msgsMenu.label"
+},
+{
+"type": "dtd",
+"id": "msgsMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "viewAll.label"
+},
+{
+"type": "dtd",
+"id": "viewAll.accesskey"
+},
+{
+"type": "dtd",
+"id": "viewUnread.label"
+},
+{
+"type": "dtd",
+"id": "viewUnread.accesskey"
+},
+{
+"type": "dtd",
+"id": "viewNotDeleted.label"
+},
+{
+"type": "dtd",
+"id": "viewNotDeleted.accesskey"
+},
+{
+"type": "dtd",
+"id": "viewTags.label"
+},
+{
+"type": "dtd",
+"id": "viewTags.accesskey"
+},
+{
+"type": "dtd",
+"id": "viewCustomViews.label"
+},
+{
+"type": "dtd",
+"id": "viewCustomViews.accesskey"
+},
+{
+"type": "dtd",
+"id": "viewVirtualFolder.label"
+},
+{
+"type": "dtd",
+"id": "viewVirtualFolder.accesskey"
+},
+{
+"type": "dtd",
+"id": "viewCustomizeView.label"
+},
+{
+"type": "dtd",
+"id": "viewCustomizeView.accesskey"
+},
+{
+"type": "dtd",
+"id": "threads.label"
+},
+{
+"type": "dtd",
+"id": "threads.accesskey"
+},
+{
+"type": "dtd",
+"id": "allMsgsCmd.label"
+},
+{
+"type": "dtd",
+"id": "allMsgsCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "unreadMsgsCmd.label"
+},
+{
+"type": "dtd",
+"id": "unreadMsgsCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "threadsWithUnreadCmd.label"
+},
+{
+"type": "dtd",
+"id": "threadsWithUnreadCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "watchedThreadsWithUnreadCmd.label"
+},
+{
+"type": "dtd",
+"id": "watchedThreadsWithUnreadCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "ignoredThreadsCmd.label"
+},
+{
+"type": "dtd",
+"id": "ignoredThreadsCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "expandAllThreadsCmd.label"
+},
+{
+"type": "dtd",
+"id": "expandAllThreadsCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "collapseAllThreadsCmd.label"
+},
+{
+"type": "dtd",
+"id": "collapseAllThreadsCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "headersMenu.label"
+},
+{
+"type": "dtd",
+"id": "headersMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "headersAllCmd.label"
+},
+{
+"type": "dtd",
+"id": "headersAllCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "headersNormalCmd.label"
+},
+{
+"type": "dtd",
+"id": "headersNormalCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "bodyMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "bodyMenu.label"
+},
+{
+"type": "dtd",
+"id": "bodyAllowHTML.label"
+},
+{
+"type": "dtd",
+"id": "bodyAllowHTML.accesskey"
+},
+{
+"type": "dtd",
+"id": "bodySanitized.label"
+},
+{
+"type": "dtd",
+"id": "bodySanitized.accesskey"
+},
+{
+"type": "dtd",
+"id": "bodyAsPlaintext.label"
+},
+{
+"type": "dtd",
+"id": "bodyAsPlaintext.accesskey"
+},
+{
+"type": "dtd",
+"id": "bodyAllParts.label"
+},
+{
+"type": "dtd",
+"id": "bodyAllParts.accesskey"
+},
+{
+"type": "dtd",
+"id": "bodyMenuFeed.label"
+},
+{
+"type": "dtd",
+"id": "bodyMenuFeed.accesskey"
+},
+{
+"type": "dtd",
+"id": "viewFeedWebPage.label"
+},
+{
+"type": "dtd",
+"id": "viewFeedWebPage.accesskey"
+},
+{
+"type": "dtd",
+"id": "viewFeedSummary.label"
+},
+{
+"type": "dtd",
+"id": "viewFeedSummary.accesskey"
+},
+{
+"type": "dtd",
+"id": "viewFeedSummaryFeedPropsPref.label"
+},
+{
+"type": "dtd",
+"id": "viewFeedSummaryFeedPropsPref.accesskey"
+},
+{
+"type": "dtd",
+"id": "bodyAllowHTML.label"
+},
+{
+"type": "dtd",
+"id": "bodyAllowHTML.accesskey"
+},
+{
+"type": "dtd",
+"id": "bodySanitized.label"
+},
+{
+"type": "dtd",
+"id": "bodySanitized.accesskey"
+},
+{
+"type": "dtd",
+"id": "bodyAsPlaintext.label"
+},
+{
+"type": "dtd",
+"id": "bodyAsPlaintext.accesskey"
+},
+{
+"type": "dtd",
+"id": "viewAttachmentsInlineCmd.label"
+},
+{
+"type": "dtd",
+"id": "viewAttachmentsInlineCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "pageSourceCmd.label"
+},
+{
+"type": "dtd",
+"id": "pageSourceCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "goMenu.label"
+},
+{
+"type": "dtd",
+"id": "goMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "nextMenu.label"
+},
+{
+"type": "dtd",
+"id": "nextMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "nextMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "nextMsgCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "nextUnreadMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "nextUnreadMsgCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "nextStarredMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "nextStarredMsgCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "nextUnreadThread.label"
+},
+{
+"type": "dtd",
+"id": "nextUnreadThread.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.day.label"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.week.label"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.week.label"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.month.label"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.day.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.week.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.week.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.month.accesskey"
+},
+{
+"type": "dtd",
+"id": "prevMenu.label"
+},
+{
+"type": "dtd",
+"id": "prevMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "prevMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "prevMsgCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "prevUnreadMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "prevUnreadMsgCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "prevStarredMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "prevStarredMsgCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.day.label"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.week.label"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.week.label"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.month.label"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.day.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.week.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.week.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.month.accesskey"
+},
+{
+"type": "dtd",
+"id": "goForwardCmd.label"
+},
+{
+"type": "dtd",
+"id": "goForwardCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "goBackCmd.label"
+},
+{
+"type": "dtd",
+"id": "goBackCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "goTodayCmd.label"
+},
+{
+"type": "dtd",
+"id": "goTodayCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "goChatCmd.label"
+},
+{
+"type": "dtd",
+"id": "goChatCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "folderMenu.label"
+},
+{
+"type": "dtd",
+"id": "folderMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "goRecentlyClosedTabs.label"
+},
+{
+"type": "dtd",
+"id": "goRecentlyClosedTabs.accesskey"
+},
+{
+"type": "dtd",
+"id": "startPageCmd.label"
+},
+{
+"type": "dtd",
+"id": "startPageCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "msgMenu.label"
+},
+{
+"type": "dtd",
+"id": "msgMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "newMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "newMsgCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "replyMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "replyMsgCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "replyNewsgroupCmd2.label"
+},
+{
+"type": "dtd",
+"id": "replyNewsgroupCmd2.accesskey"
+},
+{
+"type": "dtd",
+"id": "replySenderCmd.label"
+},
+{
+"type": "dtd",
+"id": "replySenderCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "replyToAllMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "replyToAllMsgCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "replyToListMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "replyToListMsgCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "forwardMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "forwardMsgCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "forwardAsMenu.label"
+},
+{
+"type": "dtd",
+"id": "forwardAsMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "forwardAsInline.label"
+},
+{
+"type": "dtd",
+"id": "forwardAsInline.accesskey"
+},
+{
+"type": "dtd",
+"id": "forwardAsAttachmentCmd.label"
+},
+{
+"type": "dtd",
+"id": "forwardAsAttachmentCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "editAsNewMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "editAsNewMsgCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "editDraftMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "editDraftMsgCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "newMsgFromTemplateCmd.label"
+},
+{
+"type": "dtd",
+"id": "editTemplateMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "editTemplateMsgCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "openMessageWindowCmd.label"
+},
+{
+"type": "dtd",
+"id": "openMessageWindowCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "openInConversationCmd.label"
+},
+{
+"type": "dtd",
+"id": "openInConversationCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "openFeedMessage1.label"
+},
+{
+"type": "dtd",
+"id": "openFeedMessage1.accesskey"
+},
+{
+"type": "dtd",
+"id": "openFeedWebPage.label"
+},
+{
+"type": "dtd",
+"id": "openFeedWebPage.accesskey"
+},
+{
+"type": "dtd",
+"id": "openFeedSummary.label"
+},
+{
+"type": "dtd",
+"id": "openFeedSummary.accesskey"
+},
+{
+"type": "dtd",
+"id": "openFeedWebPageInMP.label"
+},
+{
+"type": "dtd",
+"id": "openFeedWebPageInMP.accesskey"
+},
+{
+"type": "dtd",
+"id": "openAttachmentListCmd.label"
+},
+{
+"type": "dtd",
+"id": "openAttachmentListCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "openAllAttachmentsCmd.label"
+},
+{
+"type": "dtd",
+"id": "openAllAttachmentsCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "saveAllAttachmentsCmd.label"
+},
+{
+"type": "dtd",
+"id": "saveAllAttachmentsCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "detachAllAttachmentsCmd.label"
+},
+{
+"type": "dtd",
+"id": "detachAllAttachmentsCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "deleteAllAttachmentsCmd.label"
+},
+{
+"type": "dtd",
+"id": "deleteAllAttachmentsCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "tagMenu.label"
+},
+{
+"type": "dtd",
+"id": "tagMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "addNewTag.label"
+},
+{
+"type": "dtd",
+"id": "addNewTag.accesskey"
+},
+{
+"type": "dtd",
+"id": "manageTags.label"
+},
+{
+"type": "dtd",
+"id": "manageTags.accesskey"
+},
+{
+"type": "dtd",
+"id": "markMenu.label"
+},
+{
+"type": "dtd",
+"id": "markMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "markAsReadCmd.label"
+},
+{
+"type": "dtd",
+"id": "markAsReadCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "markAsUnreadCmd.label"
+},
+{
+"type": "dtd",
+"id": "markAsUnreadCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "markThreadAsReadCmd.label"
+},
+{
+"type": "dtd",
+"id": "markThreadAsReadCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "markReadByDateCmd.label"
+},
+{
+"type": "dtd",
+"id": "markReadByDateCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "markAllReadCmd.label"
+},
+{
+"type": "dtd",
+"id": "markAllReadCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "markStarredCmd.label"
+},
+{
+"type": "dtd",
+"id": "markStarredCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "archiveMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "archiveMsgCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "cancelNewsMsgCmd.label"
+},
+{
+"type": "dtd",
+"id": "cancelNewsMsgCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "createFilter.label"
+},
+{
+"type": "dtd",
+"id": "createFilter.accesskey"
+},
+{
+"type": "dtd",
+"id": "killThreadMenu.label"
+},
+{
+"type": "dtd",
+"id": "killThreadMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "killSubthreadMenu.label"
+},
+{
+"type": "dtd",
+"id": "killSubthreadMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "watchThreadMenu.label"
+},
+{
+"type": "dtd",
+"id": "watchThreadMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.menu.eventtask.label"
+},
+{
+"type": "dtd",
+"id": "lightning.menu.eventtask.accesskey"
+},
+{
+"type": "dtd",
+"id": "event.new.event"
+},
+{
+"type": "dtd",
+"id": "event.new.event.accesskey"
+},
+{
+"type": "dtd",
+"id": "event.new.task"
+},
+{
+"type": "dtd",
+"id": "event.new.task.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.calendar.label"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.calendar.accesskey"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.task.label"
+},
+{
+"type": "dtd",
+"id": "lightning.toolbar.task.accesskey"
+},
+{
+"type": "dtd",
+"id": "calendar.export.label"
+},
+{
+"type": "dtd",
+"id": "calendar.export.accesskey"
+},
+{
+"type": "dtd",
+"id": "calendar.import.label"
+},
+{
+"type": "dtd",
+"id": "calendar.import.accesskey"
+},
+{
+"type": "dtd",
+"id": "calendar.publish.label"
+},
+{
+"type": "dtd",
+"id": "calendar.publish.accesskey"
+},
+{
+"type": "dtd",
+"id": "calendar.deletecalendar.label"
+},
+{
+"type": "dtd",
+"id": "calendar.removecalendar.label"
+},
+{
+"type": "dtd",
+"id": "calendar.unsubscribecalendar.label"
+},
+{
+"type": "dtd",
+"id": "calendar.deletecalendar.accesskey"
+},
+{
+"type": "dtd",
+"id": "calendar.removecalendar.accesskey"
+},
+{
+"type": "dtd",
+"id": "calendar.unsubscribecalendar.accesskey"
+},
+{
+"type": "dtd",
+"id": "showUnifinderCmd.label"
+},
+{
+"type": "dtd",
+"id": "showUnifinderCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "tasksMenu.label"
+},
+{
+"type": "dtd",
+"id": "tasksMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "messengerCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "messengerCmd.label"
+},
+{
+"type": "dtd",
+"id": "addressBookCmd.label"
+},
+{
+"type": "dtd",
+"id": "addressBookCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "savedFiles.label"
+},
+{
+"type": "dtd",
+"id": "savedFiles.accesskey"
+},
+{
+"type": "dtd",
+"id": "activitymanager.label"
+},
+{
+"type": "dtd",
+"id": "activitymanager.accesskey"
+},
+{
+"type": "dtd",
+"id": "imAccountsStatus.label"
+},
+{
+"type": "dtd",
+"id": "imAccountsStatus.accesskey"
+},
+{
+"type": "dtd",
+"id": "imStatus.available"
+},
+{
+"type": "dtd",
+"id": "imStatus.unavailable"
+},
+{
+"type": "dtd",
+"id": "imStatus.offline"
+},
+{
+"type": "dtd",
+"id": "imStatus.showAccounts"
+},
+{
+"type": "dtd",
+"id": "joinChatCmd.label"
+},
+{
+"type": "dtd",
+"id": "joinChatCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "filtersCmd2.label"
+},
+{
+"type": "dtd",
+"id": "filtersCmd2.accesskey"
+},
+{
+"type": "dtd",
+"id": "filtersApply.label"
+},
+{
+"type": "dtd",
+"id": "filtersApply.accesskey"
+},
+{
+"type": "dtd",
+"id": "filtersApplyToMessage.label"
+},
+{
+"type": "dtd",
+"id": "filtersApplyToMessage.accesskey"
+},
+{
+"type": "dtd",
+"id": "importCmd.label"
+},
+{
+"type": "dtd",
+"id": "importCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "exportCmd.label"
+},
+{
+"type": "dtd",
+"id": "exportCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "devtoolsMenu.label"
+},
+{
+"type": "dtd",
+"id": "devtoolsMenu.accesskey"
+},
+{
+"type": "dtd",
+"id": "devToolboxCmd.label"
+},
+{
+"type": "dtd",
+"id": "devToolboxCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "debugAddonsCmd.label"
+},
+{
+"type": "dtd",
+"id": "debugAddonsCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "errorConsoleCmd.label"
+},
+{
+"type": "dtd",
+"id": "errorConsoleCmd.accesskey"
+},
+{
+"type": "dtd",
+"id": "clearRecentHistory.label"
+},
+{
+"type": "dtd",
+"id": "clearRecentHistory.accesskey"
+},
+{
+"type": "dtd",
+"id": "accountManagerCmd2.label"
+},
+{
+"type": "dtd",
+"id": "accountManagerCmd2.accesskey"
+},
+{
+"type": "dtd",
+"id": "accountManagerCmd2.label"
+},
+{
+"type": "dtd",
+"id": "accountManagerCmd2.accesskey"
+},
+{
+"type": "dtd",
+"id": "servicesMenuMac.label"
+},
+{
+"type": "dtd",
+"id": "hideThisAppCmdMac.label"
+},
+{
+"type": "dtd",
+"id": "hideOtherAppsCmdMac.label"
+},
+{
+"type": "dtd",
+"id": "showAllAppsCmdMac.label"
+},
+{
+"type": "dtd",
+"id": "windowMenu.label"
+},
+{
+"type": "dtd",
+"id": "minimizeWindow.label"
+},
+{
+"type": "dtd",
+"id": "zoomWindow.label"
+},
+{
+"type": "dtd",
+"id": "bringAllToFront.label"
+},
+{
+"type": "dtd",
+"id": "listAllTabs.label"
+},
+{
+"type": "dtd",
+"id": "addBuddyButton.label"
+},
+{
+"type": "dtd",
+"id": "joinChatButton.label"
+},
+{
+"type": "dtd",
+"id": "status.available"
+},
+{
+"type": "dtd",
+"id": "status.unavailable"
+},
+{
+"type": "dtd",
+"id": "status.offline"
+},
+{
+"type": "dtd",
+"id": "chatAccountsButton.label"
+},
+{
+"type": "dtd",
+"id": "conversationsHeader.label"
+},
+{
+"type": "dtd",
+"id": "searchResultConversation.label"
+},
+{
+"type": "dtd",
+"id": "onlineContactsHeader.label"
+},
+{
+"type": "dtd",
+"id": "offlineContactsHeader.label"
+},
+{
+"type": "dtd",
+"id": "chat.noConv.title"
+},
+{
+"type": "dtd",
+"id": "chat.noConv.description"
+},
+{
+"type": "dtd",
+"id": "chat.noAccount.title"
+},
+{
+"type": "dtd",
+"id": "chat.noAccount.description"
+},
+{
+"type": "dtd",
+"id": "chat.accountWizard.button"
+},
+{
+"type": "dtd",
+"id": "chat.noConnectedAccount.title"
+},
+{
+"type": "dtd",
+"id": "chat.noConnectedAccount.description"
+},
+{
+"type": "dtd",
+"id": "chat.showAccountManager.button"
+},
+{
+"type": "dtd",
+"id": "chat.noPreviousConv.description"
+},
+{
+"type": "dtd",
+"id": "chat.participants"
+},
+{
+"type": "dtd",
+"id": "chat.previousConversations"
+},
+{
+"type": "dtd",
+"id": "event.categories.textbox.label"
+},
+{
+"type": "dtd",
+"id": "event.dialog.save.key"
+},
+{
+"type": "dtd",
+"id": "event.dialog.saveandclose.key"
+},
+{
+"type": "dtd",
+"id": "event.toolbar.save.label2"
+},
+{
+"type": "dtd",
+"id": "event.toolbar.save.tooltip2"
+},
+{
+"type": "dtd",
+"id": "event.toolbar.saveandclose.label"
+},
+{
+"type": "dtd",
+"id": "event.toolbar.saveandclose.tooltip"
+},
+{
+"type": "dtd",
+"id": "event.toolbar.attendees.label"
+},
+{
+"type": "dtd",
+"id": "event.toolbar.attendees.tooltip"
+},
+{
+"type": "dtd",
+"id": "event.toolbar.privacy.label"
+},
+{
+"type": "dtd",
+"id": "event.toolbar.privacy.tooltip"
+},
+{
+"type": "dtd",
+"id": "event.menu.options.privacy.public.label"
+},
+{
+"type": "dtd",
+"id": "event.menu.options.privacy.confidential.label"
+},
+{
+"type": "dtd",
+"id": "event.menu.options.privacy.private.label"
+},
+{
+"type": "dtd",
+"id": "event.attachments.menubutton.label"
+},
+{
+"type": "dtd",
+"id": "event.toolbar.attachments.tooltip"
+},
+{
+"type": "dtd",
+"id": "event.attachments.url.label"
+},
+{
+"type": "dtd",
+"id": "event.toolbar.delete.label"
+},
+{
+"type": "dtd",
+"id": "event.toolbar.delete.tooltip"
+},
+{
+"type": "dtd",
+"id": "event.menu.options.priority2.label"
+},
+{
+"type": "dtd",
+"id": "event.toolbar.priority.tooltip"
+},
+{
+"type": "dtd",
+"id": "event.menu.options.priority.notspecified.label"
+},
+{
+"type": "dtd",
+"id": "event.menu.options.priority.low.label"
+},
+{
+"type": "dtd",
+"id": "event.menu.options.priority.normal.label"
+},
+{
+"type": "dtd",
+"id": "event.menu.options.priority.high.label"
+},
+{
+"type": "dtd",
+"id": "newevent.status.label"
+},
+{
+"type": "dtd",
+"id": "event.toolbar.status.tooltip"
+},
+{
+"type": "dtd",
+"id": "newevent.eventStatus.none.label"
+},
+{
+"type": "dtd",
+"id": "newevent.status.tentative.label"
+},
+{
+"type": "dtd",
+"id": "newevent.status.confirmed.label"
+},
+{
+"type": "dtd",
+"id": "newevent.eventStatus.cancelled.label"
+},
+{
+"type": "dtd",
+"id": "event.menu.options.show.time.label"
+},
+{
+"type": "dtd",
+"id": "event.toolbar.freebusy.tooltip"
+},
+{
+"type": "dtd",
+"id": "event.menu.options.show.time.busy.label"
+},
+{
+"type": "dtd",
+"id": "event.menu.options.show.time.free.label"
+},
+{
+"type": "dtd",
+"id": "event.menu.options.timezone2.label"
+},
+{
+"type": "dtd",
+"id": "event.menu.options.timezone2.label"
+},
+{
+"type": "dtd",
+"id": "event.menu.view.toolbars.event.label"
+},
+{
+"type": "dtd",
+"id": "event.menu.view.toolbars.event.accesskey"
+},
+{
+"type": "dtd",
+"id": "onedaybackward.tooltip"
+},
+{
+"type": "dtd",
+"id": "showToday.tooltip"
+},
+{
+"type": "dtd",
+"id": "onedayforward.tooltip"
+},
+{
+"type": "dtd",
+"id": "showselectedday.tooltip"
+},
+{
+"type": "dtd",
+"id": "browseBackButton.tooltip"
+},
+{
+"type": "dtd",
+"id": "browseForwardButton.tooltip"
+},
+{
+"type": "dtd",
+"id": "search.label.base1"
+},
+{
+"type": "dtd",
+"id": "search.keyLabel.nonmac"
+},
+{
+"type": "dtd",
+"id": "search.keyLabel.mac"
+},
+{
+"type": "dtd",
+"id": "dialog.dimensions"
+},
+{
+"type": "dtd",
+"id": "statusText.label"
+},
+{
+"type": "dtd",
+"id": "event.statusbarpanel.privacy.label"
+},
+{
+"type": "dtd",
+"id": "event.menu.options.privacy.public.label"
+},
+{
+"type": "dtd",
+"id": "event.menu.options.privacy.confidential.label"
+},
+{
+"type": "dtd",
+"id": "event.menu.options.privacy.private.label"
+},
+{
+"type": "dtd",
+"id": "event.priority2.label"
+},
+{
+"type": "dtd",
+"id": "task.status.label"
+},
+{
+"type": "dtd",
+"id": "newevent.status.tentative.label"
+},
+{
+"type": "dtd",
+"id": "newevent.status.confirmed.label"
+},
+{
+"type": "dtd",
+"id": "newevent.eventStatus.cancelled.label"
+},
+{
+"type": "dtd",
+"id": "event.statusbarpanel.freebusy.label"
+},
+{
+"type": "dtd",
+"id": "event.freebusy.legend.free"
+},
+{
+"type": "dtd",
+"id": "event.freebusy.legend.busy"
+},
+{
+"type": "ftl",
+"id": "quit-app-shortcut"
+},
+{
+"type": "ftl",
+"id": "text-action-undo-shortcut"
+},
+{
+"type": "ftl",
+"id": "text-action-undo-shortcut"
+},
+{
+"type": "ftl",
+"id": "text-action-redo-shortcut"
+},
+{
+"type": "ftl",
+"id": "text-action-cut-shortcut"
+},
+{
+"type": "ftl",
+"id": "text-action-copy-shortcut"
+},
+{
+"type": "ftl",
+"id": "text-action-paste-shortcut"
+},
+{
+"type": "ftl",
+"id": "text-action-select-all-shortcut"
+},
+{
+"type": "ftl",
+"id": "mark-as-junk-key"
+},
+{
+"type": "ftl",
+"id": "mark-not-junk-key"
+},
+{
+"type": "ftl",
+"id": "move-to-folder-again-key"
+},
+{
+"type": "ftl",
+"id": "move-to-folder-again-key"
+},
+{
+"type": "ftl",
+"id": "quick-filter-bar-show"
+},
+{
+"type": "ftl",
+"id": "content-tab-menu-back"
+},
+{
+"type": "ftl",
+"id": "content-tab-menu-forward"
+},
+{
+"type": "ftl",
+"id": "content-tab-menu-reload"
+},
+{
+"type": "ftl",
+"id": "content-tab-menu-stop"
+},
+{
+"type": "ftl",
+"id": "text-action-spell-no-suggestions"
+},
+{
+"type": "ftl",
+"id": "text-action-spell-add-to-dictionary"
+},
+{
+"type": "ftl",
+"id": "text-action-spell-undo-add-to-dictionary"
+},
+{
+"type": "ftl",
+"id": "text-action-cut"
+},
+{
+"type": "ftl",
+"id": "text-action-copy"
+},
+{
+"type": "ftl",
+"id": "text-action-paste"
+},
+{
+"type": "ftl",
+"id": "text-action-select-all"
+},
+{
+"type": "ftl",
+"id": "text-action-spell-check-toggle"
+},
+{
+"type": "ftl",
+"id": "text-action-spell-dictionaries"
+},
+{
+"type": "ftl",
+"id": "toolbar-context-menu-manage-extension"
+},
+{
+"type": "ftl",
+"id": "toolbar-context-menu-remove-extension"
+},
+{
+"type": "ftl",
+"id": "text-action-copy"
+},
+{
+"type": "ftl",
+"id": "text-action-paste"
+},
+{
+"type": "ftl",
+"id": "text-action-select-all"
+},
+{
+"type": "ftl",
+"id": "appmenu-signin-panel"
+},
+{
+"type": "ftl",
+"id": "appmenu-sync-sync"
+},
+{
+"type": "ftl",
+"id": "appmenu-sync-account"
+},
+{
+"type": "ftl",
+"id": "appmenu-new-account-panel"
+},
+{
+"type": "ftl",
+"id": "appmenu-create-panel"
+},
+{
+"type": "ftl",
+"id": "appmenu-open-file-panel"
+},
+{
+"type": "ftl",
+"id": "appmenu-view-panel"
+},
+{
+"type": "ftl",
+"id": "appmenu-mail-uidensity-value"
+},
+{
+"type": "ftl",
+"id": "appmenu-uidensity-compact"
+},
+{
+"type": "ftl",
+"id": "appmenu-uidensity-default"
+},
+{
+"type": "ftl",
+"id": "appmenu-uidensity-relaxed"
+},
+{
+"type": "ftl",
+"id": "appmenu-font-size-value"
+},
+{
+"type": "ftl",
+"id": "appmenuitem-font-size-reduce"
+},
+{
+"type": "ftl",
+"id": "appmenuitem-font-size-enlarge"
+},
+{
+"type": "ftl",
+"id": "appmenu-settings"
+},
+{
+"type": "ftl",
+"id": "appmenu-addons-and-themes"
+},
+{
+"type": "ftl",
+"id": "appmenu-tools-panel"
+},
+{
+"type": "ftl",
+"id": "menu-help-help-title"
+},
+{
+"type": "ftl",
+"id": "menu-quit"
+},
+{
+"type": "ftl",
+"id": "appmenu-sync-panel-title"
+},
+{
+"type": "ftl",
+"id": "appmenu-sync-manage"
+},
+{
+"type": "ftl",
+"id": "appmenu-sync-account"
+},
+{
+"type": "ftl",
+"id": "appmenu-sync-now"
+},
+{
+"type": "ftl",
+"id": "appmenu-sync-settings"
+},
+{
+"type": "ftl",
+"id": "appmenu-sync-sign-out"
+},
+{
+"type": "ftl",
+"id": "appmenu-new-account-panel-title"
+},
+{
+"type": "ftl",
+"id": "appmenu-new-email-account"
+},
+{
+"type": "ftl",
+"id": "appmenu-new-calendar"
+},
+{
+"type": "ftl",
+"id": "appmenu-newab-panel"
+},
+{
+"type": "ftl",
+"id": "appmenu-newab-panel"
+},
+{
+"type": "ftl",
+"id": "appmenu-new-chat-account"
+},
+{
+"type": "ftl",
+"id": "appmenu-new-feed"
+},
+{
+"type": "ftl",
+"id": "appmenu-new-newsgroup"
+},
+{
+"type": "ftl",
+"id": "appmenu-newab-panel-title"
+},
+{
+"type": "ftl",
+"id": "appmenu-new-addressbook"
+},
+{
+"type": "ftl",
+"id": "appmenu-new-carddav"
+},
+{
+"type": "ftl",
+"id": "appmenu-new-ldap"
+},
+{
+"type": "ftl",
+"id": "appmenu-create-panel-title"
+},
+{
+"type": "ftl",
+"id": "appmenu-create-message"
+},
+{
+"type": "ftl",
+"id": "appmenu-create-event"
+},
+{
+"type": "ftl",
+"id": "appmenu-create-task"
+},
+{
+"type": "ftl",
+"id": "appmenu-create-contact"
+},
+{
+"type": "ftl",
+"id": "appmenu-open-file-panel-title"
+},
+{
+"type": "ftl",
+"id": "appmenu-open-message"
+},
+{
+"type": "ftl",
+"id": "appmenu-open-calendar"
+},
+{
+"type": "ftl",
+"id": "quick-filter-bar-toggle"
+},
+{
+"type": "ftl",
+"id": "menu-spaces-toolbar-button"
+},
+{
+"type": "ftl",
+"id": "appmenuitem-toggle-thread-pane-header"
+},
+{
+"type": "ftl",
+"id": "appmenu-view-panel-title"
+},
+{
+"type": "ftl",
+"id": "menu-view-folders-toggle-header"
+},
+{
+"type": "ftl",
+"id": "show-all-folders-label"
+},
+{
+"type": "ftl",
+"id": "show-smart-folders-label"
+},
+{
+"type": "ftl",
+"id": "show-unread-folders-label"
+},
+{
+"type": "ftl",
+"id": "show-favorite-folders-label"
+},
+{
+"type": "ftl",
+"id": "show-recent-folders-label"
+},
+{
+"type": "ftl",
+"id": "show-tags-folders-label"
+},
+{
+"type": "ftl",
+"id": "folder-toolbar-toggle-folder-compact-view"
+},
+{
+"type": "ftl",
+"id": "appmenu-tools-panel-title"
+},
+{
+"type": "ftl",
+"id": "appmenu-tools-import"
+},
+{
+"type": "ftl",
+"id": "appmenu-tools-export"
+},
+{
+"type": "ftl",
+"id": "appmenu-export-for-mobile"
+},
+{
+"type": "ftl",
+"id": "appmenu-tools-message-search"
+},
+{
+"type": "ftl",
+"id": "appmenu-tools-message-filters"
+},
+{
+"type": "ftl",
+"id": "openpgp-manage-keys-openpgp-cmd"
+},
+{
+"type": "ftl",
+"id": "appmenu-tools-download-manager"
+},
+{
+"type": "ftl",
+"id": "appmenu-tools-activity-manager"
+},
+{
+"type": "ftl",
+"id": "appmenu-tools-dev-tools"
+},
+{
+"type": "ftl",
+"id": "appmenu-help-panel-title"
+},
+{
+"type": "ftl",
+"id": "appmenu-help-get-help"
+},
+{
+"type": "ftl",
+"id": "appmenu-help-get-release-help"
+},
+{
+"type": "ftl",
+"id": "appmenu-help-shortcuts"
+},
+{
+"type": "ftl",
+"id": "appmenu-help-get-involved"
+},
+{
+"type": "ftl",
+"id": "appmenu-help-donation"
+},
+{
+"type": "ftl",
+"id": "appmenu-help-share-feedback"
+},
+{
+"type": "ftl",
+"id": "appmenu-help-enter-troubleshoot-mode2"
+},
+{
+"type": "ftl",
+"id": "appmenu-help-troubleshooting-info"
+},
+{
+"type": "ftl",
+"id": "appmenu-help-about-product"
+},
+{
+"type": "ftl",
+"id": "customize-menu-customize"
+},
+{
+"type": "ftl",
+"id": "toolbar-context-menu-manage-extension"
+},
+{
+"type": "ftl",
+"id": "toolbar-context-menu-remove-extension"
+},
+{
+"type": "ftl",
+"id": "customize-target-end"
+},
+{
+"type": "ftl",
+"id": "customize-target-forward"
+},
+{
+"type": "ftl",
+"id": "customize-target-backward"
+},
+{
+"type": "ftl",
+"id": "customize-target-start"
+},
+{
+"type": "ftl",
+"id": "customize-target-remove"
+},
+{
+"type": "ftl",
+"id": "customize-target-remove-everywhere"
+},
+{
+"type": "ftl",
+"id": "customize-target-add-everywhere"
+},
+{
+"type": "ftl",
+"id": "customize-palette-add-everywhere"
+},
+{
+"type": "ftl",
+"id": "toolbar-get-all-messages-menuitem"
+},
+{
+"type": "ftl",
+"id": "toolbar-new-address-book-popup-add-js-address-book"
+},
+{
+"type": "ftl",
+"id": "toolbar-new-address-book-popup-add-carddav-address-book"
+},
+{
+"type": "ftl",
+"id": "toolbar-new-address-book-popup-add-ldap-address-book"
+},
+{
+"type": "ftl",
+"id": "chat-verify-identity"
+},
+{
+"type": "ftl",
+"id": "text-action-delete"
+},
+{
+"type": "ftl",
+"id": "text-action-copy"
+},
+{
+"type": "ftl",
+"id": "text-action-select-all"
+},
+{
+"type": "ftl",
+"id": "text-action-spell-no-suggestions"
+},
+{
+"type": "ftl",
+"id": "text-action-spell-add-to-dictionary"
+},
+{
+"type": "ftl",
+"id": "text-action-undo"
+},
+{
+"type": "ftl",
+"id": "text-action-cut"
+},
+{
+"type": "ftl",
+"id": "text-action-copy"
+},
+{
+"type": "ftl",
+"id": "text-action-paste"
+},
+{
+"type": "ftl",
+"id": "text-action-select-all"
+},
+{
+"type": "ftl",
+"id": "text-action-spell-check-toggle"
+},
+{
+"type": "ftl",
+"id": "text-action-spell-dictionaries"
+},
+{
+"type": "ftl",
+"id": "chat-verify-identity"
+},
+{
+"type": "ftl",
+"id": "in-app-notification-close-image"
+},
+{
+"type": "ftl",
+"id": "in-app-notification-instructions"
+},
+{
+"type": "ftl",
+"id": "calendar-dialog-date-row-icon"
+},
+{
+"type": "ftl",
+"id": "calendar-dialog-date-row-recurring-icon"
+},
+{
+"type": "ftl",
+"id": "calendar-dialog-description-row-icon"
+},
+{
+"type": "ftl",
+"id": "calendar-dialog-description-label"
+},
+{
+"type": "ftl",
+"id": "calendar-dialog-reminders-row-icon"
+},
+{
+"type": "ftl",
+"id": "calendar-dialog-accept"
+},
+{
+"type": "ftl",
+"id": "calendar-dialog-accept-tentative"
+},
+{
+"type": "ftl",
+"id": "calendar-dialog-decline"
+},
+{
+"type": "ftl",
+"id": "calendar-dialog-back-button"
+},
+{
+"type": "ftl",
+"id": "calendar-dialog-close-button"
+},
+{
+"type": "ftl",
+"id": "calendar-dialog-location-row-icon"
+},
+{
+"type": "ftl",
+"id": "calendar-dialog-description-expand-icon"
+},
+{
+"type": "ftl",
+"id": "calendar-context-open-event"
+},
+{
+"type": "ftl",
+"id": "calendar-context-convert-menu"
+},
+{
+"type": "ftl",
+"id": "calendar-context-convert-to-message"
+},
+{
+"type": "ftl",
+"id": "calendar-context-convert-to-task"
+},
+{
+"type": "ftl",
+"id": "calendar-context-delete-event"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-menu"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occurrence"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occ-accepted"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occ-tentative"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occ-declined"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occ-delegated"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occ-needs-action"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-series"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-accepted"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-tentative"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-declined"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-delegated"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-needs-action"
+},
+{
+"type": "ftl",
+"id": "calendar-context-showall"
+},
+{
+"type": "ftl",
+"id": "calendar-context-new-server"
+},
+{
+"type": "ftl",
+"id": "calendar-context-remove-server"
+},
+{
+"type": "ftl",
+"id": "calendar-context-export"
+},
+{
+"type": "ftl",
+"id": "calendar-context-publish"
+},
+{
+"type": "ftl",
+"id": "list-calendar-context-reload-menuitem"
+},
+{
+"type": "ftl",
+"id": "calendar-context-properties"
+},
+{
+"type": "ftl",
+"id": "calendar-context-open-event"
+},
+{
+"type": "ftl",
+"id": "calendar-item-context-menu-modify-menuitem"
+},
+{
+"type": "ftl",
+"id": "calendar-context-new-event"
+},
+{
+"type": "ftl",
+"id": "calendar-context-new-task"
+},
+{
+"type": "ftl",
+"id": "calendar-context-cut"
+},
+{
+"type": "ftl",
+"id": "calendar-context-copy"
+},
+{
+"type": "ftl",
+"id": "calendar-context-paste"
+},
+{
+"type": "ftl",
+"id": "calendar-context-convert-menu"
+},
+{
+"type": "ftl",
+"id": "calendar-context-convert-to-message"
+},
+{
+"type": "ftl",
+"id": "calendar-context-convert-to-event"
+},
+{
+"type": "ftl",
+"id": "calendar-context-convert-to-task"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-menu"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occurrence"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occ-accepted"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occ-tentative"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occ-declined"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occ-delegated"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occ-needs-action"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-series"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-accepted"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-tentative"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-declined"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-delegated"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-needs-action"
+},
+{
+"type": "ftl",
+"id": "calendar-context-new-event"
+},
+{
+"type": "ftl",
+"id": "calendar-context-new-task"
+},
+{
+"type": "ftl",
+"id": "calendar-context-cut"
+},
+{
+"type": "ftl",
+"id": "calendar-context-copy"
+},
+{
+"type": "ftl",
+"id": "calendar-context-paste"
+},
+{
+"type": "ftl",
+"id": "calendar-context-open-task"
+},
+{
+"type": "ftl",
+"id": "calendar-context-open-task"
+},
+{
+"type": "ftl",
+"id": "calendar-context-new-task"
+},
+{
+"type": "ftl",
+"id": "calendar-context-new-task"
+},
+{
+"type": "ftl",
+"id": "calendar-context-cut"
+},
+{
+"type": "ftl",
+"id": "calendar-context-copy"
+},
+{
+"type": "ftl",
+"id": "calendar-context-paste"
+},
+{
+"type": "ftl",
+"id": "calendar-task-mark-completed"
+},
+{
+"type": "ftl",
+"id": "calendar-context-progress"
+},
+{
+"type": "ftl",
+"id": "calendar-task-change-priority"
+},
+{
+"type": "ftl",
+"id": "calendar-context-postpone"
+},
+{
+"type": "ftl",
+"id": "calendar-context-postpone-1hour"
+},
+{
+"type": "ftl",
+"id": "calendar-context-postpone-1day"
+},
+{
+"type": "ftl",
+"id": "calendar-context-postpone-1week"
+},
+{
+"type": "ftl",
+"id": "calendar-calendar"
+},
+{
+"type": "ftl",
+"id": "calendar-context-convert-menu"
+},
+{
+"type": "ftl",
+"id": "calendar-context-convert-to-message"
+},
+{
+"type": "ftl",
+"id": "calendar-context-convert-to-event"
+},
+{
+"type": "ftl",
+"id": "calendar-context-delete-task"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-menu"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occurrence"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occ-accepted"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occ-tentative"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occ-declined"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occ-in-progress"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occ-completed"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occ-delegated"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-occ-needs-action"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-series"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-accepted"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-tentative"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-declined"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-in-progress"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-completed"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-send"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-dontsend"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-delegated"
+},
+{
+"type": "ftl",
+"id": "calendar-context-attendance-all-needs-action"
+},
+{
+"type": "ftl",
+"id": "calendar-tasks-view-filtertasks"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-current"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-today"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-next7days"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-notstarted"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-overdue"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-completed"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-open"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-all"
+},
+{
+"type": "ftl",
+"id": "calendar-copylink"
+},
+{
+"type": "ftl",
+"id": "search-bar-item2"
+},
+{
+"type": "ftl",
+"id": "search-bar-placeholder-with-key"
+},
+{
+"type": "ftl",
+"id": "search-bar-button"
+},
+{
+"type": "ftl",
+"id": "toolbar-write-message"
+},
+{
+"type": "ftl",
+"id": "toolbar-move-to"
+},
+{
+"type": "ftl",
+"id": "toolbar-unifinder"
+},
+{
+"type": "ftl",
+"id": "toolbar-folder-location"
+},
+{
+"type": "ftl",
+"id": "toolbar-edit-event"
+},
+{
+"type": "ftl",
+"id": "toolbar-get-messages"
+},
+{
+"type": "ftl",
+"id": "toolbar-reply"
+},
+{
+"type": "ftl",
+"id": "toolbar-reply-all"
+},
+{
+"type": "ftl",
+"id": "toolbar-reply-to-list"
+},
+{
+"type": "ftl",
+"id": "toolbar-redirect"
+},
+{
+"type": "ftl",
+"id": "toolbar-archive"
+},
+{
+"type": "ftl",
+"id": "toolbar-conversation"
+},
+{
+"type": "ftl",
+"id": "toolbar-previous-unread"
+},
+{
+"type": "ftl",
+"id": "toolbar-previous"
+},
+{
+"type": "ftl",
+"id": "toolbar-next-unread"
+},
+{
+"type": "ftl",
+"id": "toolbar-next"
+},
+{
+"type": "ftl",
+"id": "toolbar-spam"
+},
+{
+"type": "ftl",
+"id": "toolbar-delete-title"
+},
+{
+"type": "ftl",
+"id": "toolbar-compact"
+},
+{
+"type": "ftl",
+"id": "toolbar-add-as-event"
+},
+{
+"type": "ftl",
+"id": "toolbar-add-as-task"
+},
+{
+"type": "ftl",
+"id": "toolbar-tag-message"
+},
+{
+"type": "ftl",
+"id": "toolbar-forward-inline"
+},
+{
+"type": "ftl",
+"id": "toolbar-forward-attachment"
+},
+{
+"type": "ftl",
+"id": "toolbar-mark-as"
+},
+{
+"type": "ftl",
+"id": "toolbar-view-picker"
+},
+{
+"type": "ftl",
+"id": "toolbar-address-book"
+},
+{
+"type": "ftl",
+"id": "toolbar-chat"
+},
+{
+"type": "ftl",
+"id": "toolbar-add-ons-and-themes"
+},
+{
+"type": "ftl",
+"id": "toolbar-calendar"
+},
+{
+"type": "ftl",
+"id": "toolbar-tasks"
+},
+{
+"type": "ftl",
+"id": "toolbar-mail"
+},
+{
+"type": "ftl",
+"id": "toolbar-print"
+},
+{
+"type": "ftl",
+"id": "toolbar-quick-filter-bar"
+},
+{
+"type": "ftl",
+"id": "toolbar-synchronize"
+},
+{
+"type": "ftl",
+"id": "toolbar-new-event"
+},
+{
+"type": "ftl",
+"id": "toolbar-new-task"
+},
+{
+"type": "ftl",
+"id": "toolbar-go-to-today"
+},
+{
+"type": "ftl",
+"id": "toolbar-delete-event"
+},
+{
+"type": "ftl",
+"id": "toolbar-print-event"
+},
+{
+"type": "ftl",
+"id": "toolbar-go-back"
+},
+{
+"type": "ftl",
+"id": "toolbar-go-forward"
+},
+{
+"type": "ftl",
+"id": "toolbar-stop"
+},
+{
+"type": "ftl",
+"id": "toolbar-throbber"
+},
+{
+"type": "ftl",
+"id": "toolbar-create-contact"
+},
+{
+"type": "ftl",
+"id": "toolbar-create-address-book"
+},
+{
+"type": "ftl",
+"id": "toolbar-create-list"
+},
+{
+"type": "ftl",
+"id": "toolbar-import-contacts"
+},
+{
+"type": "ftl",
+"id": "search-bar-search-button"
+},
+{
+"type": "ftl",
+"id": "spaces-toolbar-pinned-tab-button"
+},
+{
+"type": "ftl",
+"id": "spaces-pinned-button-menuitem-mail2"
+},
+{
+"type": "ftl",
+"id": "spaces-pinned-button-menuitem-address-book2"
+},
+{
+"type": "ftl",
+"id": "spaces-pinned-button-menuitem-calendar2"
+},
+{
+"type": "ftl",
+"id": "spaces-pinned-button-menuitem-tasks2"
+},
+{
+"type": "ftl",
+"id": "spaces-pinned-button-menuitem-chat2"
+},
+{
+"type": "ftl",
+"id": "spaces-pinned-button-menuitem-settings2"
+},
+{
+"type": "ftl",
+"id": "spaces-pinned-button-menuitem-show"
+},
+{
+"type": "ftl",
+"id": "messenger-window-minimize-button"
+},
+{
+"type": "ftl",
+"id": "messenger-window-maximize-button"
+},
+{
+"type": "ftl",
+"id": "messenger-window-restore-down-button"
+},
+{
+"type": "ftl",
+"id": "messenger-window-close-button"
+},
+{
+"type": "ftl",
+"id": "customize-title"
+},
+{
+"type": "ftl",
+"id": "customize-spaces-tabs"
+},
+{
+"type": "ftl",
+"id": "customize-restore-default"
+},
+{
+"type": "ftl",
+"id": "customize-change-appearance"
+},
+{
+"type": "ftl",
+"id": "customize-button-style-label"
+},
+{
+"type": "ftl",
+"id": "customize-button-style-icons-beside-text-option"
+},
+{
+"type": "ftl",
+"id": "customize-button-style-icons-above-text-option"
+},
+{
+"type": "ftl",
+"id": "customize-button-style-icons-only-option"
+},
+{
+"type": "ftl",
+"id": "customize-button-style-text-only-option"
+},
+{
+"type": "ftl",
+"id": "customize-cancel"
+},
+{
+"type": "ftl",
+"id": "customize-save"
+},
+{
+"type": "ftl",
+"id": "customize-unsaved-changes"
+},
+{
+"type": "ftl",
+"id": "customize-main-toolbar-target"
+},
+{
+"type": "ftl",
+"id": "customize-search-bar2"
+},
+{
+"type": "ftl",
+"id": "search-bar-button"
+},
+{
+"type": "ftl",
+"id": "customize-palette-generic-title"
+},
+{
+"type": "ftl",
+"id": "spaces-context-new-tab-item"
+},
+{
+"type": "ftl",
+"id": "spaces-context-new-window-item"
+},
+{
+"type": "ftl",
+"id": "settings-context-open-settings-item2"
+},
+{
+"type": "ftl",
+"id": "settings-context-open-account-settings-item2"
+},
+{
+"type": "ftl",
+"id": "settings-context-open-addons-item2"
+},
+{
+"type": "ftl",
+"id": "menuitem-customize-label"
+},
+{
+"type": "ftl",
+"id": "menuitem-customize-label"
+},
+{
+"type": "ftl",
+"id": "spaces-toolbar-element"
+},
+{
+"type": "ftl",
+"id": "spaces-toolbar-button-mail2"
+},
+{
+"type": "ftl",
+"id": "spaces-toolbar-button-address-book2"
+},
+{
+"type": "ftl",
+"id": "spaces-toolbar-button-calendar2"
+},
+{
+"type": "ftl",
+"id": "spaces-toolbar-button-tasks2"
+},
+{
+"type": "ftl",
+"id": "spaces-toolbar-button-chat2"
+},
+{
+"type": "ftl",
+"id": "spaces-toolbar-button-overflow"
+},
+{
+"type": "ftl",
+"id": "spaces-toolbar-button-settings2"
+},
+{
+"type": "ftl",
+"id": "spaces-toolbar-button-hide"
+},
+{
+"type": "ftl",
+"id": "spaces-customize-panel-title"
+},
+{
+"type": "ftl",
+"id": "spaces-customize-background-color"
+},
+{
+"type": "ftl",
+"id": "spaces-customize-icon-color"
+},
+{
+"type": "ftl",
+"id": "spaces-customize-accent-background-color"
+},
+{
+"type": "ftl",
+"id": "spaces-customize-accent-text-color"
+},
+{
+"type": "ftl",
+"id": "spaces-customize-button-restore"
+},
+{
+"type": "ftl",
+"id": "customize-panel-button-save"
+},
+{
+"type": "ftl",
+"id": "toolbar-context-menu-menu-bar"
+},
+{
+"type": "ftl",
+"id": "file-new-email-account"
+},
+{
+"type": "ftl",
+"id": "file-new-addressbook"
+},
+{
+"type": "ftl",
+"id": "file-new-local-addressbook"
+},
+{
+"type": "ftl",
+"id": "file-new-carddav-addressbook"
+},
+{
+"type": "ftl",
+"id": "file-new-ldap-addressbook"
+},
+{
+"type": "ftl",
+"id": "file-new-addressbook"
+},
+{
+"type": "ftl",
+"id": "file-new-newsgroup-account"
+},
+{
+"type": "ftl",
+"id": "menu-file-save-as-file"
+},
+{
+"type": "ftl",
+"id": "menu-edit-delete-folder"
+},
+{
+"type": "ftl",
+"id": "menu-file-compact"
+},
+{
+"type": "ftl",
+"id": "menu-file-compact-all"
+},
+{
+"type": "ftl",
+"id": "menu-quit-mac"
+},
+{
+"type": "ftl",
+"id": "menu-quit"
+},
+{
+"type": "ftl",
+"id": "text-action-cut"
+},
+{
+"type": "ftl",
+"id": "text-action-copy"
+},
+{
+"type": "ftl",
+"id": "text-action-paste"
+},
+{
+"type": "ftl",
+"id": "menu-tools-settings"
+},
+{
+"type": "ftl",
+"id": "quick-filter-bar-toggle"
+},
+{
+"type": "ftl",
+"id": "menu-spaces-toolbar-button"
+},
+{
+"type": "ftl",
+"id": "menu-view-toggle-thread-pane-header"
+},
+{
+"type": "ftl",
+"id": "menu-view-folders-toggle-header"
+},
+{
+"type": "ftl",
+"id": "show-all-folders-label"
+},
+{
+"type": "ftl",
+"id": "show-smart-folders-label"
+},
+{
+"type": "ftl",
+"id": "show-unread-folders-label"
+},
+{
+"type": "ftl",
+"id": "show-favorite-folders-label"
+},
+{
+"type": "ftl",
+"id": "show-recent-folders-label"
+},
+{
+"type": "ftl",
+"id": "show-tags-folders-label"
+},
+{
+"type": "ftl",
+"id": "folder-toolbar-toggle-folder-compact-view"
+},
+{
+"type": "ftl",
+"id": "mail-uidensity-label"
+},
+{
+"type": "ftl",
+"id": "mail-uidensity-compact"
+},
+{
+"type": "ftl",
+"id": "mail-uidensity-default"
+},
+{
+"type": "ftl",
+"id": "mail-uidensity-relaxed"
+},
+{
+"type": "ftl",
+"id": "menu-font-size-label"
+},
+{
+"type": "ftl",
+"id": "menuitem-font-size-enlarge"
+},
+{
+"type": "ftl",
+"id": "menuitem-font-size-reduce"
+},
+{
+"type": "ftl",
+"id": "menuitem-font-size-reset"
+},
+{
+"type": "ftl",
+"id": "calendar-context-today-pane"
+},
+{
+"type": "ftl",
+"id": "calendar-tasks-view-minimonth"
+},
+{
+"type": "ftl",
+"id": "calendar-tasks-view-calendarlist"
+},
+{
+"type": "ftl",
+"id": "calendar-only-workday-checkbox"
+},
+{
+"type": "ftl",
+"id": "calendar-display-todos-checkbox"
+},
+{
+"type": "ftl",
+"id": "calendar-completed-tasks-checkbox"
+},
+{
+"type": "ftl",
+"id": "calendar-orientation"
+},
+{
+"type": "ftl",
+"id": "calendar-tasks-view-filtertasks"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-current"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-today"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-next7days"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-notstarted"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-overdue"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-completed"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-open"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-all"
+},
+{
+"type": "ftl",
+"id": "sort-by-spam-status"
+},
+{
+"type": "ftl",
+"id": "redirect-msg-menuitem"
+},
+{
+"type": "ftl",
+"id": "menu-mark-as-spam"
+},
+{
+"type": "ftl",
+"id": "menu-mark-not-spam"
+},
+{
+"type": "ftl",
+"id": "menu-recalculate-spam-score"
+},
+{
+"type": "ftl",
+"id": "menu-move-to"
+},
+{
+"type": "ftl",
+"id": "menu-copy-to"
+},
+{
+"type": "ftl",
+"id": "menu-move-again"
+},
+{
+"type": "ftl",
+"id": "calendar-task-mark-completed"
+},
+{
+"type": "ftl",
+"id": "calendar-context-progress"
+},
+{
+"type": "ftl",
+"id": "calendar-task-change-priority"
+},
+{
+"type": "ftl",
+"id": "calendar-context-postpone"
+},
+{
+"type": "ftl",
+"id": "calendar-context-postpone-1hour"
+},
+{
+"type": "ftl",
+"id": "calendar-context-postpone-1day"
+},
+{
+"type": "ftl",
+"id": "calendar-context-postpone-1week"
+},
+{
+"type": "ftl",
+"id": "menu-addons-and-themes"
+},
+{
+"type": "ftl",
+"id": "menu-run-spam-on-folder"
+},
+{
+"type": "ftl",
+"id": "menu-delete-spam"
+},
+{
+"type": "ftl",
+"id": "menu-export-for-mobile"
+},
+{
+"type": "ftl",
+"id": "openpgp-manage-keys-openpgp-cmd"
+},
+{
+"type": "ftl",
+"id": "menu-tools-settings"
+},
+{
+"type": "ftl",
+"id": "menu-tools-settings"
+},
+{
+"type": "ftl",
+"id": "menu-help-help-title"
+},
+{
+"type": "ftl",
+"id": "menu-help-get-help"
+},
+{
+"type": "ftl",
+"id": "menu-help-get-release-help"
+},
+{
+"type": "ftl",
+"id": "menu-help-shortcuts"
+},
+{
+"type": "ftl",
+"id": "menu-help-get-involved"
+},
+{
+"type": "ftl",
+"id": "menu-help-donation"
+},
+{
+"type": "ftl",
+"id": "menu-help-share-feedback"
+},
+{
+"type": "ftl",
+"id": "menu-help-enter-troubleshoot-mode"
+},
+{
+"type": "ftl",
+"id": "menu-help-troubleshooting-info"
+},
+{
+"type": "ftl",
+"id": "menu-help-about-product"
+},
+{
+"type": "ftl",
+"id": "calendar-new-event-primary-button"
+},
+{
+"type": "ftl",
+"id": "calendar-new-task-primary-button"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-title2"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-current"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-today"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-next7days"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-notstarted"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-overdue"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-completed"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-open"
+},
+{
+"type": "ftl",
+"id": "calendar-task-filter-all"
+},
+{
+"type": "ftl",
+"id": "calendar-list-header"
+},
+{
+"type": "ftl",
+"id": "calendar-import-new-calendar"
+},
+{
+"type": "ftl",
+"id": "calendar-refresh-calendars"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-interval-past"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-interval-today"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-interval-next-7-days"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-interval-next-14-days"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-interval-next-31-days"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-interval-next-6-months"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-interval-next-12-months"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-interval-future"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-interval-calendar-month"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-interval-selected-day"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-interval-current-view"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-interval-all"
+},
+{
+"type": "ftl",
+"id": "calendar-search-options-searchfor"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-close"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-column-title"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-column-start-date"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-column-end-date"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-column-category"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-column-location"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-column-status"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-column-calendar-name"
+},
+{
+"type": "ftl",
+"id": "calendar-today-button-tooltip"
+},
+{
+"type": "ftl",
+"id": "calendar-view-toggle-day"
+},
+{
+"type": "ftl",
+"id": "calendar-view-toggle-week"
+},
+{
+"type": "ftl",
+"id": "calendar-view-toggle-multiweek"
+},
+{
+"type": "ftl",
+"id": "calendar-view-toggle-month"
+},
+{
+"type": "ftl",
+"id": "calendar-control-bar-menu-button"
+},
+{
+"type": "ftl",
+"id": "calendar-newtask-button"
+},
+{
+"type": "ftl",
+"id": "calendar-task-text-filter-field"
+},
+{
+"type": "ftl",
+"id": "calendar-event-listing-column-category"
+},
+{
+"type": "ftl",
+"id": "calendar-task-mark-completed"
+},
+{
+"type": "ftl",
+"id": "calendar-task-change-priority"
+},
+{
+"type": "ftl",
+"id": "calendar-taskview-delete"
+},
+{
+"type": "ftl",
+"id": "calendar-task-details-title"
+},
+{
+"type": "ftl",
+"id": "calendar-task-details-priority"
+},
+{
+"type": "ftl",
+"id": "calendar-task-details-priority-low"
+},
+{
+"type": "ftl",
+"id": "calendar-task-details-priority-normal"
+},
+{
+"type": "ftl",
+"id": "calendar-task-details-priority-high"
+},
+{
+"type": "ftl",
+"id": "calendar-task-details-organizer"
+},
+{
+"type": "ftl",
+"id": "calendar-task-details-status"
+},
+{
+"type": "ftl",
+"id": "calendar-task-details-category"
+},
+{
+"type": "ftl",
+"id": "calendar-task-details-start"
+},
+{
+"type": "ftl",
+"id": "calendar-task-details-due"
+},
+{
+"type": "ftl",
+"id": "calendar-task-details-repeat"
+},
+{
+"type": "ftl",
+"id": "calendar-task-details-attachments"
+},
+{
+"type": "ftl",
+"id": "calendar-print-layout-label"
+},
+{
+"type": "ftl",
+"id": "calendar-print-layout-list"
+},
+{
+"type": "ftl",
+"id": "calendar-print-layout-month-grid"
+},
+{
+"type": "ftl",
+"id": "calendar-print-layout-week-planner"
+},
+{
+"type": "ftl",
+"id": "calendar-print-filter-label"
+},
+{
+"type": "ftl",
+"id": "calendar-print-filter-events"
+},
+{
+"type": "ftl",
+"id": "calendar-print-filter-tasks"
+},
+{
+"type": "ftl",
+"id": "calendar-print-filter-completedtasks"
+},
+{
+"type": "ftl",
+"id": "calendar-print-filter-taskswithnoduedate"
+},
+{
+"type": "ftl",
+"id": "calendar-print-range-from"
+},
+{
+"type": "ftl",
+"id": "calendar-print-range-to"
+},
+{
+"type": "ftl",
+"id": "calendar-print-next-button"
+},
+{
+"type": "ftl",
+"id": "printui-cancel-button"
+},
+{
+"type": "ftl",
+"id": "calendar-print-back-button"
+},
+{
+"type": "ftl",
+"id": "calendar-find-events-menu-option"
+},
+{
+"type": "ftl",
+"id": "calendar-hide-weekends-option"
+},
+{
+"type": "ftl",
+"id": "calendar-define-workweek-option"
+},
+{
+"type": "ftl",
+"id": "calendar-show-tasks-calendar-option"
+},
+{
+"type": "ftl",
+"id": "calendar-invitation-panel-prop-title-when"
+},
+{
+"type": "ftl",
+"id": "calendar-invitation-panel-prop-title-recurrence"
+},
+{
+"type": "ftl",
+"id": "calendar-invitation-panel-prop-title-location"
+},
+{
+"type": "ftl",
+"id": "calendar-invitation-panel-prop-title-attendees"
+},
+{
+"type": "ftl",
+"id": "calendar-invitation-panel-prop-title-description"
+},
+{
+"type": "ftl",
+"id": "calendar-invitation-panel-prop-title-attachments"
+},
+{
+"type": "ftl",
+"id": "calendar-invitation-panel-accept-button"
+},
+{
+"type": "ftl",
+"id": "calendar-invitation-panel-decline-button"
+},
+{
+"type": "ftl",
+"id": "calendar-invitation-panel-tentative-button"
+},
+{
+"type": "ftl",
+"id": "calendar-today-pane-close-button"
+},
+{
+"type": "ftl",
+"id": "calendar-newevent-button"
+},
+{
+"type": "ftl",
+"id": "calendar-unifinder-show-completed-todos"
+},
+{
+"type": "ftl",
+"id": "spaces-toolbar-button-show"
+},
+{
+"type": "ftl",
+"id": "calendar-todaypane-button"
+},
+{
+"type": "ftl",
+"id": "printui-loading"
+},
+{
+"type": "ftl",
+"id": "account-hub-address-book-name-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-address-book-name-error-text"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-hostname-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-hostname-error-text"
+},
+{
+"type": "ftl",
+"id": "account-hub-on-port-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-port-error-text"
+},
+{
+"type": "ftl",
+"id": "account-hub-ldap-ssl-toggle-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-address-book-base-dn"
+},
+{
+"type": "ftl",
+"id": "account-hub-address-book-bind-dn"
+},
+{
+"type": "ftl",
+"id": "account-hub-max-results-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-max-results-error-text"
+},
+{
+"type": "ftl",
+"id": "account-hub-address-book-scope-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-address-book-scope-subtree-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-address-book-scope-level-one-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-address-book-scope-subtree-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-address-book-login-method-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-address-book-login-simple-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-address-book-login-simple-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-address-book-search-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-advanced-configuration-button"
+},
+{
+"type": "ftl",
+"id": "account-hub-simple-configuration-button"
+},
+{
+"type": "ftl",
+"id": "account-hub-local-address-book-label"
+},
+{
+"type": "ftl",
+"id": "account-setup-email-warning-icon"
+},
+{
+"type": "ftl",
+"id": "account-hub-local-error-text"
+},
+{
+"type": "ftl",
+"id": "address-book-sync-existing-icon"
+},
+{
+"type": "ftl",
+"id": "address-book-sync-existing"
+},
+{
+"type": "ftl",
+"id": "address-book-sync-existing-description"
+},
+{
+"type": "ftl",
+"id": "address-book-add-remote-icon"
+},
+{
+"type": "ftl",
+"id": "address-book-add-remote"
+},
+{
+"type": "ftl",
+"id": "address-book-add-remote-description"
+},
+{
+"type": "ftl",
+"id": "address-book-add-local-icon"
+},
+{
+"type": "ftl",
+"id": "address-book-add-local"
+},
+{
+"type": "ftl",
+"id": "address-book-add-local-description"
+},
+{
+"type": "ftl",
+"id": "address-book-add-ldap-icon"
+},
+{
+"type": "ftl",
+"id": "address-book-add-ldap"
+},
+{
+"type": "ftl",
+"id": "address-book-add-ldap-description"
+},
+{
+"type": "ftl",
+"id": "account-hub-username-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-username-warning-icon"
+},
+{
+"type": "ftl",
+"id": "account-hub-address-book-username-error-text"
+},
+{
+"type": "ftl",
+"id": "account-hub-server-tip"
+},
+{
+"type": "ftl",
+"id": "account-hub-server-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-server-warning-icon"
+},
+{
+"type": "ftl",
+"id": "account-hub-server-error-text"
+},
+{
+"type": "ftl",
+"id": "account-setup-address-books-button"
+},
+{
+"type": "ftl",
+"id": "account-hub-email-added-success-links-title"
+},
+{
+"type": "ftl",
+"id": "account-setup-encryption-button"
+},
+{
+"type": "ftl",
+"id": "account-hub-signature-link"
+},
+{
+"type": "ftl",
+"id": "account-setup-password-label"
+},
+{
+"type": "ftl",
+"id": "account-setup-remember-password"
+},
+{
+"type": "ftl",
+"id": "account-setup-exchange-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-name-label"
+},
+{
+"type": "ftl",
+"id": "account-setup-name-warning-icon"
+},
+{
+"type": "ftl",
+"id": "account-hub-name-error-text"
+},
+{
+"type": "ftl",
+"id": "account-setup-email-label"
+},
+{
+"type": "ftl",
+"id": "account-setup-email-warning-icon"
+},
+{
+"type": "ftl",
+"id": "account-hub-email-error-text"
+},
+{
+"type": "ftl",
+"id": "account-hub-email-manual-configuration"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-recommended-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-imap-description"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-recommended-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-pop-description"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-ews-shortname"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-recommended-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-ews-description"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-addon-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-exchange-description"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-incoming-server-legend"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-outgoing-server-legend"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-hostname-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-socket-type-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-username-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-hostname-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-socket-type-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-username-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-edit-configuration"
+},
+{
+"type": "ftl",
+"id": "account-setup-addon-install-title"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-hostname-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-unknown-hostname"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-socket-type-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-username-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-email-manually-configure-button"
+},
+{
+"type": "ftl",
+"id": "account-hub-protocol-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-hostname-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-hostname-error-text"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-exchange-url-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-server-error-text"
+},
+{
+"type": "ftl",
+"id": "account-hub-on-port-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-port-error-text"
+},
+{
+"type": "ftl",
+"id": "account-hub-ssl-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-ssl-autodetect-option"
+},
+{
+"type": "ftl",
+"id": "account-hub-ssl-noencryption-option"
+},
+{
+"type": "ftl",
+"id": "account-hub-security-warning"
+},
+{
+"type": "ftl",
+"id": "account-hub-auth-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-ssl-autodetect-option"
+},
+{
+"type": "ftl",
+"id": "account-hub-ssl-cleartext-password-option"
+},
+{
+"type": "ftl",
+"id": "account-hub-ssl-encrypted-password-option"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-username-label"
+},
+{
+"type": "ftl",
+"id": "account-setup-email-input"
+},
+{
+"type": "ftl",
+"id": "account-hub-username-error-text"
+},
+{
+"type": "ftl",
+"id": "account-setup-advanced-setup-button"
+},
+{
+"type": "ftl",
+"id": "account-hub-protocol-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-hostname-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-hostname-error-text"
+},
+{
+"type": "ftl",
+"id": "account-hub-on-port-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-port-error-text"
+},
+{
+"type": "ftl",
+"id": "account-hub-ssl-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-ssl-autodetect-option"
+},
+{
+"type": "ftl",
+"id": "account-hub-ssl-noencryption-option"
+},
+{
+"type": "ftl",
+"id": "account-hub-security-warning"
+},
+{
+"type": "ftl",
+"id": "account-hub-auth-label"
+},
+{
+"type": "ftl",
+"id": "account-hub-ssl-autodetect-option"
+},
+{
+"type": "ftl",
+"id": "account-hub-auth-no-authentication-option"
+},
+{
+"type": "ftl",
+"id": "account-hub-ssl-cleartext-password-option"
+},
+{
+"type": "ftl",
+"id": "account-hub-ssl-encrypted-password-option"
+},
+{
+"type": "ftl",
+"id": "account-hub-result-username-label"
+},
+{
+"type": "ftl",
+"id": "account-setup-email-input"
+},
+{
+"type": "ftl",
+"id": "account-hub-username-error-text"
+},
+{
+"type": "ftl",
+"id": "account-setup-advanced-setup-button"
+},
+{
+"type": "ftl",
+"id": "account-setup-password-label"
+},
+{
+"type": "ftl",
+"id": "account-setup-remember-password"
+},
+{
+"type": "ftl",
+"id": "account-setup-address-books-button"
+},
+{
+"type": "ftl",
+"id": "account-hub-no-address-books"
+},
+{
+"type": "ftl",
+"id": "account-setup-calendars-button"
+},
+{
+"type": "ftl",
+"id": "account-hub-no-calendars"
+},
+{
+"type": "ftl",
+"id": "account-hub-email-back-button"
+},
+{
+"type": "ftl",
+"id": "account-hub-email-continue-button"
+},
+{
+"type": "ftl",
+"id": "account-hub-support"
+},
+{
+"type": "ftl",
+"id": "account-hub-release-notes"
+},
+{
+"type": "ftl",
+"id": "account-hub-donate"
+},
+{
+"type": "ftl",
+"id": "account-hub-brand"
+},
+{
+"type": "ftl",
+"id": "account-hub-title"
+},
+{
+"type": "ftl",
+"id": "account-hub-minimize-button"
+},
+{
+"type": "ftl",
+"id": "account-hub-close-button"
+},
+{
+"type": "ftl",
+"id": "account-hub-notification-show-more"
+},
+{
+"type": "ftl",
+"id": "account-hub-notification-show-less"
+},
+{
+"type": "ftl",
+"id": "account-hub-brand"
+},
+{
+"type": "ftl",
+"id": "account-hub-title"
+},
+{
+"type": "ftl",
+"id": "account-hub-minimize-button"
+},
+{
+"type": "ftl",
+"id": "account-hub-close-button"
+},
+{
+"type": "ftl",
+"id": "account-hub-notification-show-more"
+},
+{
+"type": "ftl",
+"id": "account-hub-notification-show-less"
+},
+{
+"type": "ftl",
+"id": "account-hub-maximize-button"
+},
+{
+"type": "ftl",
+"id": "account-hub-title"
+},
+{
+"type": "ftl",
+"id": "account-hub-welcome-line"
+},
+{
+"type": "ftl",
+"id": "account-hub-brand"
+},
+{
+"type": "ftl",
+"id": "account-hub-title"
+},
+{
+"type": "ftl",
+"id": "account-hub-sync-button"
+},
+{
+"type": "ftl",
+"id": "account-hub-release-notes"
+},
+{
+"type": "ftl",
+"id": "account-hub-support"
+},
+{
+"type": "ftl",
+"id": "account-hub-donate"
+},
+{
+"type": "ftl",
+"id": "shortcuts-close-button-title"
+}
+]
+}
