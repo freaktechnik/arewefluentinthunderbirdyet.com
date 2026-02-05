@@ -26,8 +26,8 @@ const State = {
     },
     {
       code: "M3",
-      name: "firefox",
-      title: "Strings available in Firefox",
+      name: "thunderbird",
+      title: "Strings available in Thunderbird",
       categories: ["ini", "inc", "dtd", "properties", "ftl"],
       skipInDashboard: ["ini", "inc"],
       categoriesBar: [2, 4],
