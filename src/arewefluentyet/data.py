@@ -18,7 +18,7 @@ class Aggregator(object):
         p = configparser.TOMLParser()
         del self.configs[:]
         for path in self.config_paths:
-            cfg = p.parse(path, env={"l10n_base": mozpath.abspath(".")})
+            cfg = p.parse(path, env={"l10n_base": mozpath.abspath(".")}, ignore_missing_includes=True)
             cfg.set_locales(["en-US"], True)
             self.configs.append(cfg)
 

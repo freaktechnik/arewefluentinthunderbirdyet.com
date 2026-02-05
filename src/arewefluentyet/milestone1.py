@@ -11,8 +11,8 @@ HTML_ENTITIES = ["quot", "amp", "nbsp", "lt", "gt"]
 
 class Milestone1(Milestone):
     name = "M1"
-    start_date = date(2019, 3, 24)
-    main_file = "./browser/base/content/browser.xhtml"
+    start_date = date(2019, 12, 24)
+    main_file = "mail/base/content/messenger.xhtml"
 
     def get_data(self, source: Source, date, revision):
         entries = []

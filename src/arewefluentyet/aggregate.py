@@ -163,7 +163,7 @@ if __name__ == "__main__":
                         help='If set, no data is written to files.')
     parser.add_argument('--mc',
                         required=True,
-                        metavar='../mozilla-unified',
+                        metavar='../mozilla-unified/comm',
                         help='Path to mozilla-central clone')
     parser.add_argument('--git',
                         action='store_true',

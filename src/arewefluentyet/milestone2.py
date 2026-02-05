@@ -122,7 +122,7 @@ class Milestone2(Milestone):
             if len(line.strip()) == 0:
                 continue
             match = re.match(
-                "([0-9]+) (.*?) \[\"([^\"]+)\":([0-9]+):([0-9]+)]", line)
+                r"([0-9]+) (.*?) \[\"([^\"]+)\":([0-9]+):([0-9]+)]", line)
             if match is None:
                 print(line)
                 continue

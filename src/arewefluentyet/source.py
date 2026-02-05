@@ -77,7 +77,7 @@ class HgSource(Source):
             "-l", "1",
             "-T", "{node}",
             "-r",
-            f"reverse(pushhead() and pushdate('< {next_date}') and ::central)"
+            f"reverse(pushhead() and pushdate('< {next_date}') and ::comm)"
         ], check=True, capture_output=True, encoding="ascii")
         return result.stdout
 

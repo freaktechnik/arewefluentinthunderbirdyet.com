@@ -9,11 +9,11 @@ from milestone import Milestone
 
 class Milestone3(Milestone):
     name = "M3"
-    start_date = date(2017, 11, 1)
+    start_date = date(2017, 6, 22)
 
     def get_data(self, source: Source, date, revision):
         aggregator = Aggregator(
-            [os.path.join(source.path, "browser/locales/l10n.toml")])
+            [os.path.join(source.path, "mail/locales/l10n.toml")])
         aggregator.load()
 
         result = aggregator.gather()
