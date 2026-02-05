@@ -1,6 +1,6 @@
 {
-"date": "2026-02-05",
-"revision": "1aaa1465f89b8a314d0bc8f711cbe4003fb12e93",
+"date": "2026-01-15",
+"revision": "9c91f3cb",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -76,7 +76,7 @@
 },
 {
 "file": "en-US/calendar/calendar/calendar.ftl",
-"count": 360
+"count": 357
 },
 {
 "file": "en-US/calendar/calendar/categories.ftl",
@@ -213,282 +213,6 @@
 {
 "file": "en-US/chat/yahoo.ftl",
 "count": 1
-},
-{
-"file": "en-US/devtools/client/aboutdebugging.ftl",
-"count": 100
-},
-{
-"file": "en-US/devtools/client/accessibility.ftl",
-"count": 33
-},
-{
-"file": "en-US/devtools/client/accessibility.properties",
-"count": 57
-},
-{
-"file": "en-US/devtools/client/animationinspector.properties",
-"count": 30
-},
-{
-"file": "en-US/devtools/client/application.ftl",
-"count": 33
-},
-{
-"file": "en-US/devtools/client/boxmodel.properties",
-"count": 7
-},
-{
-"file": "en-US/devtools/client/changes.properties",
-"count": 14
-},
-{
-"file": "en-US/devtools/client/compatibility.ftl",
-"count": 17
-},
-{
-"file": "en-US/devtools/client/components.properties",
-"count": 13
-},
-{
-"file": "en-US/devtools/client/debugger.properties",
-"count": 349
-},
-{
-"file": "en-US/devtools/client/device.properties",
-"count": 7
-},
-{
-"file": "en-US/devtools/client/dom.properties",
-"count": 2
-},
-{
-"file": "en-US/devtools/client/filterwidget.properties",
-"count": 11
-},
-{
-"file": "en-US/devtools/client/font-inspector.properties",
-"count": 23
-},
-{
-"file": "en-US/devtools/client/har.properties",
-"count": 2
-},
-{
-"file": "en-US/devtools/client/inspector.ftl",
-"count": 5
-},
-{
-"file": "en-US/devtools/client/inspector.properties",
-"count": 136
-},
-{
-"file": "en-US/devtools/client/jsonview.properties",
-"count": 14
-},
-{
-"file": "en-US/devtools/client/layout.properties",
-"count": 31
-},
-{
-"file": "en-US/devtools/client/memory.properties",
-"count": 101
-},
-{
-"file": "en-US/devtools/client/menus.properties",
-"count": 14
-},
-{
-"file": "en-US/devtools/client/netmonitor.ftl",
-"count": 9
-},
-{
-"file": "en-US/devtools/client/netmonitor.properties",
-"count": 402
-},
-{
-"file": "en-US/devtools/client/network-throttling.properties",
-"count": 4
-},
-{
-"file": "en-US/devtools/client/perftools.ftl",
-"count": 78
-},
-{
-"file": "en-US/devtools/client/responsive.properties",
-"count": 38
-},
-{
-"file": "en-US/devtools/client/shared.properties",
-"count": 4
-},
-{
-"file": "en-US/devtools/client/sourceeditor.properties",
-"count": 16
-},
-{
-"file": "en-US/devtools/client/startup.properties",
-"count": 63
-},
-{
-"file": "en-US/devtools/client/storage.ftl",
-"count": 42
-},
-{
-"file": "en-US/devtools/client/styleeditor.ftl",
-"count": 20
-},
-{
-"file": "en-US/devtools/client/styleeditor.properties",
-"count": 15
-},
-{
-"file": "en-US/devtools/client/toolbox-options.ftl",
-"count": 65
-},
-{
-"file": "en-US/devtools/client/toolbox.ftl",
-"count": 22
-},
-{
-"file": "en-US/devtools/client/toolbox.properties",
-"count": 65
-},
-{
-"file": "en-US/devtools/client/tooltips.ftl",
-"count": 91
-},
-{
-"file": "en-US/devtools/client/webconsole.properties",
-"count": 143
-},
-{
-"file": "en-US/devtools/shared/accessibility.properties",
-"count": 28
-},
-{
-"file": "en-US/devtools/shared/debugger-paused-reasons.ftl",
-"count": 18
-},
-{
-"file": "en-US/devtools/shared/debugger.properties",
-"count": 12
-},
-{
-"file": "en-US/devtools/shared/eyedropper.properties",
-"count": 1
-},
-{
-"file": "en-US/devtools/shared/highlighters.ftl",
-"count": 13
-},
-{
-"file": "en-US/devtools/shared/screenshot.properties",
-"count": 25
-},
-{
-"file": "en-US/devtools/shared/styleinspector.properties",
-"count": 68
-},
-{
-"file": "en-US/devtools/shared/webconsole-commands.ftl",
-"count": 2
-},
-{
-"file": "en-US/devtools/startup/key-shortcuts.ftl",
-"count": 17
-},
-{
-"file": "en-US/dom/chrome/accessibility/AccessFu.properties",
-"count": 91
-},
-{
-"file": "en-US/dom/chrome/accessibility/mac/accessible.properties",
-"count": 48
-},
-{
-"file": "en-US/dom/chrome/accessibility/unix/accessible.properties",
-"count": 15
-},
-{
-"file": "en-US/dom/chrome/accessibility/win/accessible.properties",
-"count": 19
-},
-{
-"file": "en-US/dom/chrome/appstrings.properties",
-"count": 39
-},
-{
-"file": "en-US/dom/chrome/dom/dom.properties",
-"count": 297
-},
-{
-"file": "en-US/dom/chrome/layout/HtmlForm.properties",
-"count": 17
-},
-{
-"file": "en-US/dom/chrome/layout/MediaDocument.properties",
-"count": 10
-},
-{
-"file": "en-US/dom/chrome/layout/css.properties",
-"count": 50
-},
-{
-"file": "en-US/dom/chrome/layout/htmlparser.properties",
-"count": 127
-},
-{
-"file": "en-US/dom/chrome/layout/layout_errors.properties",
-"count": 18
-},
-{
-"file": "en-US/dom/chrome/layout/printing.properties",
-"count": 20
-},
-{
-"file": "en-US/dom/chrome/layout/xmlparser.properties",
-"count": 35
-},
-{
-"file": "en-US/dom/chrome/layout/xul.properties",
-"count": 1
-},
-{
-"file": "en-US/dom/chrome/mathml/mathml.properties",
-"count": 8
-},
-{
-"file": "en-US/dom/chrome/nsWebBrowserPersist.properties",
-"count": 13
-},
-{
-"file": "en-US/dom/chrome/security/caps.properties",
-"count": 5
-},
-{
-"file": "en-US/dom/chrome/security/csp.properties",
-"count": 58
-},
-{
-"file": "en-US/dom/chrome/security/security.properties",
-"count": 89
-},
-{
-"file": "en-US/dom/chrome/svg/svg.properties",
-"count": 1
-},
-{
-"file": "en-US/dom/dom/XMLPrettyPrint.ftl",
-"count": 1
-},
-{
-"file": "en-US/dom/dom/media.ftl",
-"count": 2
-},
-{
-"file": "en-US/dom/dom/xslt.ftl",
-"count": 34
 },
 {
 "file": "en-US/mail/branding/tb_beta/brand.dtd",
@@ -788,7 +512,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/filter.properties",
-"count": 25
+"count": 56
 },
 {
 "file": "en-US/mail/chrome/messenger/folderProps.dtd",
@@ -864,11 +588,11 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/messenger.dtd",
-"count": 701
+"count": 722
 },
 {
 "file": "en-US/mail/chrome/messenger/messenger.properties",
-"count": 293
+"count": 298
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/EdAdvancedEdit.dtd",
@@ -948,7 +672,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/composeMsgs.properties",
-"count": 175
+"count": 177
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/editor.properties",
@@ -1171,10 +895,6 @@
 "count": 2
 },
 {
-"file": "en-US/mail/messenger/EdReplace.ftl",
-"count": 2
-},
-{
 "file": "en-US/mail/messenger/about3Pane.ftl",
 "count": 161
 },
@@ -1264,7 +984,7 @@
 },
 {
 "file": "en-US/mail/messenger/calendarDialog.ftl",
-"count": 15
+"count": 9
 },
 {
 "file": "en-US/mail/messenger/certError.ftl",
@@ -1308,7 +1028,7 @@
 },
 {
 "file": "en-US/mail/messenger/filterEditor.ftl",
-"count": 38
+"count": 8
 },
 {
 "file": "en-US/mail/messenger/flatpak.ftl",
@@ -1344,7 +1064,7 @@
 },
 {
 "file": "en-US/mail/messenger/messenger.ftl",
-"count": 193
+"count": 185
 },
 {
 "file": "en-US/mail/messenger/messengercompose/messengercompose.ftl",
@@ -1400,7 +1120,7 @@
 },
 {
 "file": "en-US/mail/messenger/openpgp/openpgp.ftl",
-"count": 356
+"count": 352
 },
 {
 "file": "en-US/mail/messenger/otr/add-finger.ftl",
@@ -1571,488 +1291,8 @@
 "count": 4
 },
 {
-"file": "en-US/mail/messenger/virtualFolderProperties.ftl",
-"count": 1
-},
-{
 "file": "en-US/mail/updater/updater.ini",
 "count": 2
-},
-{
-"file": "en-US/netwerk/necko.properties",
-"count": 54
-},
-{
-"file": "en-US/netwerk/netwerk/necko.ftl",
-"count": 11
-},
-{
-"file": "en-US/security/manager/chrome/pipnss/nsserrors.properties",
-"count": 329
-},
-{
-"file": "en-US/security/manager/chrome/pipnss/pipnss.properties",
-"count": 55
-},
-{
-"file": "en-US/security/manager/chrome/pippki/pippki.properties",
-"count": 16
-},
-{
-"file": "en-US/security/manager/security/certificates/certManager.ftl",
-"count": 94
-},
-{
-"file": "en-US/security/manager/security/certificates/deviceManager.ftl",
-"count": 41
-},
-{
-"file": "en-US/security/manager/security/pippki/pippki.ftl",
-"count": 46
-},
-{
-"file": "en-US/toolkit/chrome/alerts/alert.properties",
-"count": 4
-},
-{
-"file": "en-US/toolkit/chrome/autoconfig/autoconfig.properties",
-"count": 6
-},
-{
-"file": "en-US/toolkit/chrome/global-platform/mac/platformKeys.properties",
-"count": 6
-},
-{
-"file": "en-US/toolkit/chrome/global-platform/unix/platformKeys.properties",
-"count": 6
-},
-{
-"file": "en-US/toolkit/chrome/global-platform/win/platformKeys.properties",
-"count": 6
-},
-{
-"file": "en-US/toolkit/chrome/global/aboutStudies.properties",
-"count": 13
-},
-{
-"file": "en-US/toolkit/chrome/global/autocomplete.properties",
-"count": 1
-},
-{
-"file": "en-US/toolkit/chrome/global/commonDialogs.properties",
-"count": 29
-},
-{
-"file": "en-US/toolkit/chrome/global/contentAreaCommands.properties",
-"count": 11
-},
-{
-"file": "en-US/toolkit/chrome/global/dialog.properties",
-"count": 8
-},
-{
-"file": "en-US/toolkit/chrome/global/extensions.properties",
-"count": 8
-},
-{
-"file": "en-US/toolkit/chrome/global/fallbackMenubar.properties",
-"count": 2
-},
-{
-"file": "en-US/toolkit/chrome/global/filepicker.properties",
-"count": 12
-},
-{
-"file": "en-US/toolkit/chrome/global/keys.properties",
-"count": 33
-},
-{
-"file": "en-US/toolkit/chrome/global/narrate.properties",
-"count": 13
-},
-{
-"file": "en-US/toolkit/chrome/global/printdialog.properties",
-"count": 33
-},
-{
-"file": "en-US/toolkit/chrome/global/resetProfile.properties",
-"count": 4
-},
-{
-"file": "en-US/toolkit/chrome/global/viewSource.properties",
-"count": 11
-},
-{
-"file": "en-US/toolkit/chrome/global/wizard.properties",
-"count": 4
-},
-{
-"file": "en-US/toolkit/chrome/mozapps/downloads/downloads.properties",
-"count": 1
-},
-{
-"file": "en-US/toolkit/chrome/mozapps/downloads/unknownContentType.properties",
-"count": 17
-},
-{
-"file": "en-US/toolkit/chrome/mozapps/profile/profileSelection.properties",
-"count": 33
-},
-{
-"file": "en-US/toolkit/chrome/mozapps/update/updates.properties",
-"count": 32
-},
-{
-"file": "en-US/toolkit/chrome/passwordmgr/passwordmgr.properties",
-"count": 9
-},
-{
-"file": "en-US/toolkit/chrome/places/places.properties",
-"count": 17
-},
-{
-"file": "en-US/toolkit/crashreporter/aboutcrashes.ftl",
-"count": 16
-},
-{
-"file": "en-US/toolkit/crashreporter/crashreporter.ftl",
-"count": 35
-},
-{
-"file": "en-US/toolkit/services/accounts.ftl",
-"count": 1
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutAbout.ftl",
-"count": 2
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutAddons.ftl",
-"count": 245
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutCompat.ftl",
-"count": 9
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutGlean.ftl",
-"count": 85
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutHttpsOnlyError.ftl",
-"count": 14
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutLogging.ftl",
-"count": 84
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutMozilla.ftl",
-"count": 3
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutNetworking.ftl",
-"count": 58
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutProcesses.ftl",
-"count": 67
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutProfiles.ftl",
-"count": 37
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutReader.ftl",
-"count": 47
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutServiceWorkers.ftl",
-"count": 16
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutSupport.ftl",
-"count": 313
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutTelemetry.ftl",
-"count": 75
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutThirdParty.ftl",
-"count": 36
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutTranslations.ftl",
-"count": 17
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutWebauthn.ftl",
-"count": 104
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutWebrtc.ftl",
-"count": 110
-},
-{
-"file": "en-US/toolkit/toolkit/about/aboutWindowsMessages.ftl",
-"count": 3
-},
-{
-"file": "en-US/toolkit/toolkit/about/certviewer.ftl",
-"count": 81
-},
-{
-"file": "en-US/toolkit/toolkit/about/config.ftl",
-"count": 20
-},
-{
-"file": "en-US/toolkit/toolkit/about/url-classifier.ftl",
-"count": 50
-},
-{
-"file": "en-US/toolkit/toolkit/branding/brandings.ftl",
-"count": 23
-},
-{
-"file": "en-US/toolkit/toolkit/contentanalysis/contentanalysis.ftl",
-"count": 41
-},
-{
-"file": "en-US/toolkit/toolkit/downloads/downloadUI.ftl",
-"count": 11
-},
-{
-"file": "en-US/toolkit/toolkit/downloads/downloadUtils.ftl",
-"count": 20
-},
-{
-"file": "en-US/toolkit/toolkit/firefoxlabs/features.ftl",
-"count": 27
-},
-{
-"file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
-"count": 38
-},
-{
-"file": "en-US/toolkit/toolkit/global/alert.ftl",
-"count": 3
-},
-{
-"file": "en-US/toolkit/toolkit/global/antiTracking.ftl",
-"count": 2
-},
-{
-"file": "en-US/toolkit/toolkit/global/appPicker.ftl",
-"count": 3
-},
-{
-"file": "en-US/toolkit/toolkit/global/arrowscrollbox.ftl",
-"count": 2
-},
-{
-"file": "en-US/toolkit/toolkit/global/browser-utils.ftl",
-"count": 4
-},
-{
-"file": "en-US/toolkit/toolkit/global/commonDialog.ftl",
-"count": 8
-},
-{
-"file": "en-US/toolkit/toolkit/global/contextual-identity.ftl",
-"count": 6
-},
-{
-"file": "en-US/toolkit/toolkit/global/cookieBannerHandling.ftl",
-"count": 1
-},
-{
-"file": "en-US/toolkit/toolkit/global/createProfileWizard.ftl",
-"count": 13
-},
-{
-"file": "en-US/toolkit/toolkit/global/cspErrors.ftl",
-"count": 6
-},
-{
-"file": "en-US/toolkit/toolkit/global/datetimebox.ftl",
-"count": 13
-},
-{
-"file": "en-US/toolkit/toolkit/global/datetimepicker.ftl",
-"count": 22
-},
-{
-"file": "en-US/toolkit/toolkit/global/extensionPermissions.ftl",
-"count": 52
-},
-{
-"file": "en-US/toolkit/toolkit/global/extensions.ftl",
-"count": 45
-},
-{
-"file": "en-US/toolkit/toolkit/global/handlerDialog.ftl",
-"count": 31
-},
-{
-"file": "en-US/toolkit/toolkit/global/htmlForm.ftl",
-"count": 4
-},
-{
-"file": "en-US/toolkit/toolkit/global/mozBoxBase.ftl",
-"count": 1
-},
-{
-"file": "en-US/toolkit/toolkit/global/mozBreadcrumbGroup.ftl",
-"count": 1
-},
-{
-"file": "en-US/toolkit/toolkit/global/mozButton.ftl",
-"count": 1
-},
-{
-"file": "en-US/toolkit/toolkit/global/mozFiveStar.ftl",
-"count": 2
-},
-{
-"file": "en-US/toolkit/toolkit/global/mozInputFolder.ftl",
-"count": 1
-},
-{
-"file": "en-US/toolkit/toolkit/global/mozMessageBar.ftl",
-"count": 5
-},
-{
-"file": "en-US/toolkit/toolkit/global/mozPageHeader.ftl",
-"count": 1
-},
-{
-"file": "en-US/toolkit/toolkit/global/mozSupportLink.ftl",
-"count": 1
-},
-{
-"file": "en-US/toolkit/toolkit/global/notification.ftl",
-"count": 3
-},
-{
-"file": "en-US/toolkit/toolkit/global/popupnotification.ftl",
-"count": 3
-},
-{
-"file": "en-US/toolkit/toolkit/global/processTypes.ftl",
-"count": 24
-},
-{
-"file": "en-US/toolkit/toolkit/global/profileDowngrade.ftl",
-"count": 5
-},
-{
-"file": "en-US/toolkit/toolkit/global/profileSelection.ftl",
-"count": 12
-},
-{
-"file": "en-US/toolkit/toolkit/global/resetProfile.ftl",
-"count": 8
-},
-{
-"file": "en-US/toolkit/toolkit/global/resistFingerPrinting.ftl",
-"count": 1
-},
-{
-"file": "en-US/toolkit/toolkit/global/run-from-dmg.ftl",
-"count": 10
-},
-{
-"file": "en-US/toolkit/toolkit/global/textActions.ftl",
-"count": 28
-},
-{
-"file": "en-US/toolkit/toolkit/global/tree.ftl",
-"count": 1
-},
-{
-"file": "en-US/toolkit/toolkit/global/unknownContentType.ftl",
-"count": 12
-},
-{
-"file": "en-US/toolkit/toolkit/global/videocontrols.ftl",
-"count": 23
-},
-{
-"file": "en-US/toolkit/toolkit/global/wizard.ftl",
-"count": 12
-},
-{
-"file": "en-US/toolkit/toolkit/intl/languageNames.ftl",
-"count": 212
-},
-{
-"file": "en-US/toolkit/toolkit/intl/regionNames.ftl",
-"count": 272
-},
-{
-"file": "en-US/toolkit/toolkit/main-window/autocomplete.ftl",
-"count": 4
-},
-{
-"file": "en-US/toolkit/toolkit/main-window/findbar.ftl",
-"count": 18
-},
-{
-"file": "en-US/toolkit/toolkit/neterror/certError.ftl",
-"count": 114
-},
-{
-"file": "en-US/toolkit/toolkit/neterror/netError.ftl",
-"count": 113
-},
-{
-"file": "en-US/toolkit/toolkit/neterror/nsserrors.ftl",
-"count": 331
-},
-{
-"file": "en-US/toolkit/toolkit/passwordmgr/passwordmgr.ftl",
-"count": 12
-},
-{
-"file": "en-US/toolkit/toolkit/payments/payments.ftl",
-"count": 5
-},
-{
-"file": "en-US/toolkit/toolkit/pdfviewer/viewer.ftl",
-"count": 332
-},
-{
-"file": "en-US/toolkit/toolkit/pictureinpicture/pictureinpicture.ftl",
-"count": 19
-},
-{
-"file": "en-US/toolkit/toolkit/preferences/preferences.ftl",
-"count": 24
-},
-{
-"file": "en-US/toolkit/toolkit/printing/printDialogs.ftl",
-"count": 50
-},
-{
-"file": "en-US/toolkit/toolkit/printing/printPreview.ftl",
-"count": 23
-},
-{
-"file": "en-US/toolkit/toolkit/printing/printUI.ftl",
-"count": 83
-},
-{
-"file": "en-US/toolkit/toolkit/updates/backgroundupdate.ftl",
-"count": 1
-},
-{
-"file": "en-US/toolkit/toolkit/updates/elevation.ftl",
-"count": 11
-},
-{
-"file": "en-US/toolkit/toolkit/updates/history.ftl",
-"count": 12
 }
 ]
 }
