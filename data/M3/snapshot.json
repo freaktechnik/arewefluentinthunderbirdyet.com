@@ -1,6 +1,6 @@
 {
 "date": "2026-02-05",
-"revision": "1aaa1465f89b8a314d0bc8f711cbe4003fb12e93",
+"revision": "0dc84c75",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -213,10 +213,6 @@
 {
 "file": "en-US/chat/yahoo.ftl",
 "count": 1
-},
-{
-"file": "en-US/devtools/startup/key-shortcuts.ftl",
-"count": 17
 },
 {
 "file": "en-US/mail/branding/tb_beta/brand.dtd",
