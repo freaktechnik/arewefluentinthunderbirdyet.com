@@ -1,0 +1,2058 @@
+{
+"date": "2026-02-05",
+"revision": "1aaa1465f89b8a314d0bc8f711cbe4003fb12e93",
+"data": [
+{
+"file": "en-US/calendar/calendar/calendar-alarms.ftl",
+"count": 25
+},
+{
+"file": "en-US/calendar/calendar/calendar-context-menus.ftl",
+"count": 2
+},
+{
+"file": "en-US/calendar/calendar/calendar-creation.ftl",
+"count": 21
+},
+{
+"file": "en-US/calendar/calendar/calendar-delete-prompt.ftl",
+"count": 7
+},
+{
+"file": "en-US/calendar/calendar/calendar-editable-item.ftl",
+"count": 13
+},
+{
+"file": "en-US/calendar/calendar/calendar-event-dialog-attendees.ftl",
+"count": 10
+},
+{
+"file": "en-US/calendar/calendar/calendar-event-dialog-reminder.ftl",
+"count": 3
+},
+{
+"file": "en-US/calendar/calendar/calendar-event-listing.ftl",
+"count": 26
+},
+{
+"file": "en-US/calendar/calendar/calendar-invitation-panel.ftl",
+"count": 31
+},
+{
+"file": "en-US/calendar/calendar/calendar-invitations-dialog.ftl",
+"count": 14
+},
+{
+"file": "en-US/calendar/calendar/calendar-itip-identity-dialog.ftl",
+"count": 4
+},
+{
+"file": "en-US/calendar/calendar/calendar-occurrence-prompt.ftl",
+"count": 42
+},
+{
+"file": "en-US/calendar/calendar/calendar-print.ftl",
+"count": 13
+},
+{
+"file": "en-US/calendar/calendar/calendar-recurrence-dialog.ftl",
+"count": 8
+},
+{
+"file": "en-US/calendar/calendar/calendar-summary-dialog.ftl",
+"count": 5
+},
+{
+"file": "en-US/calendar/calendar/calendar-today-pane.ftl",
+"count": 4
+},
+{
+"file": "en-US/calendar/calendar/calendar-uri-redirect-dialog.ftl",
+"count": 4
+},
+{
+"file": "en-US/calendar/calendar/calendar-widgets.ftl",
+"count": 40
+},
+{
+"file": "en-US/calendar/calendar/calendar.ftl",
+"count": 360
+},
+{
+"file": "en-US/calendar/calendar/categories.ftl",
+"count": 1
+},
+{
+"file": "en-US/calendar/calendar/category-dialog.ftl",
+"count": 2
+},
+{
+"file": "en-US/calendar/calendar/preferences.ftl",
+"count": 83
+},
+{
+"file": "en-US/calendar/chrome/calendar/calendar-event-dialog.dtd",
+"count": 303
+},
+{
+"file": "en-US/calendar/chrome/calendar/calendar-event-dialog.properties",
+"count": 105
+},
+{
+"file": "en-US/calendar/chrome/calendar/calendar-extract.properties",
+"count": 99
+},
+{
+"file": "en-US/calendar/chrome/calendar/calendar-occurrence-prompt.dtd",
+"count": 3
+},
+{
+"file": "en-US/calendar/chrome/calendar/calendarCreation.properties",
+"count": 2
+},
+{
+"file": "en-US/calendar/chrome/calendar/dateFormat.properties",
+"count": 5
+},
+{
+"file": "en-US/calendar/chrome/calendar/dialogs/calendar-event-dialog-reminder.dtd",
+"count": 12
+},
+{
+"file": "en-US/calendar/chrome/calendar/global.dtd",
+"count": 4
+},
+{
+"file": "en-US/calendar/chrome/calendar/menuOverlay.dtd",
+"count": 27
+},
+{
+"file": "en-US/calendar/chrome/calendar/migration.dtd",
+"count": 5
+},
+{
+"file": "en-US/calendar/chrome/calendar/migration.properties",
+"count": 4
+},
+{
+"file": "en-US/calendar/chrome/calendar/provider-uninstall.dtd",
+"count": 8
+},
+{
+"file": "en-US/calendar/chrome/calendar/timezones.properties",
+"count": 443
+},
+{
+"file": "en-US/calendar/chrome/lightning/lightning-toolbar.dtd",
+"count": 18
+},
+{
+"file": "en-US/calendar/chrome/lightning/lightning.dtd",
+"count": 72
+},
+{
+"file": "en-US/calendar/chrome/lightning/lightning.properties",
+"count": 83
+},
+{
+"file": "en-US/chat/accounts-properties.ftl",
+"count": 3
+},
+{
+"file": "en-US/chat/accounts.ftl",
+"count": 16
+},
+{
+"file": "en-US/chat/commands.ftl",
+"count": 12
+},
+{
+"file": "en-US/chat/contacts.ftl",
+"count": 1
+},
+{
+"file": "en-US/chat/conversations.ftl",
+"count": 22
+},
+{
+"file": "en-US/chat/facebook.ftl",
+"count": 2
+},
+{
+"file": "en-US/chat/imtooltip.ftl",
+"count": 5
+},
+{
+"file": "en-US/chat/irc.ftl",
+"count": 114
+},
+{
+"file": "en-US/chat/logger.ftl",
+"count": 1
+},
+{
+"file": "en-US/chat/matrix-properties.ftl",
+"count": 120
+},
+{
+"file": "en-US/chat/matrix.ftl",
+"count": 3
+},
+{
+"file": "en-US/chat/status.ftl",
+"count": 10
+},
+{
+"file": "en-US/chat/twitter.ftl",
+"count": 2
+},
+{
+"file": "en-US/chat/xmpp.ftl",
+"count": 125
+},
+{
+"file": "en-US/chat/yahoo.ftl",
+"count": 1
+},
+{
+"file": "en-US/devtools/client/aboutdebugging.ftl",
+"count": 100
+},
+{
+"file": "en-US/devtools/client/accessibility.ftl",
+"count": 33
+},
+{
+"file": "en-US/devtools/client/accessibility.properties",
+"count": 57
+},
+{
+"file": "en-US/devtools/client/animationinspector.properties",
+"count": 30
+},
+{
+"file": "en-US/devtools/client/application.ftl",
+"count": 33
+},
+{
+"file": "en-US/devtools/client/boxmodel.properties",
+"count": 7
+},
+{
+"file": "en-US/devtools/client/changes.properties",
+"count": 14
+},
+{
+"file": "en-US/devtools/client/compatibility.ftl",
+"count": 17
+},
+{
+"file": "en-US/devtools/client/components.properties",
+"count": 13
+},
+{
+"file": "en-US/devtools/client/debugger.properties",
+"count": 349
+},
+{
+"file": "en-US/devtools/client/device.properties",
+"count": 7
+},
+{
+"file": "en-US/devtools/client/dom.properties",
+"count": 2
+},
+{
+"file": "en-US/devtools/client/filterwidget.properties",
+"count": 11
+},
+{
+"file": "en-US/devtools/client/font-inspector.properties",
+"count": 23
+},
+{
+"file": "en-US/devtools/client/har.properties",
+"count": 2
+},
+{
+"file": "en-US/devtools/client/inspector.ftl",
+"count": 5
+},
+{
+"file": "en-US/devtools/client/inspector.properties",
+"count": 136
+},
+{
+"file": "en-US/devtools/client/jsonview.properties",
+"count": 14
+},
+{
+"file": "en-US/devtools/client/layout.properties",
+"count": 31
+},
+{
+"file": "en-US/devtools/client/memory.properties",
+"count": 101
+},
+{
+"file": "en-US/devtools/client/menus.properties",
+"count": 14
+},
+{
+"file": "en-US/devtools/client/netmonitor.ftl",
+"count": 9
+},
+{
+"file": "en-US/devtools/client/netmonitor.properties",
+"count": 402
+},
+{
+"file": "en-US/devtools/client/network-throttling.properties",
+"count": 4
+},
+{
+"file": "en-US/devtools/client/perftools.ftl",
+"count": 78
+},
+{
+"file": "en-US/devtools/client/responsive.properties",
+"count": 38
+},
+{
+"file": "en-US/devtools/client/shared.properties",
+"count": 4
+},
+{
+"file": "en-US/devtools/client/sourceeditor.properties",
+"count": 16
+},
+{
+"file": "en-US/devtools/client/startup.properties",
+"count": 63
+},
+{
+"file": "en-US/devtools/client/storage.ftl",
+"count": 42
+},
+{
+"file": "en-US/devtools/client/styleeditor.ftl",
+"count": 20
+},
+{
+"file": "en-US/devtools/client/styleeditor.properties",
+"count": 15
+},
+{
+"file": "en-US/devtools/client/toolbox-options.ftl",
+"count": 65
+},
+{
+"file": "en-US/devtools/client/toolbox.ftl",
+"count": 22
+},
+{
+"file": "en-US/devtools/client/toolbox.properties",
+"count": 65
+},
+{
+"file": "en-US/devtools/client/tooltips.ftl",
+"count": 91
+},
+{
+"file": "en-US/devtools/client/webconsole.properties",
+"count": 143
+},
+{
+"file": "en-US/devtools/shared/accessibility.properties",
+"count": 28
+},
+{
+"file": "en-US/devtools/shared/debugger-paused-reasons.ftl",
+"count": 18
+},
+{
+"file": "en-US/devtools/shared/debugger.properties",
+"count": 12
+},
+{
+"file": "en-US/devtools/shared/eyedropper.properties",
+"count": 1
+},
+{
+"file": "en-US/devtools/shared/highlighters.ftl",
+"count": 13
+},
+{
+"file": "en-US/devtools/shared/screenshot.properties",
+"count": 25
+},
+{
+"file": "en-US/devtools/shared/styleinspector.properties",
+"count": 68
+},
+{
+"file": "en-US/devtools/shared/webconsole-commands.ftl",
+"count": 2
+},
+{
+"file": "en-US/devtools/startup/key-shortcuts.ftl",
+"count": 17
+},
+{
+"file": "en-US/dom/chrome/accessibility/AccessFu.properties",
+"count": 91
+},
+{
+"file": "en-US/dom/chrome/accessibility/mac/accessible.properties",
+"count": 48
+},
+{
+"file": "en-US/dom/chrome/accessibility/unix/accessible.properties",
+"count": 15
+},
+{
+"file": "en-US/dom/chrome/accessibility/win/accessible.properties",
+"count": 19
+},
+{
+"file": "en-US/dom/chrome/appstrings.properties",
+"count": 39
+},
+{
+"file": "en-US/dom/chrome/dom/dom.properties",
+"count": 297
+},
+{
+"file": "en-US/dom/chrome/layout/HtmlForm.properties",
+"count": 17
+},
+{
+"file": "en-US/dom/chrome/layout/MediaDocument.properties",
+"count": 10
+},
+{
+"file": "en-US/dom/chrome/layout/css.properties",
+"count": 50
+},
+{
+"file": "en-US/dom/chrome/layout/htmlparser.properties",
+"count": 127
+},
+{
+"file": "en-US/dom/chrome/layout/layout_errors.properties",
+"count": 18
+},
+{
+"file": "en-US/dom/chrome/layout/printing.properties",
+"count": 20
+},
+{
+"file": "en-US/dom/chrome/layout/xmlparser.properties",
+"count": 35
+},
+{
+"file": "en-US/dom/chrome/layout/xul.properties",
+"count": 1
+},
+{
+"file": "en-US/dom/chrome/mathml/mathml.properties",
+"count": 8
+},
+{
+"file": "en-US/dom/chrome/nsWebBrowserPersist.properties",
+"count": 13
+},
+{
+"file": "en-US/dom/chrome/security/caps.properties",
+"count": 5
+},
+{
+"file": "en-US/dom/chrome/security/csp.properties",
+"count": 58
+},
+{
+"file": "en-US/dom/chrome/security/security.properties",
+"count": 89
+},
+{
+"file": "en-US/dom/chrome/svg/svg.properties",
+"count": 1
+},
+{
+"file": "en-US/dom/dom/XMLPrettyPrint.ftl",
+"count": 1
+},
+{
+"file": "en-US/dom/dom/media.ftl",
+"count": 2
+},
+{
+"file": "en-US/dom/dom/xslt.ftl",
+"count": 34
+},
+{
+"file": "en-US/mail/branding/tb_beta/brand.dtd",
+"count": 6
+},
+{
+"file": "en-US/mail/branding/tb_beta/brand.ftl",
+"count": 6
+},
+{
+"file": "en-US/mail/branding/tb_beta/brand.properties",
+"count": 4
+},
+{
+"file": "en-US/mail/branding/thunderbird/brand.dtd",
+"count": 6
+},
+{
+"file": "en-US/mail/branding/thunderbird/brand.ftl",
+"count": 6
+},
+{
+"file": "en-US/mail/branding/thunderbird/brand.properties",
+"count": 4
+},
+{
+"file": "en-US/mail/browser/appExtensionFields.ftl",
+"count": 6
+},
+{
+"file": "en-US/mail/browser/branding/brandings.ftl",
+"count": 1
+},
+{
+"file": "en-US/mail/chrome/communicator/utilityOverlay.dtd",
+"count": 23
+},
+{
+"file": "en-US/mail/chrome/messenger-mapi/mapi.properties",
+"count": 21
+},
+{
+"file": "en-US/mail/chrome/messenger-newsblog/am-newsblog.dtd",
+"count": 7
+},
+{
+"file": "en-US/mail/chrome/messenger-newsblog/feed-subscriptions.dtd",
+"count": 40
+},
+{
+"file": "en-US/mail/chrome/messenger-newsblog/newsblog.properties",
+"count": 44
+},
+{
+"file": "en-US/mail/chrome/messenger-region/region.properties",
+"count": 1
+},
+{
+"file": "en-US/mail/chrome/messenger-smime/certFetchingStatus.dtd",
+"count": 3
+},
+{
+"file": "en-US/mail/chrome/messenger-smime/msgCompSMIMEOverlay.dtd",
+"count": 4
+},
+{
+"file": "en-US/mail/chrome/messenger-smime/msgCompSecurityInfo.dtd",
+"count": 12
+},
+{
+"file": "en-US/mail/chrome/messenger-smime/msgCompSecurityInfo.properties",
+"count": 9
+},
+{
+"file": "en-US/mail/chrome/messenger-smime/msgReadSMIMEOverlay.properties",
+"count": 3
+},
+{
+"file": "en-US/mail/chrome/messenger-smime/msgReadSecurityInfo.dtd",
+"count": 8
+},
+{
+"file": "en-US/mail/chrome/messenger-smime/msgSecurityInfo.properties",
+"count": 29
+},
+{
+"file": "en-US/mail/chrome/messenger/AccountManager.dtd",
+"count": 2
+},
+{
+"file": "en-US/mail/chrome/messenger/AccountWizard.dtd",
+"count": 23
+},
+{
+"file": "en-US/mail/chrome/messenger/CustomHeaders.dtd",
+"count": 7
+},
+{
+"file": "en-US/mail/chrome/messenger/FilterEditor.dtd",
+"count": 42
+},
+{
+"file": "en-US/mail/chrome/messenger/FilterListDialog.dtd",
+"count": 34
+},
+{
+"file": "en-US/mail/chrome/messenger/aboutDownloads.dtd",
+"count": 14
+},
+{
+"file": "en-US/mail/chrome/messenger/aboutRights.properties",
+"count": 2
+},
+{
+"file": "en-US/mail/chrome/messenger/aboutSupportMail.properties",
+"count": 5
+},
+{
+"file": "en-US/mail/chrome/messenger/activity.dtd",
+"count": 9
+},
+{
+"file": "en-US/mail/chrome/messenger/activity.properties",
+"count": 46
+},
+{
+"file": "en-US/mail/chrome/messenger/addbuddy.dtd",
+"count": 3
+},
+{
+"file": "en-US/mail/chrome/messenger/addressbook/abAddressBookNameDialog.dtd",
+"count": 2
+},
+{
+"file": "en-US/mail/chrome/messenger/addressbook/abContactsPanel.dtd",
+"count": 41
+},
+{
+"file": "en-US/mail/chrome/messenger/addressbook/abMailListDialog.dtd",
+"count": 13
+},
+{
+"file": "en-US/mail/chrome/messenger/addressbook/abMainWindow.dtd",
+"count": 6
+},
+{
+"file": "en-US/mail/chrome/messenger/addressbook/abResultsPane.dtd",
+"count": 32
+},
+{
+"file": "en-US/mail/chrome/messenger/addressbook/addressBook.properties",
+"count": 89
+},
+{
+"file": "en-US/mail/chrome/messenger/addressbook/ldapAutoCompErrs.properties",
+"count": 20
+},
+{
+"file": "en-US/mail/chrome/messenger/addressbook/pref-directory-add.dtd",
+"count": 36
+},
+{
+"file": "en-US/mail/chrome/messenger/addressbook/pref-directory.dtd",
+"count": 10
+},
+{
+"file": "en-US/mail/chrome/messenger/addressbook/replicationProgress.properties",
+"count": 12
+},
+{
+"file": "en-US/mail/chrome/messenger/am-addressing.dtd",
+"count": 32
+},
+{
+"file": "en-US/mail/chrome/messenger/am-advanced.dtd",
+"count": 15
+},
+{
+"file": "en-US/mail/chrome/messenger/am-copies.dtd",
+"count": 38
+},
+{
+"file": "en-US/mail/chrome/messenger/am-e2e.properties",
+"count": 1
+},
+{
+"file": "en-US/mail/chrome/messenger/am-identities-list.dtd",
+"count": 11
+},
+{
+"file": "en-US/mail/chrome/messenger/am-identity-edit.dtd",
+"count": 7
+},
+{
+"file": "en-US/mail/chrome/messenger/am-im.dtd",
+"count": 12
+},
+{
+"file": "en-US/mail/chrome/messenger/am-main.dtd",
+"count": 32
+},
+{
+"file": "en-US/mail/chrome/messenger/am-mdn.dtd",
+"count": 28
+},
+{
+"file": "en-US/mail/chrome/messenger/am-mdn.properties",
+"count": 1
+},
+{
+"file": "en-US/mail/chrome/messenger/am-offline.dtd",
+"count": 46
+},
+{
+"file": "en-US/mail/chrome/messenger/am-server-advanced.dtd",
+"count": 25
+},
+{
+"file": "en-US/mail/chrome/messenger/am-server-top.dtd",
+"count": 72
+},
+{
+"file": "en-US/mail/chrome/messenger/am-serverwithnoidentities.dtd",
+"count": 2
+},
+{
+"file": "en-US/mail/chrome/messenger/am-smime.dtd",
+"count": 31
+},
+{
+"file": "en-US/mail/chrome/messenger/am-smime.properties",
+"count": 27
+},
+{
+"file": "en-US/mail/chrome/messenger/appUpdate.properties",
+"count": 24
+},
+{
+"file": "en-US/mail/chrome/messenger/appleMailImportMsgs.properties",
+"count": 5
+},
+{
+"file": "en-US/mail/chrome/messenger/baseMenuOverlay.dtd",
+"count": 3
+},
+{
+"file": "en-US/mail/chrome/messenger/charsetTitles.properties",
+"count": 67
+},
+{
+"file": "en-US/mail/chrome/messenger/chat.dtd",
+"count": 34
+},
+{
+"file": "en-US/mail/chrome/messenger/chat.properties",
+"count": 31
+},
+{
+"file": "en-US/mail/chrome/messenger/configEditorOverlay.dtd",
+"count": 1
+},
+{
+"file": "en-US/mail/chrome/messenger/converterDialog.dtd",
+"count": 6
+},
+{
+"file": "en-US/mail/chrome/messenger/converterDialog.properties",
+"count": 6
+},
+{
+"file": "en-US/mail/chrome/messenger/custom.properties",
+"count": 1
+},
+{
+"file": "en-US/mail/chrome/messenger/customizeToolbar.dtd",
+"count": 13
+},
+{
+"file": "en-US/mail/chrome/messenger/customizeToolbar.properties",
+"count": 7
+},
+{
+"file": "en-US/mail/chrome/messenger/devtools/dbgserver.dtd",
+"count": 4
+},
+{
+"file": "en-US/mail/chrome/messenger/devtools/dbgserver.properties",
+"count": 10
+},
+{
+"file": "en-US/mail/chrome/messenger/editContactOverlay.dtd",
+"count": 11
+},
+{
+"file": "en-US/mail/chrome/messenger/editContactOverlay.properties",
+"count": 8
+},
+{
+"file": "en-US/mail/chrome/messenger/filter.properties",
+"count": 25
+},
+{
+"file": "en-US/mail/chrome/messenger/folderProps.dtd",
+"count": 55
+},
+{
+"file": "en-US/mail/chrome/messenger/folderWidgets.properties",
+"count": 5
+},
+{
+"file": "en-US/mail/chrome/messenger/folderpane.dtd",
+"count": 4
+},
+{
+"file": "en-US/mail/chrome/messenger/gloda.properties",
+"count": 50
+},
+{
+"file": "en-US/mail/chrome/messenger/glodaComplete.properties",
+"count": 3
+},
+{
+"file": "en-US/mail/chrome/messenger/glodaFacetView.dtd",
+"count": 6
+},
+{
+"file": "en-US/mail/chrome/messenger/glodaFacetView.properties",
+"count": 32
+},
+{
+"file": "en-US/mail/chrome/messenger/imAccountWizard.dtd",
+"count": 23
+},
+{
+"file": "en-US/mail/chrome/messenger/imAccounts.properties",
+"count": 28
+},
+{
+"file": "en-US/mail/chrome/messenger/imapMsgs.properties",
+"count": 82
+},
+{
+"file": "en-US/mail/chrome/messenger/importMsgs.properties",
+"count": 74
+},
+{
+"file": "en-US/mail/chrome/messenger/joinChat.dtd",
+"count": 6
+},
+{
+"file": "en-US/mail/chrome/messenger/localMsgs.properties",
+"count": 38
+},
+{
+"file": "en-US/mail/chrome/messenger/mailEditorOverlay.dtd",
+"count": 2
+},
+{
+"file": "en-US/mail/chrome/messenger/mailOverlay.dtd",
+"count": 6
+},
+{
+"file": "en-US/mail/chrome/messenger/mailViewList.dtd",
+"count": 1
+},
+{
+"file": "en-US/mail/chrome/messenger/mailViewSetup.dtd",
+"count": 4
+},
+{
+"file": "en-US/mail/chrome/messenger/markByDate.dtd",
+"count": 5
+},
+{
+"file": "en-US/mail/chrome/messenger/messenger.dtd",
+"count": 701
+},
+{
+"file": "en-US/mail/chrome/messenger/messenger.properties",
+"count": 293
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EdAdvancedEdit.dtd",
+"count": 13
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EdColorPicker.dtd",
+"count": 18
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EdConvertToTable.dtd",
+"count": 9
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EdDialogOverlay.dtd",
+"count": 9
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EdNamedAnchorProperties.dtd",
+"count": 4
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EditorColorProperties.dtd",
+"count": 23
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EditorHLineProperties.dtd",
+"count": 19
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EditorImageProperties.dtd",
+"count": 55
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EditorInsertChars.dtd",
+"count": 13
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EditorInsertMath.dtd",
+"count": 13
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EditorInsertSource.dtd",
+"count": 8
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EditorInsertTOC.dtd",
+"count": 12
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EditorInsertTable.dtd",
+"count": 12
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EditorLinkProperties.dtd",
+"count": 2
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EditorListProperties.dtd",
+"count": 13
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EditorPersonalDictionary.dtd",
+"count": 11
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EditorReplace.dtd",
+"count": 21
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EditorSpellCheck.dtd",
+"count": 32
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/EditorTableProperties.dtd",
+"count": 68
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/composeMsgs.properties",
+"count": 175
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/editor.properties",
+"count": 161
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/editorOverlay.dtd",
+"count": 255
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/mailComposeEditorOverlay.dtd",
+"count": 4
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/messengercompose.dtd",
+"count": 243
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/sendProgress.dtd",
+"count": 3
+},
+{
+"file": "en-US/mail/chrome/messenger/messengercompose/sendProgress.properties",
+"count": 7
+},
+{
+"file": "en-US/mail/chrome/messenger/migration/migration.properties",
+"count": 17
+},
+{
+"file": "en-US/mail/chrome/messenger/mime.properties",
+"count": 29
+},
+{
+"file": "en-US/mail/chrome/messenger/mimeheader.properties",
+"count": 28
+},
+{
+"file": "en-US/mail/chrome/messenger/morkImportMsgs.properties",
+"count": 2
+},
+{
+"file": "en-US/mail/chrome/messenger/msgAccountCentral.dtd",
+"count": 16
+},
+{
+"file": "en-US/mail/chrome/messenger/msgHdrViewOverlay.dtd",
+"count": 94
+},
+{
+"file": "en-US/mail/chrome/messenger/msgSynchronize.dtd",
+"count": 15
+},
+{
+"file": "en-US/mail/chrome/messenger/msgViewPickerOverlay.dtd",
+"count": 16
+},
+{
+"file": "en-US/mail/chrome/messenger/msgmdn.properties",
+"count": 13
+},
+{
+"file": "en-US/mail/chrome/messenger/multimessageview.properties",
+"count": 11
+},
+{
+"file": "en-US/mail/chrome/messenger/newFolderDialog.dtd",
+"count": 11
+},
+{
+"file": "en-US/mail/chrome/messenger/offline.properties",
+"count": 15
+},
+{
+"file": "en-US/mail/chrome/messenger/offlineStartup.properties",
+"count": 4
+},
+{
+"file": "en-US/mail/chrome/messenger/outlookImportMsgs.properties",
+"count": 10
+},
+{
+"file": "en-US/mail/chrome/messenger/pgpmime.properties",
+"count": 1
+},
+{
+"file": "en-US/mail/chrome/messenger/preferences/applicationManager.properties",
+"count": 5
+},
+{
+"file": "en-US/mail/chrome/messenger/preferences/applications.properties",
+"count": 3
+},
+{
+"file": "en-US/mail/chrome/messenger/preferences/messagestyle.properties",
+"count": 8
+},
+{
+"file": "en-US/mail/chrome/messenger/preferences/preferences.properties",
+"count": 44
+},
+{
+"file": "en-US/mail/chrome/messenger/prefs.properties",
+"count": 48
+},
+{
+"file": "en-US/mail/chrome/messenger/removeAccount.dtd",
+"count": 18
+},
+{
+"file": "en-US/mail/chrome/messenger/removeAccount.properties",
+"count": 1
+},
+{
+"file": "en-US/mail/chrome/messenger/renameFolderDialog.dtd",
+"count": 5
+},
+{
+"file": "en-US/mail/chrome/messenger/sanitize.dtd",
+"count": 17
+},
+{
+"file": "en-US/mail/chrome/messenger/seamonkeyImportMsgs.properties",
+"count": 4
+},
+{
+"file": "en-US/mail/chrome/messenger/shutdownWindow.properties",
+"count": 2
+},
+{
+"file": "en-US/mail/chrome/messenger/smtpEditOverlay.dtd",
+"count": 19
+},
+{
+"file": "en-US/mail/chrome/messenger/subscribe.dtd",
+"count": 12
+},
+{
+"file": "en-US/mail/chrome/messenger/subscribe.properties",
+"count": 9
+},
+{
+"file": "en-US/mail/chrome/messenger/tabmail.dtd",
+"count": 3
+},
+{
+"file": "en-US/mail/chrome/messenger/taskbar.properties",
+"count": 4
+},
+{
+"file": "en-US/mail/chrome/messenger/telemetry.properties",
+"count": 6
+},
+{
+"file": "en-US/mail/chrome/messenger/templateUtils.properties",
+"count": 1
+},
+{
+"file": "en-US/mail/chrome/messenger/textImportMsgs.properties",
+"count": 7
+},
+{
+"file": "en-US/mail/chrome/messenger/vCardImportMsgs.properties",
+"count": 4
+},
+{
+"file": "en-US/mail/chrome/messenger/viewLog.dtd",
+"count": 8
+},
+{
+"file": "en-US/mail/chrome/messenger/viewSource.dtd",
+"count": 62
+},
+{
+"file": "en-US/mail/chrome/messenger/viewSource.properties",
+"count": 12
+},
+{
+"file": "en-US/mail/chrome/messenger/viewZoomOverlay.dtd",
+"count": 17
+},
+{
+"file": "en-US/mail/chrome/messenger/virtualFolderListDialog.dtd",
+"count": 2
+},
+{
+"file": "en-US/mail/chrome/messenger/virtualFolderProperties.dtd",
+"count": 15
+},
+{
+"file": "en-US/mail/chrome/mozldap/ldap.properties",
+"count": 62
+},
+{
+"file": "en-US/mail/chrome/overrides/appstrings.properties",
+"count": 38
+},
+{
+"file": "en-US/mail/chrome/overrides/profileDowngrade.dtd",
+"count": 6
+},
+{
+"file": "en-US/mail/crashreporter/crashreporter-override.ini",
+"count": 2
+},
+{
+"file": "en-US/mail/installer/custom.properties",
+"count": 51
+},
+{
+"file": "en-US/mail/installer/mui.properties",
+"count": 38
+},
+{
+"file": "en-US/mail/installer/override.properties",
+"count": 61
+},
+{
+"file": "en-US/mail/langpack-metadata.ftl",
+"count": 2
+},
+{
+"file": "en-US/mail/messenger/EdReplace.ftl",
+"count": 2
+},
+{
+"file": "en-US/mail/messenger/about3Pane.ftl",
+"count": 161
+},
+{
+"file": "en-US/mail/messenger/aboutAddonsExtra.ftl",
+"count": 4
+},
+{
+"file": "en-US/mail/messenger/aboutDialog.ftl",
+"count": 32
+},
+{
+"file": "en-US/mail/messenger/aboutImport.ftl",
+"count": 114
+},
+{
+"file": "en-US/mail/messenger/aboutProfilesExtra.ftl",
+"count": 1
+},
+{
+"file": "en-US/mail/messenger/aboutRights.ftl",
+"count": 26
+},
+{
+"file": "en-US/mail/messenger/aboutSupportCalendar.ftl",
+"count": 29
+},
+{
+"file": "en-US/mail/messenger/aboutSupportChat.ftl",
+"count": 6
+},
+{
+"file": "en-US/mail/messenger/aboutSupportMail.ftl",
+"count": 28
+},
+{
+"file": "en-US/mail/messenger/accountCentral.ftl",
+"count": 35
+},
+{
+"file": "en-US/mail/messenger/accountManager.ftl",
+"count": 17
+},
+{
+"file": "en-US/mail/messenger/accountSettings.ftl",
+"count": 13
+},
+{
+"file": "en-US/mail/messenger/accountcreation/accountCreation.ftl",
+"count": 18
+},
+{
+"file": "en-US/mail/messenger/accountcreation/accountHub.ftl",
+"count": 158
+},
+{
+"file": "en-US/mail/messenger/accountcreation/accountSetup.ftl",
+"count": 149
+},
+{
+"file": "en-US/mail/messenger/activityFeedback.ftl",
+"count": 3
+},
+{
+"file": "en-US/mail/messenger/addonNotifications.ftl",
+"count": 43
+},
+{
+"file": "en-US/mail/messenger/addressbook/abCardDAVDialog.ftl",
+"count": 11
+},
+{
+"file": "en-US/mail/messenger/addressbook/abCardDAVProperties.ftl",
+"count": 5
+},
+{
+"file": "en-US/mail/messenger/addressbook/aboutAddressBook.ftl",
+"count": 136
+},
+{
+"file": "en-US/mail/messenger/addressbook/vcard.ftl",
+"count": 73
+},
+{
+"file": "en-US/mail/messenger/appmenu.ftl",
+"count": 67
+},
+{
+"file": "en-US/mail/messenger/calendarDialog.ftl",
+"count": 15
+},
+{
+"file": "en-US/mail/messenger/certError.ftl",
+"count": 18
+},
+{
+"file": "en-US/mail/messenger/chat-verifySession.ftl",
+"count": 4
+},
+{
+"file": "en-US/mail/messenger/chat.ftl",
+"count": 14
+},
+{
+"file": "en-US/mail/messenger/compactFoldersDialog.ftl",
+"count": 4
+},
+{
+"file": "en-US/mail/messenger/contact-avatar.ftl",
+"count": 1
+},
+{
+"file": "en-US/mail/messenger/conversationview/conversationView.ftl",
+"count": 3
+},
+{
+"file": "en-US/mail/messenger/customizableshortcuts/customizableShortcuts.ftl",
+"count": 1
+},
+{
+"file": "en-US/mail/messenger/extensionPermissions.ftl",
+"count": 19
+},
+{
+"file": "en-US/mail/messenger/extensions/popup.ftl",
+"count": 3
+},
+{
+"file": "en-US/mail/messenger/extensionsUI.ftl",
+"count": 3
+},
+{
+"file": "en-US/mail/messenger/filterEditor.ftl",
+"count": 38
+},
+{
+"file": "en-US/mail/messenger/flatpak.ftl",
+"count": 7
+},
+{
+"file": "en-US/mail/messenger/folderprops.ftl",
+"count": 1
+},
+{
+"file": "en-US/mail/messenger/importDialog.ftl",
+"count": 10
+},
+{
+"file": "en-US/mail/messenger/inAppNotifications.ftl",
+"count": 3
+},
+{
+"file": "en-US/mail/messenger/mailViews.ftl",
+"count": 5
+},
+{
+"file": "en-US/mail/messenger/mailWidgets.ftl",
+"count": 4
+},
+{
+"file": "en-US/mail/messenger/menubar.ftl",
+"count": 41
+},
+{
+"file": "en-US/mail/messenger/messageheader/headerFields.ftl",
+"count": 53
+},
+{
+"file": "en-US/mail/messenger/messenger.ftl",
+"count": 193
+},
+{
+"file": "en-US/mail/messenger/messengercompose/messengercompose.ftl",
+"count": 117
+},
+{
+"file": "en-US/mail/messenger/migration.ftl",
+"count": 1
+},
+{
+"file": "en-US/mail/messenger/msgAuthPrompt.ftl",
+"count": 1
+},
+{
+"file": "en-US/mail/messenger/multimessageview.ftl",
+"count": 4
+},
+{
+"file": "en-US/mail/messenger/news.ftl",
+"count": 24
+},
+{
+"file": "en-US/mail/messenger/openpgp/backupKeyPassword.ftl",
+"count": 7
+},
+{
+"file": "en-US/mail/messenger/openpgp/changeExpiryDlg.ftl",
+"count": 17
+},
+{
+"file": "en-US/mail/messenger/openpgp/composeKeyStatus.ftl",
+"count": 2
+},
+{
+"file": "en-US/mail/messenger/openpgp/keyAssistant.ftl",
+"count": 45
+},
+{
+"file": "en-US/mail/messenger/openpgp/keyWizard.ftl",
+"count": 76
+},
+{
+"file": "en-US/mail/messenger/openpgp/msgReadStatus.ftl",
+"count": 45
+},
+{
+"file": "en-US/mail/messenger/openpgp/oneRecipientStatus.ftl",
+"count": 7
+},
+{
+"file": "en-US/mail/messenger/openpgp/openpgp-frontend.ftl",
+"count": 24
+},
+{
+"file": "en-US/mail/messenger/openpgp/openpgp.ftl",
+"count": 356
+},
+{
+"file": "en-US/mail/messenger/otr/add-finger.ftl",
+"count": 5
+},
+{
+"file": "en-US/mail/messenger/otr/am-im-otr.ftl",
+"count": 12
+},
+{
+"file": "en-US/mail/messenger/otr/auth.ftl",
+"count": 21
+},
+{
+"file": "en-US/mail/messenger/otr/chat.ftl",
+"count": 6
+},
+{
+"file": "en-US/mail/messenger/otr/finger-sync.ftl",
+"count": 6
+},
+{
+"file": "en-US/mail/messenger/otr/finger.ftl",
+"count": 7
+},
+{
+"file": "en-US/mail/messenger/otr/otr.ftl",
+"count": 26
+},
+{
+"file": "en-US/mail/messenger/otr/otrUI.ftl",
+"count": 36
+},
+{
+"file": "en-US/mail/messenger/policies/aboutPolicies.ftl",
+"count": 9
+},
+{
+"file": "en-US/mail/messenger/policies/policies-descriptions.ftl",
+"count": 69
+},
+{
+"file": "en-US/mail/messenger/preferences/am-archiveoptions.ftl",
+"count": 12
+},
+{
+"file": "en-US/mail/messenger/preferences/am-copies.ftl",
+"count": 1
+},
+{
+"file": "en-US/mail/messenger/preferences/am-im.ftl",
+"count": 13
+},
+{
+"file": "en-US/mail/messenger/preferences/am-spam.ftl",
+"count": 15
+},
+{
+"file": "en-US/mail/messenger/preferences/application-manager.ftl",
+"count": 2
+},
+{
+"file": "en-US/mail/messenger/preferences/attachment-reminder.ftl",
+"count": 9
+},
+{
+"file": "en-US/mail/messenger/preferences/connection.ftl",
+"count": 24
+},
+{
+"file": "en-US/mail/messenger/preferences/cookies.ftl",
+"count": 17
+},
+{
+"file": "en-US/mail/messenger/preferences/dock-options.ftl",
+"count": 8
+},
+{
+"file": "en-US/mail/messenger/preferences/fonts.ftl",
+"count": 51
+},
+{
+"file": "en-US/mail/messenger/preferences/languages.ftl",
+"count": 14
+},
+{
+"file": "en-US/mail/messenger/preferences/new-tag.ftl",
+"count": 3
+},
+{
+"file": "en-US/mail/messenger/preferences/notifications.ftl",
+"count": 8
+},
+{
+"file": "en-US/mail/messenger/preferences/offline.ftl",
+"count": 15
+},
+{
+"file": "en-US/mail/messenger/preferences/passwordManager.ftl",
+"count": 32
+},
+{
+"file": "en-US/mail/messenger/preferences/permissions.ftl",
+"count": 17
+},
+{
+"file": "en-US/mail/messenger/preferences/preferences.ftl",
+"count": 485
+},
+{
+"file": "en-US/mail/messenger/preferences/receipts.ftl",
+"count": 14
+},
+{
+"file": "en-US/mail/messenger/preferences/spamLog.ftl",
+"count": 4
+},
+{
+"file": "en-US/mail/messenger/preferences/sync-dialog.ftl",
+"count": 2
+},
+{
+"file": "en-US/mail/messenger/preferences/system-integration.ftl",
+"count": 11
+},
+{
+"file": "en-US/mail/messenger/searchDialog.ftl",
+"count": 16
+},
+{
+"file": "en-US/mail/messenger/searchWidgets.ftl",
+"count": 80
+},
+{
+"file": "en-US/mail/messenger/searchbar.ftl",
+"count": 1
+},
+{
+"file": "en-US/mail/messenger/shortcuts.ftl",
+"count": 18
+},
+{
+"file": "en-US/mail/messenger/smime/smime.ftl",
+"count": 6
+},
+{
+"file": "en-US/mail/messenger/syncAccounts.ftl",
+"count": 10
+},
+{
+"file": "en-US/mail/messenger/treeView.ftl",
+"count": 20
+},
+{
+"file": "en-US/mail/messenger/troubleshootMode.ftl",
+"count": 8
+},
+{
+"file": "en-US/mail/messenger/unifiedToolbar.ftl",
+"count": 43
+},
+{
+"file": "en-US/mail/messenger/unifiedToolbarItems.ftl",
+"count": 105
+},
+{
+"file": "en-US/mail/messenger/viewSource.ftl",
+"count": 4
+},
+{
+"file": "en-US/mail/messenger/virtualFolderProperties.ftl",
+"count": 1
+},
+{
+"file": "en-US/mail/updater/updater.ini",
+"count": 2
+},
+{
+"file": "en-US/netwerk/necko.properties",
+"count": 54
+},
+{
+"file": "en-US/netwerk/netwerk/necko.ftl",
+"count": 11
+},
+{
+"file": "en-US/security/manager/chrome/pipnss/nsserrors.properties",
+"count": 329
+},
+{
+"file": "en-US/security/manager/chrome/pipnss/pipnss.properties",
+"count": 55
+},
+{
+"file": "en-US/security/manager/chrome/pippki/pippki.properties",
+"count": 16
+},
+{
+"file": "en-US/security/manager/security/certificates/certManager.ftl",
+"count": 94
+},
+{
+"file": "en-US/security/manager/security/certificates/deviceManager.ftl",
+"count": 41
+},
+{
+"file": "en-US/security/manager/security/pippki/pippki.ftl",
+"count": 46
+},
+{
+"file": "en-US/toolkit/chrome/alerts/alert.properties",
+"count": 4
+},
+{
+"file": "en-US/toolkit/chrome/autoconfig/autoconfig.properties",
+"count": 6
+},
+{
+"file": "en-US/toolkit/chrome/global-platform/mac/platformKeys.properties",
+"count": 6
+},
+{
+"file": "en-US/toolkit/chrome/global-platform/unix/platformKeys.properties",
+"count": 6
+},
+{
+"file": "en-US/toolkit/chrome/global-platform/win/platformKeys.properties",
+"count": 6
+},
+{
+"file": "en-US/toolkit/chrome/global/aboutStudies.properties",
+"count": 13
+},
+{
+"file": "en-US/toolkit/chrome/global/autocomplete.properties",
+"count": 1
+},
+{
+"file": "en-US/toolkit/chrome/global/commonDialogs.properties",
+"count": 29
+},
+{
+"file": "en-US/toolkit/chrome/global/contentAreaCommands.properties",
+"count": 11
+},
+{
+"file": "en-US/toolkit/chrome/global/dialog.properties",
+"count": 8
+},
+{
+"file": "en-US/toolkit/chrome/global/extensions.properties",
+"count": 8
+},
+{
+"file": "en-US/toolkit/chrome/global/fallbackMenubar.properties",
+"count": 2
+},
+{
+"file": "en-US/toolkit/chrome/global/filepicker.properties",
+"count": 12
+},
+{
+"file": "en-US/toolkit/chrome/global/keys.properties",
+"count": 33
+},
+{
+"file": "en-US/toolkit/chrome/global/narrate.properties",
+"count": 13
+},
+{
+"file": "en-US/toolkit/chrome/global/printdialog.properties",
+"count": 33
+},
+{
+"file": "en-US/toolkit/chrome/global/resetProfile.properties",
+"count": 4
+},
+{
+"file": "en-US/toolkit/chrome/global/viewSource.properties",
+"count": 11
+},
+{
+"file": "en-US/toolkit/chrome/global/wizard.properties",
+"count": 4
+},
+{
+"file": "en-US/toolkit/chrome/mozapps/downloads/downloads.properties",
+"count": 1
+},
+{
+"file": "en-US/toolkit/chrome/mozapps/downloads/unknownContentType.properties",
+"count": 17
+},
+{
+"file": "en-US/toolkit/chrome/mozapps/profile/profileSelection.properties",
+"count": 33
+},
+{
+"file": "en-US/toolkit/chrome/mozapps/update/updates.properties",
+"count": 32
+},
+{
+"file": "en-US/toolkit/chrome/passwordmgr/passwordmgr.properties",
+"count": 9
+},
+{
+"file": "en-US/toolkit/chrome/places/places.properties",
+"count": 17
+},
+{
+"file": "en-US/toolkit/crashreporter/aboutcrashes.ftl",
+"count": 16
+},
+{
+"file": "en-US/toolkit/crashreporter/crashreporter.ftl",
+"count": 35
+},
+{
+"file": "en-US/toolkit/services/accounts.ftl",
+"count": 1
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutAbout.ftl",
+"count": 2
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutAddons.ftl",
+"count": 245
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutCompat.ftl",
+"count": 9
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutGlean.ftl",
+"count": 85
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutHttpsOnlyError.ftl",
+"count": 14
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutLogging.ftl",
+"count": 84
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutMozilla.ftl",
+"count": 3
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutNetworking.ftl",
+"count": 58
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutProcesses.ftl",
+"count": 67
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutProfiles.ftl",
+"count": 37
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutReader.ftl",
+"count": 47
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutServiceWorkers.ftl",
+"count": 16
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutSupport.ftl",
+"count": 313
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutTelemetry.ftl",
+"count": 75
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutThirdParty.ftl",
+"count": 36
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutTranslations.ftl",
+"count": 17
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutWebauthn.ftl",
+"count": 104
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutWebrtc.ftl",
+"count": 110
+},
+{
+"file": "en-US/toolkit/toolkit/about/aboutWindowsMessages.ftl",
+"count": 3
+},
+{
+"file": "en-US/toolkit/toolkit/about/certviewer.ftl",
+"count": 81
+},
+{
+"file": "en-US/toolkit/toolkit/about/config.ftl",
+"count": 20
+},
+{
+"file": "en-US/toolkit/toolkit/about/url-classifier.ftl",
+"count": 50
+},
+{
+"file": "en-US/toolkit/toolkit/branding/brandings.ftl",
+"count": 23
+},
+{
+"file": "en-US/toolkit/toolkit/contentanalysis/contentanalysis.ftl",
+"count": 41
+},
+{
+"file": "en-US/toolkit/toolkit/downloads/downloadUI.ftl",
+"count": 11
+},
+{
+"file": "en-US/toolkit/toolkit/downloads/downloadUtils.ftl",
+"count": 20
+},
+{
+"file": "en-US/toolkit/toolkit/firefoxlabs/features.ftl",
+"count": 27
+},
+{
+"file": "en-US/toolkit/toolkit/formautofill/formAutofill.ftl",
+"count": 38
+},
+{
+"file": "en-US/toolkit/toolkit/global/alert.ftl",
+"count": 3
+},
+{
+"file": "en-US/toolkit/toolkit/global/antiTracking.ftl",
+"count": 2
+},
+{
+"file": "en-US/toolkit/toolkit/global/appPicker.ftl",
+"count": 3
+},
+{
+"file": "en-US/toolkit/toolkit/global/arrowscrollbox.ftl",
+"count": 2
+},
+{
+"file": "en-US/toolkit/toolkit/global/browser-utils.ftl",
+"count": 4
+},
+{
+"file": "en-US/toolkit/toolkit/global/commonDialog.ftl",
+"count": 8
+},
+{
+"file": "en-US/toolkit/toolkit/global/contextual-identity.ftl",
+"count": 6
+},
+{
+"file": "en-US/toolkit/toolkit/global/cookieBannerHandling.ftl",
+"count": 1
+},
+{
+"file": "en-US/toolkit/toolkit/global/createProfileWizard.ftl",
+"count": 13
+},
+{
+"file": "en-US/toolkit/toolkit/global/cspErrors.ftl",
+"count": 6
+},
+{
+"file": "en-US/toolkit/toolkit/global/datetimebox.ftl",
+"count": 13
+},
+{
+"file": "en-US/toolkit/toolkit/global/datetimepicker.ftl",
+"count": 22
+},
+{
+"file": "en-US/toolkit/toolkit/global/extensionPermissions.ftl",
+"count": 52
+},
+{
+"file": "en-US/toolkit/toolkit/global/extensions.ftl",
+"count": 45
+},
+{
+"file": "en-US/toolkit/toolkit/global/handlerDialog.ftl",
+"count": 31
+},
+{
+"file": "en-US/toolkit/toolkit/global/htmlForm.ftl",
+"count": 4
+},
+{
+"file": "en-US/toolkit/toolkit/global/mozBoxBase.ftl",
+"count": 1
+},
+{
+"file": "en-US/toolkit/toolkit/global/mozBreadcrumbGroup.ftl",
+"count": 1
+},
+{
+"file": "en-US/toolkit/toolkit/global/mozButton.ftl",
+"count": 1
+},
+{
+"file": "en-US/toolkit/toolkit/global/mozFiveStar.ftl",
+"count": 2
+},
+{
+"file": "en-US/toolkit/toolkit/global/mozInputFolder.ftl",
+"count": 1
+},
+{
+"file": "en-US/toolkit/toolkit/global/mozMessageBar.ftl",
+"count": 5
+},
+{
+"file": "en-US/toolkit/toolkit/global/mozPageHeader.ftl",
+"count": 1
+},
+{
+"file": "en-US/toolkit/toolkit/global/mozSupportLink.ftl",
+"count": 1
+},
+{
+"file": "en-US/toolkit/toolkit/global/notification.ftl",
+"count": 3
+},
+{
+"file": "en-US/toolkit/toolkit/global/popupnotification.ftl",
+"count": 3
+},
+{
+"file": "en-US/toolkit/toolkit/global/processTypes.ftl",
+"count": 24
+},
+{
+"file": "en-US/toolkit/toolkit/global/profileDowngrade.ftl",
+"count": 5
+},
+{
+"file": "en-US/toolkit/toolkit/global/profileSelection.ftl",
+"count": 12
+},
+{
+"file": "en-US/toolkit/toolkit/global/resetProfile.ftl",
+"count": 8
+},
+{
+"file": "en-US/toolkit/toolkit/global/resistFingerPrinting.ftl",
+"count": 1
+},
+{
+"file": "en-US/toolkit/toolkit/global/run-from-dmg.ftl",
+"count": 10
+},
+{
+"file": "en-US/toolkit/toolkit/global/textActions.ftl",
+"count": 28
+},
+{
+"file": "en-US/toolkit/toolkit/global/tree.ftl",
+"count": 1
+},
+{
+"file": "en-US/toolkit/toolkit/global/unknownContentType.ftl",
+"count": 12
+},
+{
+"file": "en-US/toolkit/toolkit/global/videocontrols.ftl",
+"count": 23
+},
+{
+"file": "en-US/toolkit/toolkit/global/wizard.ftl",
+"count": 12
+},
+{
+"file": "en-US/toolkit/toolkit/intl/languageNames.ftl",
+"count": 212
+},
+{
+"file": "en-US/toolkit/toolkit/intl/regionNames.ftl",
+"count": 272
+},
+{
+"file": "en-US/toolkit/toolkit/main-window/autocomplete.ftl",
+"count": 4
+},
+{
+"file": "en-US/toolkit/toolkit/main-window/findbar.ftl",
+"count": 18
+},
+{
+"file": "en-US/toolkit/toolkit/neterror/certError.ftl",
+"count": 114
+},
+{
+"file": "en-US/toolkit/toolkit/neterror/netError.ftl",
+"count": 113
+},
+{
+"file": "en-US/toolkit/toolkit/neterror/nsserrors.ftl",
+"count": 331
+},
+{
+"file": "en-US/toolkit/toolkit/passwordmgr/passwordmgr.ftl",
+"count": 12
+},
+{
+"file": "en-US/toolkit/toolkit/payments/payments.ftl",
+"count": 5
+},
+{
+"file": "en-US/toolkit/toolkit/pdfviewer/viewer.ftl",
+"count": 332
+},
+{
+"file": "en-US/toolkit/toolkit/pictureinpicture/pictureinpicture.ftl",
+"count": 19
+},
+{
+"file": "en-US/toolkit/toolkit/preferences/preferences.ftl",
+"count": 24
+},
+{
+"file": "en-US/toolkit/toolkit/printing/printDialogs.ftl",
+"count": 50
+},
+{
+"file": "en-US/toolkit/toolkit/printing/printPreview.ftl",
+"count": 23
+},
+{
+"file": "en-US/toolkit/toolkit/printing/printUI.ftl",
+"count": 83
+},
+{
+"file": "en-US/toolkit/toolkit/updates/backgroundupdate.ftl",
+"count": 1
+},
+{
+"file": "en-US/toolkit/toolkit/updates/elevation.ftl",
+"count": 11
+},
+{
+"file": "en-US/toolkit/toolkit/updates/history.ftl",
+"count": 12
+}
+]
+}

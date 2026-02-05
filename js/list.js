@@ -6,8 +6,8 @@ const State = {
   milestones: [
     {
       code: "M1",
-      name: "browser.xhtml",
-      title: "Strings loaded in browser.xhtml",
+      name: "messenger.xhtml",
+      title: "Strings loaded in messenger.xhtml",
       categories: ["dtd", "ftl"],
       skipInDashboard: [],
       categoriesBar: [null, 1],
@@ -120,12 +120,12 @@ function getLinkForPath(path) {
   let moduleChunks = twoPartModules.includes(mod) ? 2 : 1;
   let module = path.split("/", moduleChunks).join("/");
   let rest = path.substr(module.length + 1);
-  let sfPath = `https://searchfox.org/mozilla-central/source/${module}/locales/en-US/${rest}`;
+  let sfPath = `https://searchfox.org/comm-central/source/${module}/locales/en-US/${rest}`;
   return `<a href="${sfPath}">${path}</a>`;
 }
 
 function getLinkForId(id) {
-  let sfPath = `https://searchfox.org/mozilla-central/search?q=${id}&case=true`;
+  let sfPath = `https://searchfox.org/comm-central/search?q=${id}&case=true`;
   return `<a href="${sfPath}">${id}</a>`;
 }
 

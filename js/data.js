@@ -94,9 +94,15 @@ async function prepare_data(url) {
       len = cat.length;
     }
   }
-  for (let cat of Object.values(all_points)) {
-    for (let i = 0; i < len - cat.length; i++) {
-      cat.push(0);
+  // Fluent doesn't have data at the start, others don't have data at the end...
+  for (let [label, cat] of Object.entries(all_points)) {
+    const currentLength = cat.length;
+    for (let i = 0; i < len - currentLength; i++) {
+      if (label == "ftl") {
+        cat.unshift(0);
+      } else {
+        cat.push(0);
+      }
     }
   }
 

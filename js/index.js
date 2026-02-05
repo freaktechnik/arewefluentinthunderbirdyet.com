@@ -63,6 +63,7 @@ async function main() {
 }
 
 function create_chart(selector, { all_labels, month_labels, data }) {
+  console.log(data);
   // This hack allows us to draw shadow for the circles
   let draw = Chart.controllers.line.prototype.draw;
   Chart.controllers.line = Chart.controllers.line.extend({
