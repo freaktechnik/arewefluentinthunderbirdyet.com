@@ -1,6 +1,6 @@
 {
 "date": "2026-02-05",
-"revision": "0dc84c75",
+"revision": "7a0b7d8d",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -424,7 +424,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/am-offline.dtd",
-"count": 46
+"count": 44
 },
 {
 "file": "en-US/mail/chrome/messenger/am-server-advanced.dtd",
