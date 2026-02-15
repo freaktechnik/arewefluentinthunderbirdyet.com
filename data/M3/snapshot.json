@@ -1,6 +1,6 @@
 {
-"date": "2026-02-13",
-"revision": "5d82b7fe",
+"date": "2026-02-14",
+"revision": "3249b790",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -528,7 +528,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/glodaFacetView.properties",
-"count": 32
+"count": 26
 },
 {
 "file": "en-US/mail/chrome/messenger/imAccountWizard.dtd",
@@ -1033,6 +1033,10 @@
 {
 "file": "en-US/mail/messenger/folderprops.ftl",
 "count": 1
+},
+{
+"file": "en-US/mail/messenger/glodaFacetView.ftl",
+"count": 3
 },
 {
 "file": "en-US/mail/messenger/imAccounts.ftl",
