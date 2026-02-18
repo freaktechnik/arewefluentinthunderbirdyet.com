@@ -1,6 +1,6 @@
 {
-"date": "2026-02-16",
-"revision": "466c6c80",
+"date": "2026-02-18",
+"revision": "63dc8e5a",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -76,7 +76,7 @@
 },
 {
 "file": "en-US/calendar/calendar/calendar.ftl",
-"count": 360
+"count": 362
 },
 {
 "file": "en-US/calendar/calendar/categories.ftl",
@@ -91,12 +91,16 @@
 "count": 83
 },
 {
+"file": "en-US/calendar/calendar/recurrence.ftl",
+"count": 29
+},
+{
 "file": "en-US/calendar/chrome/calendar/calendar-event-dialog.dtd",
 "count": 303
 },
 {
 "file": "en-US/calendar/chrome/calendar/calendar-event-dialog.properties",
-"count": 105
+"count": 39
 },
 {
 "file": "en-US/calendar/chrome/calendar/calendar-extract.properties",
@@ -332,7 +336,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/activity.properties",
-"count": 46
+"count": 39
 },
 {
 "file": "en-US/mail/chrome/messenger/addbuddy.dtd",
@@ -937,6 +941,10 @@
 {
 "file": "en-US/mail/messenger/accountcreation/accountSetup.ftl",
 "count": 149
+},
+{
+"file": "en-US/mail/messenger/activity.ftl",
+"count": 8
 },
 {
 "file": "en-US/mail/messenger/activityFeedback.ftl",
