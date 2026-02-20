@@ -1,6 +1,6 @@
 {
-"date": "2026-02-18",
-"revision": "ad744dfd",
+"date": "2026-02-19",
+"revision": "ec220e99",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -964,7 +964,7 @@
 },
 {
 "file": "en-US/mail/messenger/addressbook/aboutAddressBook.ftl",
-"count": 136
+"count": 137
 },
 {
 "file": "en-US/mail/messenger/addressbook/vcard.ftl",
