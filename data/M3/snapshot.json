@@ -1,6 +1,6 @@
 {
-"date": "2026-02-28",
-"revision": "565a83e6",
+"date": "2026-03-01",
+"revision": "2aca47e8",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -311,14 +311,6 @@
 "count": 23
 },
 {
-"file": "en-US/mail/chrome/messenger/FilterEditor.dtd",
-"count": 41
-},
-{
-"file": "en-US/mail/chrome/messenger/FilterListDialog.dtd",
-"count": 34
-},
-{
 "file": "en-US/mail/chrome/messenger/aboutDownloads.dtd",
 "count": 14
 },
@@ -505,10 +497,6 @@
 {
 "file": "en-US/mail/chrome/messenger/editContactOverlay.properties",
 "count": 8
-},
-{
-"file": "en-US/mail/chrome/messenger/filter.properties",
-"count": 19
 },
 {
 "file": "en-US/mail/chrome/messenger/folderProps.dtd",
@@ -1028,7 +1016,7 @@
 },
 {
 "file": "en-US/mail/messenger/filterEditor.ftl",
-"count": 43
+"count": 87
 },
 {
 "file": "en-US/mail/messenger/flatpak.ftl",
@@ -1268,7 +1256,7 @@
 },
 {
 "file": "en-US/mail/messenger/searchWidgets.ftl",
-"count": 80
+"count": 106
 },
 {
 "file": "en-US/mail/messenger/searchbar.ftl",
