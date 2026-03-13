@@ -1,6 +1,6 @@
 {
-"date": "2026-03-11",
-"revision": "b873724d",
+"date": "2026-03-13",
+"revision": "0abc9867",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -872,7 +872,7 @@
 },
 {
 "file": "en-US/mail/messenger/about3Pane.ftl",
-"count": 161
+"count": 183
 },
 {
 "file": "en-US/mail/messenger/aboutAddonsExtra.ftl",
@@ -952,7 +952,7 @@
 },
 {
 "file": "en-US/mail/messenger/addressbook/aboutAddressBook.ftl",
-"count": 137
+"count": 146
 },
 {
 "file": "en-US/mail/messenger/addressbook/vcard.ftl",
