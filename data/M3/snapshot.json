@@ -1,6 +1,6 @@
 {
-"date": "2026-03-30",
-"revision": "29534160",
+"date": "2026-03-31",
+"revision": "8e2fa52e",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -76,7 +76,7 @@
 },
 {
 "file": "en-US/calendar/calendar/calendar.ftl",
-"count": 362
+"count": 363
 },
 {
 "file": "en-US/calendar/calendar/categories.ftl",
@@ -96,7 +96,7 @@
 },
 {
 "file": "en-US/calendar/chrome/calendar/calendar-event-dialog.dtd",
-"count": 303
+"count": 301
 },
 {
 "file": "en-US/calendar/chrome/calendar/calendar-event-dialog.properties",
@@ -924,7 +924,7 @@
 },
 {
 "file": "en-US/mail/messenger/accountcreation/accountHub.ftl",
-"count": 161
+"count": 164
 },
 {
 "file": "en-US/mail/messenger/accountcreation/accountSetup.ftl",
