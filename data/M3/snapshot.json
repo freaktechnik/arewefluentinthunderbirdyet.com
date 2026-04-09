@@ -1,6 +1,6 @@
 {
-"date": "2026-04-08",
-"revision": "2e3d0ced",
+"date": "2026-04-09",
+"revision": "f7608b5a",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -32,7 +32,7 @@
 },
 {
 "file": "en-US/calendar/calendar/calendar-event-listing.ftl",
-"count": 26
+"count": 28
 },
 {
 "file": "en-US/calendar/calendar/calendar-invitation-panel.ftl",
