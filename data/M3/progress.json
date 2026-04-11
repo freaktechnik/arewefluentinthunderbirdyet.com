@@ -5078,5 +5078,15 @@
 },
 "date": "2026-04-10",
 "revision": "f7877ae1"
+},
+{
+"data": {
+"dtd": 3174,
+"ftl": 5019,
+"ini": 4,
+"properties": 2580
+},
+"date": "2026-04-10",
+"revision": "b9955ef6"
 }
 ]
