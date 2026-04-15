@@ -1,6 +1,6 @@
 {
-"date": "2026-04-14",
-"revision": "a9f2e091",
+"date": "2026-04-15",
+"revision": "e3326e73",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -572,7 +572,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/messenger.properties",
-"count": 278
+"count": 272
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/EdAdvancedEdit.dtd",
@@ -872,7 +872,7 @@
 },
 {
 "file": "en-US/mail/messenger/about3Pane.ftl",
-"count": 183
+"count": 189
 },
 {
 "file": "en-US/mail/messenger/aboutAddonsExtra.ftl",
