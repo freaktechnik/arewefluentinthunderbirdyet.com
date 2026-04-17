@@ -1,6 +1,6 @@
 {
 "date": "2026-04-16",
-"revision": "adfa6447",
+"revision": "16310cb2",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -1064,7 +1064,7 @@
 },
 {
 "file": "en-US/mail/messenger/messenger.ftl",
-"count": 205
+"count": 207
 },
 {
 "file": "en-US/mail/messenger/messengercompose/messengercompose.ftl",
