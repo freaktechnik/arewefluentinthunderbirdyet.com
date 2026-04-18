@@ -1,6 +1,6 @@
 {
-"date": "2026-04-16",
-"revision": "16310cb2",
+"date": "2026-04-18",
+"revision": "628638e2",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -952,7 +952,7 @@
 },
 {
 "file": "en-US/mail/messenger/addressbook/aboutAddressBook.ftl",
-"count": 146
+"count": 147
 },
 {
 "file": "en-US/mail/messenger/addressbook/vcard.ftl",
