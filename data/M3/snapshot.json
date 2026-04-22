@@ -1,6 +1,6 @@
 {
-"date": "2026-04-21",
-"revision": "073ba5f3",
+"date": "2026-04-22",
+"revision": "a6e6c489",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -416,7 +416,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/am-offline.dtd",
-"count": 44
+"count": 32
 },
 {
 "file": "en-US/mail/chrome/messenger/am-server-advanced.dtd",
@@ -500,7 +500,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/folderProps.dtd",
-"count": 55
+"count": 39
 },
 {
 "file": "en-US/mail/chrome/messenger/folderpane.dtd",
@@ -752,7 +752,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/prefs.properties",
-"count": 48
+"count": 46
 },
 {
 "file": "en-US/mail/chrome/messenger/removeAccount.dtd",
@@ -876,7 +876,7 @@
 },
 {
 "file": "en-US/mail/messenger/aboutAddonsExtra.ftl",
-"count": 4
+"count": 6
 },
 {
 "file": "en-US/mail/messenger/aboutDialog.ftl",
@@ -1008,7 +1008,7 @@
 },
 {
 "file": "en-US/mail/messenger/extensionsUI.ftl",
-"count": 3
+"count": 5
 },
 {
 "file": "en-US/mail/messenger/feeds.ftl",
@@ -1249,6 +1249,10 @@
 {
 "file": "en-US/mail/messenger/preferences/system-integration.ftl",
 "count": 11
+},
+{
+"file": "en-US/mail/messenger/retention.ftl",
+"count": 14
 },
 {
 "file": "en-US/mail/messenger/searchDialog.ftl",
