@@ -5218,5 +5218,15 @@
 },
 "date": "2026-04-23",
 "revision": "842ffba4"
+},
+{
+"data": {
+"dtd": 3146,
+"ftl": 5046,
+"ini": 4,
+"properties": 2572
+},
+"date": "2026-04-25",
+"revision": "daa800ca"
 }
 ]
