@@ -1,6 +1,6 @@
 {
-"date": "2026-06-04",
-"revision": "b581a86d",
+"date": "2026-06-05",
+"revision": "441b3699",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -928,7 +928,7 @@
 },
 {
 "file": "en-US/mail/messenger/activity.ftl",
-"count": 8
+"count": 12
 },
 {
 "file": "en-US/mail/messenger/activityFeedback.ftl",
@@ -996,7 +996,7 @@
 },
 {
 "file": "en-US/mail/messenger/extensionPermissions.ftl",
-"count": 19
+"count": 21
 },
 {
 "file": "en-US/mail/messenger/extensions/popup.ftl",
