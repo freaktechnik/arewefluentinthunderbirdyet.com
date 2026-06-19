@@ -16,11 +16,12 @@ jobs:
         with:
           ref: gh-pages
           path: gh-pages
-      - name: Checkout mozilla/releases-comm-central
+      - name: Checkout thunderbird/thunderbird-desktop
         uses: actions/checkout@v4
         with:
-          repository: mozilla/releases-comm-central
+          repository: thunderbird/thunderbird-desktop
           path: thunderbird
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.10"
