@@ -1,6 +1,6 @@
 {
-"date": "2026-06-11",
-"revision": "72b8ba07",
+"date": "2026-06-18",
+"revision": "23be3a5e",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -41,6 +41,10 @@
 {
 "file": "en-US/calendar/calendar/calendar-invitations-dialog.ftl",
 "count": 14
+},
+{
+"file": "en-US/calendar/calendar/calendar-item-summary.ftl",
+"count": 1
 },
 {
 "file": "en-US/calendar/calendar/calendar-itip-identity-dialog.ftl",
@@ -451,10 +455,6 @@
 "count": 3
 },
 {
-"file": "en-US/mail/chrome/messenger/charsetTitles.properties",
-"count": 67
-},
-{
 "file": "en-US/mail/chrome/messenger/chat.dtd",
 "count": 32
 },
@@ -497,10 +497,6 @@
 {
 "file": "en-US/mail/chrome/messenger/editContactOverlay.properties",
 "count": 8
-},
-{
-"file": "en-US/mail/chrome/messenger/folderProps.dtd",
-"count": 39
 },
 {
 "file": "en-US/mail/chrome/messenger/folderpane.dtd",
@@ -572,7 +568,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/messenger.properties",
-"count": 262
+"count": 260
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/EdAdvancedEdit.dtd",
@@ -715,10 +711,6 @@
 "count": 13
 },
 {
-"file": "en-US/mail/chrome/messenger/newFolderDialog.dtd",
-"count": 11
-},
-{
 "file": "en-US/mail/chrome/messenger/offline.properties",
 "count": 15
 },
@@ -783,14 +775,6 @@
 "count": 19
 },
 {
-"file": "en-US/mail/chrome/messenger/subscribe.dtd",
-"count": 12
-},
-{
-"file": "en-US/mail/chrome/messenger/subscribe.properties",
-"count": 9
-},
-{
 "file": "en-US/mail/chrome/messenger/tabmail.dtd",
 "count": 3
 },
@@ -825,14 +809,6 @@
 {
 "file": "en-US/mail/chrome/messenger/viewZoomOverlay.dtd",
 "count": 17
-},
-{
-"file": "en-US/mail/chrome/messenger/virtualFolderListDialog.dtd",
-"count": 2
-},
-{
-"file": "en-US/mail/chrome/messenger/virtualFolderProperties.dtd",
-"count": 15
 },
 {
 "file": "en-US/mail/chrome/mozldap/ldap.properties",
@@ -920,7 +896,7 @@
 },
 {
 "file": "en-US/mail/messenger/accountcreation/accountHub.ftl",
-"count": 209
+"count": 210
 },
 {
 "file": "en-US/mail/messenger/accountcreation/accountSetup.ftl",
@@ -1024,7 +1000,7 @@
 },
 {
 "file": "en-US/mail/messenger/folderprops.ftl",
-"count": 1
+"count": 26
 },
 {
 "file": "en-US/mail/messenger/glodaFacetView.ftl",
@@ -1055,6 +1031,10 @@
 "count": 41
 },
 {
+"file": "en-US/mail/messenger/menulist-charsetpicker.ftl",
+"count": 17
+},
+{
 "file": "en-US/mail/messenger/messageheader/headerFields.ftl",
 "count": 53
 },
@@ -1077,6 +1057,10 @@
 {
 "file": "en-US/mail/messenger/multimessageview.ftl",
 "count": 15
+},
+{
+"file": "en-US/mail/messenger/new-folder-dialog.ftl",
+"count": 8
 },
 {
 "file": "en-US/mail/messenger/newmailalert.ftl",
@@ -1276,7 +1260,11 @@
 },
 {
 "file": "en-US/mail/messenger/smime/smime.ftl",
-"count": 6
+"count": 8
+},
+{
+"file": "en-US/mail/messenger/subscribe.ftl",
+"count": 13
 },
 {
 "file": "en-US/mail/messenger/syncAccounts.ftl",
@@ -1304,7 +1292,7 @@
 },
 {
 "file": "en-US/mail/messenger/virtualFolderProperties.ftl",
-"count": 1
+"count": 14
 },
 {
 "file": "en-US/mail/updater/updater.ini",
