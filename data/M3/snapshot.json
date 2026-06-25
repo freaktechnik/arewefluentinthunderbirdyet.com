@@ -1,6 +1,6 @@
 {
-"date": "2026-06-19",
-"revision": "fa1ad6ce",
+"date": "2026-06-25",
+"revision": "cf93a439",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -528,7 +528,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/imapMsgs.properties",
-"count": 82
+"count": 81
 },
 {
 "file": "en-US/mail/chrome/messenger/importMsgs.properties",
@@ -1220,7 +1220,7 @@
 },
 {
 "file": "en-US/mail/messenger/preferences/preferences.ftl",
-"count": 507
+"count": 508
 },
 {
 "file": "en-US/mail/messenger/preferences/receipts.ftl",
