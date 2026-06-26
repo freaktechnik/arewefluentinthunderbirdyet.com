@@ -1,6 +1,6 @@
 {
-"date": "2026-06-25",
-"revision": "cf93a439",
+"date": "2026-06-26",
+"revision": "ae3d6c6c",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -44,7 +44,7 @@
 },
 {
 "file": "en-US/calendar/calendar/calendar-item-summary.ftl",
-"count": 1
+"count": 38
 },
 {
 "file": "en-US/calendar/calendar/calendar-itip-identity-dialog.ftl",
@@ -64,7 +64,7 @@
 },
 {
 "file": "en-US/calendar/calendar/calendar-summary-dialog.ftl",
-"count": 5
+"count": 17
 },
 {
 "file": "en-US/calendar/calendar/calendar-today-pane.ftl",
@@ -80,7 +80,7 @@
 },
 {
 "file": "en-US/calendar/calendar/calendar.ftl",
-"count": 363
+"count": 385
 },
 {
 "file": "en-US/calendar/calendar/categories.ftl",
@@ -100,11 +100,7 @@
 },
 {
 "file": "en-US/calendar/chrome/calendar/calendar-event-dialog.dtd",
-"count": 301
-},
-{
-"file": "en-US/calendar/chrome/calendar/calendar-event-dialog.properties",
-"count": 39
+"count": 286
 },
 {
 "file": "en-US/calendar/chrome/calendar/calendar-extract.properties",
