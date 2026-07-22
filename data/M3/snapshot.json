@@ -1,6 +1,6 @@
 {
-"date": "2026-07-21",
-"revision": "24c5a7f5",
+"date": "2026-07-22",
+"revision": "e6374563",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -12,7 +12,7 @@
 },
 {
 "file": "en-US/calendar/calendar/calendar-creation.ftl",
-"count": 21
+"count": 22
 },
 {
 "file": "en-US/calendar/calendar/calendar-delete-prompt.ftl",
@@ -51,6 +51,10 @@
 "count": 4
 },
 {
+"file": "en-US/calendar/calendar/calendar-itip.ftl",
+"count": 80
+},
+{
 "file": "en-US/calendar/calendar/calendar-occurrence-prompt.ftl",
 "count": 42
 },
@@ -80,7 +84,7 @@
 },
 {
 "file": "en-US/calendar/calendar/calendar.ftl",
-"count": 385
+"count": 390
 },
 {
 "file": "en-US/calendar/calendar/categories.ftl",
@@ -153,10 +157,6 @@
 {
 "file": "en-US/calendar/chrome/lightning/lightning.dtd",
 "count": 72
-},
-{
-"file": "en-US/calendar/chrome/lightning/lightning.properties",
-"count": 83
 },
 {
 "file": "en-US/chat/accounts-properties.ftl",
@@ -1052,7 +1052,7 @@
 },
 {
 "file": "en-US/mail/messenger/multimessageview.ftl",
-"count": 15
+"count": 16
 },
 {
 "file": "en-US/mail/messenger/new-folder-dialog.ftl",
@@ -1091,6 +1091,10 @@
 "count": 45
 },
 {
+"file": "en-US/mail/messenger/openpgp/keyImportInfo.ftl",
+"count": 6
+},
+{
 "file": "en-US/mail/messenger/openpgp/keyWizard.ftl",
 "count": 76
 },
@@ -1108,7 +1112,7 @@
 },
 {
 "file": "en-US/mail/messenger/openpgp/openpgp.ftl",
-"count": 356
+"count": 350
 },
 {
 "file": "en-US/mail/messenger/otr/add-finger.ftl",
@@ -1148,7 +1152,7 @@
 },
 {
 "file": "en-US/mail/messenger/policies/policies-descriptions.ftl",
-"count": 69
+"count": 70
 },
 {
 "file": "en-US/mail/messenger/preferences/am-archiveoptions.ftl",
@@ -1216,7 +1220,7 @@
 },
 {
 "file": "en-US/mail/messenger/preferences/preferences.ftl",
-"count": 509
+"count": 512
 },
 {
 "file": "en-US/mail/messenger/preferences/receipts.ftl",
@@ -1256,7 +1260,7 @@
 },
 {
 "file": "en-US/mail/messenger/smime/smime.ftl",
-"count": 8
+"count": 14
 },
 {
 "file": "en-US/mail/messenger/subscribe.ftl",
