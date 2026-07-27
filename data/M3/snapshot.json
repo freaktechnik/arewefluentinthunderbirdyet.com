@@ -1,6 +1,6 @@
 {
 "date": "2026-07-26",
-"revision": "8786b8e1",
+"revision": "fe08c0a1",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -109,10 +109,6 @@
 {
 "file": "en-US/calendar/chrome/calendar/calendar-extract.properties",
 "count": 99
-},
-{
-"file": "en-US/calendar/chrome/calendar/calendar-occurrence-prompt.dtd",
-"count": 3
 },
 {
 "file": "en-US/calendar/chrome/calendar/calendarCreation.properties",
