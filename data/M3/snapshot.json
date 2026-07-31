@@ -1,6 +1,6 @@
 {
-"date": "2026-07-30",
-"revision": "df5652b2",
+"date": "2026-07-31",
+"revision": "12ac8ce8",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -739,14 +739,6 @@
 "count": 46
 },
 {
-"file": "en-US/mail/chrome/messenger/removeAccount.dtd",
-"count": 18
-},
-{
-"file": "en-US/mail/chrome/messenger/removeAccount.properties",
-"count": 1
-},
-{
 "file": "en-US/mail/chrome/messenger/renameFolderDialog.dtd",
 "count": 5
 },
@@ -1233,6 +1225,10 @@
 {
 "file": "en-US/mail/messenger/preferences/system-integration.ftl",
 "count": 12
+},
+{
+"file": "en-US/mail/messenger/removeAccount.ftl",
+"count": 18
 },
 {
 "file": "en-US/mail/messenger/retention.ftl",
