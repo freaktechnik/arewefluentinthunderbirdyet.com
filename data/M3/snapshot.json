@@ -1,6 +1,6 @@
 {
-"date": "2026-08-06",
-"revision": "e788f17a",
+"date": "2026-08-07",
+"revision": "28af81ac",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -832,7 +832,7 @@
 },
 {
 "file": "en-US/mail/messenger/about3Pane.ftl",
-"count": 189
+"count": 190
 },
 {
 "file": "en-US/mail/messenger/aboutAddonsExtra.ftl",
@@ -872,7 +872,7 @@
 },
 {
 "file": "en-US/mail/messenger/accountSettings.ftl",
-"count": 15
+"count": 16
 },
 {
 "file": "en-US/mail/messenger/accountcreation/accountCreation.ftl",
@@ -880,7 +880,7 @@
 },
 {
 "file": "en-US/mail/messenger/accountcreation/accountHub.ftl",
-"count": 244
+"count": 246
 },
 {
 "file": "en-US/mail/messenger/accountcreation/accountSetup.ftl",
@@ -1264,7 +1264,7 @@
 },
 {
 "file": "en-US/mail/messenger/treeView.ftl",
-"count": 22
+"count": 23
 },
 {
 "file": "en-US/mail/messenger/troubleshootMode.ftl",
