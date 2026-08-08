@@ -6288,5 +6288,15 @@
 },
 "date": "2026-08-07",
 "revision": "28af81ac"
+},
+{
+"data": {
+"dtd": 3017,
+"ftl": 5378,
+"ini": 4,
+"properties": 2360
+},
+"date": "2026-08-07",
+"revision": "ffd22cc9"
 }
 ]
