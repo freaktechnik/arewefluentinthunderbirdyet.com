@@ -1,6 +1,6 @@
 {
-"date": "2026-08-11",
-"revision": "03db28b5",
+"date": "2026-08-12",
+"revision": "1720b419",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -872,7 +872,7 @@
 },
 {
 "file": "en-US/mail/messenger/accountSettings.ftl",
-"count": 16
+"count": 22
 },
 {
 "file": "en-US/mail/messenger/accountcreation/accountCreation.ftl",
