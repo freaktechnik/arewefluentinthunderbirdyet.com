@@ -1,6 +1,6 @@
 {
-"date": "2026-08-12",
-"revision": "1720b419",
+"date": "2026-08-13",
+"revision": "5097a248",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -1140,7 +1140,7 @@
 },
 {
 "file": "en-US/mail/messenger/policies/policies-descriptions.ftl",
-"count": 70
+"count": 71
 },
 {
 "file": "en-US/mail/messenger/preferences/am-archiveoptions.ftl",
@@ -1261,6 +1261,10 @@
 {
 "file": "en-US/mail/messenger/syncAccounts.ftl",
 "count": 10
+},
+{
+"file": "en-US/mail/messenger/tb-banner.ftl",
+"count": 2
 },
 {
 "file": "en-US/mail/messenger/treeView.ftl",
