@@ -1,6 +1,6 @@
 {
-"date": "2026-08-20",
-"revision": "bf6ad29e",
+"date": "2026-08-21",
+"revision": "83292c3b",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -920,7 +920,7 @@
 },
 {
 "file": "en-US/mail/messenger/calendarDialog.ftl",
-"count": 40
+"count": 41
 },
 {
 "file": "en-US/mail/messenger/certError.ftl",
@@ -1140,7 +1140,7 @@
 },
 {
 "file": "en-US/mail/messenger/policies/policies-descriptions.ftl",
-"count": 72
+"count": 73
 },
 {
 "file": "en-US/mail/messenger/preferences/am-archiveoptions.ftl",
