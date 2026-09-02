@@ -1,6 +1,6 @@
 {
-"date": "2026-09-01",
-"revision": "8e75c9e7",
+"date": "2026-09-02",
+"revision": "e9464d89",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -1104,7 +1104,7 @@
 },
 {
 "file": "en-US/mail/messenger/openpgp/openpgp.ftl",
-"count": 350
+"count": 351
 },
 {
 "file": "en-US/mail/messenger/otr/add-finger.ftl",
