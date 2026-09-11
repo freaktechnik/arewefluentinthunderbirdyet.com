@@ -1,6 +1,6 @@
 {
-"date": "2026-09-10",
-"revision": "901a6873",
+"date": "2026-09-11",
+"revision": "e6d0c501",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -1104,7 +1104,7 @@
 },
 {
 "file": "en-US/mail/messenger/openpgp/openpgp.ftl",
-"count": 351
+"count": 352
 },
 {
 "file": "en-US/mail/messenger/otr/add-finger.ftl",
@@ -1144,7 +1144,7 @@
 },
 {
 "file": "en-US/mail/messenger/policies/policies-descriptions.ftl",
-"count": 76
+"count": 77
 },
 {
 "file": "en-US/mail/messenger/preferences/am-archiveoptions.ftl",
@@ -1212,7 +1212,7 @@
 },
 {
 "file": "en-US/mail/messenger/preferences/preferences.ftl",
-"count": 512
+"count": 513
 },
 {
 "file": "en-US/mail/messenger/preferences/receipts.ftl",
