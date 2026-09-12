@@ -1,6 +1,6 @@
 {
-"date": "2026-09-11",
-"revision": "e6d0c501",
+"date": "2026-09-12",
+"revision": "de56de7d",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -640,11 +640,11 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/composeMsgs.properties",
-"count": 170
+"count": 9
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/editor.properties",
-"count": 161
+"count": 100
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/editorOverlay.dtd",
@@ -1023,6 +1023,10 @@
 "count": 17
 },
 {
+"file": "en-US/mail/messenger/messageSend.ftl",
+"count": 54
+},
+{
 "file": "en-US/mail/messenger/messageheader/headerFields.ftl",
 "count": 53
 },
@@ -1032,7 +1036,7 @@
 },
 {
 "file": "en-US/mail/messenger/messengercompose/messengercompose.ftl",
-"count": 123
+"count": 210
 },
 {
 "file": "en-US/mail/messenger/migration.ftl",
