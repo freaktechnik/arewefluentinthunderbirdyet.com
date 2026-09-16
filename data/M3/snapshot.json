@@ -1,6 +1,6 @@
 {
-"date": "2026-09-15",
-"revision": "1f1e982b",
+"date": "2026-09-16",
+"revision": "89f8669e",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -656,7 +656,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/messengercompose.dtd",
-"count": 243
+"count": 235
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/sendProgress.dtd",
@@ -1036,7 +1036,7 @@
 },
 {
 "file": "en-US/mail/messenger/messengercompose/messengercompose.ftl",
-"count": 210
+"count": 214
 },
 {
 "file": "en-US/mail/messenger/migration.ftl",
@@ -1256,7 +1256,7 @@
 },
 {
 "file": "en-US/mail/messenger/shortcuts.ftl",
-"count": 18
+"count": 20
 },
 {
 "file": "en-US/mail/messenger/smime/smime.ftl",
