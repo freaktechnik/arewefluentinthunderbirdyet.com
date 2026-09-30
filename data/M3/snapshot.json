@@ -1,6 +1,6 @@
 {
-"date": "2026-09-29",
-"revision": "a062dc2b",
+"date": "2026-09-30",
+"revision": "68126e87",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -488,7 +488,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/imapMsgs.properties",
-"count": 81
+"count": 80
 },
 {
 "file": "en-US/mail/chrome/messenger/importMsgs.properties",
