@@ -1,6 +1,6 @@
 {
-"date": "2026-09-30",
-"revision": "68126e87",
+"date": "2026-10-01",
+"revision": "e8f80314",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -524,7 +524,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/messenger.properties",
-"count": 206
+"count": 204
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/EdAdvancedEdit.dtd",
@@ -620,7 +620,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/messengercompose.dtd",
-"count": 208
+"count": 207
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/sendProgress.dtd",
