@@ -1,6 +1,6 @@
 {
-"date": "2026-10-07",
-"revision": "9aa51f6f",
+"date": "2026-10-08",
+"revision": "6d218f0d",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -84,7 +84,7 @@
 },
 {
 "file": "en-US/calendar/calendar/calendar.ftl",
-"count": 390
+"count": 391
 },
 {
 "file": "en-US/calendar/calendar/categories.ftl",
@@ -788,7 +788,7 @@
 },
 {
 "file": "en-US/mail/messenger/aboutImport.ftl",
-"count": 114
+"count": 123
 },
 {
 "file": "en-US/mail/messenger/aboutProfilesExtra.ftl",
@@ -960,7 +960,7 @@
 },
 {
 "file": "en-US/mail/messenger/menubar.ftl",
-"count": 41
+"count": 42
 },
 {
 "file": "en-US/mail/messenger/menulist-charsetpicker.ftl",
