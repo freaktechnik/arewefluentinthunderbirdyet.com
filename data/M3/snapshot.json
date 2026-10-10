@@ -1,6 +1,6 @@
 {
-"date": "2026-10-09",
-"revision": "84683990",
+"date": "2026-10-10",
+"revision": "b1daf5e3",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -524,7 +524,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/messenger.properties",
-"count": 204
+"count": 198
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/EdAdvancedEdit.dtd",
@@ -920,7 +920,7 @@
 },
 {
 "file": "en-US/mail/messenger/filterEditor.ftl",
-"count": 87
+"count": 89
 },
 {
 "file": "en-US/mail/messenger/flatpak.ftl",
@@ -960,7 +960,7 @@
 },
 {
 "file": "en-US/mail/messenger/menubar.ftl",
-"count": 42
+"count": 43
 },
 {
 "file": "en-US/mail/messenger/menulist-charsetpicker.ftl",
@@ -976,7 +976,7 @@
 },
 {
 "file": "en-US/mail/messenger/messenger.ftl",
-"count": 217
+"count": 224
 },
 {
 "file": "en-US/mail/messenger/messengercompose/messengercompose.ftl",
