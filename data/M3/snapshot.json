@@ -1,6 +1,6 @@
 {
-"date": "2026-10-15",
-"revision": "a90f46fd",
+"date": "2026-10-16",
+"revision": "6409208c",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -524,7 +524,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/messenger.properties",
-"count": 198
+"count": 192
 },
 {
 "file": "en-US/mail/chrome/messenger/messengercompose/EdAdvancedEdit.dtd",
