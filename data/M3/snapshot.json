@@ -1,6 +1,6 @@
 {
-"date": "2026-10-17",
-"revision": "b8605c1a",
+"date": "2026-10-18",
+"revision": "c019149b",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -360,7 +360,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/am-addressing.dtd",
-"count": 32
+"count": 23
 },
 {
 "file": "en-US/mail/chrome/messenger/am-advanced.dtd",
@@ -368,7 +368,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/am-copies.dtd",
-"count": 38
+"count": 17
 },
 {
 "file": "en-US/mail/chrome/messenger/am-e2e.properties",
@@ -400,7 +400,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/am-offline.dtd",
-"count": 32
+"count": 22
 },
 {
 "file": "en-US/mail/chrome/messenger/am-server-advanced.dtd",
@@ -408,7 +408,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/am-server-top.dtd",
-"count": 69
+"count": 53
 },
 {
 "file": "en-US/mail/chrome/messenger/am-serverwithnoidentities.dtd",
@@ -416,7 +416,7 @@
 },
 {
 "file": "en-US/mail/chrome/messenger/am-smime.dtd",
-"count": 27
+"count": 25
 },
 {
 "file": "en-US/mail/chrome/messenger/am-smime.properties",
@@ -675,22 +675,6 @@
 "count": 1
 },
 {
-"file": "en-US/mail/chrome/messenger/preferences/applicationManager.properties",
-"count": 5
-},
-{
-"file": "en-US/mail/chrome/messenger/preferences/applications.properties",
-"count": 3
-},
-{
-"file": "en-US/mail/chrome/messenger/preferences/messagestyle.properties",
-"count": 8
-},
-{
-"file": "en-US/mail/chrome/messenger/preferences/preferences.properties",
-"count": 43
-},
-{
 "file": "en-US/mail/chrome/messenger/prefs.properties",
 "count": 46
 },
@@ -816,7 +800,7 @@
 },
 {
 "file": "en-US/mail/messenger/accountSettings.ftl",
-"count": 24
+"count": 50
 },
 {
 "file": "en-US/mail/messenger/accountcreation/accountCreation.ftl",
@@ -932,7 +916,7 @@
 },
 {
 "file": "en-US/mail/messenger/folderprops.ftl",
-"count": 26
+"count": 28
 },
 {
 "file": "en-US/mail/messenger/glodaFacetView.ftl",
@@ -1052,7 +1036,7 @@
 },
 {
 "file": "en-US/mail/messenger/openpgp/openpgp.ftl",
-"count": 356
+"count": 359
 },
 {
 "file": "en-US/mail/messenger/otr/add-finger.ftl",
@@ -1100,7 +1084,7 @@
 },
 {
 "file": "en-US/mail/messenger/preferences/am-copies.ftl",
-"count": 1
+"count": 14
 },
 {
 "file": "en-US/mail/messenger/preferences/am-im.ftl",
@@ -1112,7 +1096,7 @@
 },
 {
 "file": "en-US/mail/messenger/preferences/application-manager.ftl",
-"count": 2
+"count": 6
 },
 {
 "file": "en-US/mail/messenger/preferences/attachment-reminder.ftl",
@@ -1124,7 +1108,7 @@
 },
 {
 "file": "en-US/mail/messenger/preferences/cookies.ftl",
-"count": 18
+"count": 25
 },
 {
 "file": "en-US/mail/messenger/preferences/dock-options.ftl",
@@ -1156,11 +1140,11 @@
 },
 {
 "file": "en-US/mail/messenger/preferences/permissions.ftl",
-"count": 17
+"count": 21
 },
 {
 "file": "en-US/mail/messenger/preferences/preferences.ftl",
-"count": 513
+"count": 548
 },
 {
 "file": "en-US/mail/messenger/preferences/receipts.ftl",
@@ -1184,7 +1168,7 @@
 },
 {
 "file": "en-US/mail/messenger/retention.ftl",
-"count": 14
+"count": 13
 },
 {
 "file": "en-US/mail/messenger/searchDialog.ftl",
