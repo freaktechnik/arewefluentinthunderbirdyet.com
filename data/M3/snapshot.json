@@ -1,6 +1,6 @@
 {
-"date": "2026-11-03",
-"revision": "1e798c88",
+"date": "2026-11-04",
+"revision": "ceeb297b",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -52,7 +52,7 @@
 },
 {
 "file": "en-US/calendar/calendar/calendar-itip.ftl",
-"count": 80
+"count": 82
 },
 {
 "file": "en-US/calendar/calendar/calendar-occurrence-prompt.ftl",
@@ -251,10 +251,6 @@
 "count": 5
 },
 {
-"file": "en-US/mail/chrome/messenger-newsblog/am-newsblog.dtd",
-"count": 7
-},
-{
 "file": "en-US/mail/chrome/messenger-newsblog/feed-subscriptions.dtd",
 "count": 40
 },
@@ -401,18 +397,6 @@
 {
 "file": "en-US/mail/chrome/messenger/am-offline.dtd",
 "count": 22
-},
-{
-"file": "en-US/mail/chrome/messenger/am-server-advanced.dtd",
-"count": 25
-},
-{
-"file": "en-US/mail/chrome/messenger/am-server-top.dtd",
-"count": 53
-},
-{
-"file": "en-US/mail/chrome/messenger/am-serverwithnoidentities.dtd",
-"count": 2
 },
 {
 "file": "en-US/mail/chrome/messenger/am-smime.dtd",
@@ -800,7 +784,7 @@
 },
 {
 "file": "en-US/mail/messenger/accountSettings.ftl",
-"count": 50
+"count": 108
 },
 {
 "file": "en-US/mail/messenger/accountcreation/accountCreation.ftl",
@@ -852,7 +836,7 @@
 },
 {
 "file": "en-US/mail/messenger/calendarDialog.ftl",
-"count": 56
+"count": 60
 },
 {
 "file": "en-US/mail/messenger/certError.ftl",
@@ -964,7 +948,7 @@
 },
 {
 "file": "en-US/mail/messenger/messengercompose/messengercompose.ftl",
-"count": 214
+"count": 216
 },
 {
 "file": "en-US/mail/messenger/migration.ftl",
