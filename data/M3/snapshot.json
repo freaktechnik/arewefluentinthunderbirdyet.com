@@ -1,6 +1,6 @@
 {
-"date": "2026-11-04",
-"revision": "ceeb297b",
+"date": "2026-11-05",
+"revision": "b38b9f79",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -820,7 +820,7 @@
 },
 {
 "file": "en-US/mail/messenger/addressbook/aboutAddressBook.ftl",
-"count": 147
+"count": 149
 },
 {
 "file": "en-US/mail/messenger/addressbook/vcard.ftl",
@@ -888,7 +888,7 @@
 },
 {
 "file": "en-US/mail/messenger/filterEditor.ftl",
-"count": 90
+"count": 93
 },
 {
 "file": "en-US/mail/messenger/flatpak.ftl",
@@ -944,7 +944,7 @@
 },
 {
 "file": "en-US/mail/messenger/messenger.ftl",
-"count": 226
+"count": 229
 },
 {
 "file": "en-US/mail/messenger/messengercompose/messengercompose.ftl",
