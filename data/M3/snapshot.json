@@ -1,6 +1,6 @@
 {
-"date": "2026-11-20",
-"revision": "5d89f2e2",
+"date": "2026-11-21",
+"revision": "aff7d44d",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -723,15 +723,15 @@
 "count": 2
 },
 {
-"file": "en-US/mail/installer/custom.properties",
-"count": 51
+"file": "en-US/mail/installer/custom.ftl",
+"count": 49
 },
 {
-"file": "en-US/mail/installer/mui.properties",
+"file": "en-US/mail/installer/mui.ftl",
 "count": 38
 },
 {
-"file": "en-US/mail/installer/override.properties",
+"file": "en-US/mail/installer/override.ftl",
 "count": 61
 },
 {
@@ -1068,7 +1068,7 @@
 },
 {
 "file": "en-US/mail/messenger/preferences/am-copies.ftl",
-"count": 14
+"count": 15
 },
 {
 "file": "en-US/mail/messenger/preferences/am-im.ftl",
