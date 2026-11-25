@@ -1,6 +1,6 @@
 {
-"date": "2026-11-24",
-"revision": "b9b5a6dd",
+"date": "2026-11-25",
+"revision": "dd85b244",
 "data": [
 {
 "file": "en-US/calendar/calendar/calendar-alarms.ftl",
@@ -236,7 +236,7 @@
 },
 {
 "file": "en-US/mail/browser/appExtensionFields.ftl",
-"count": 6
+"count": 8
 },
 {
 "file": "en-US/mail/browser/branding/brandings.ftl",
@@ -944,7 +944,7 @@
 },
 {
 "file": "en-US/mail/messenger/messenger.ftl",
-"count": 236
+"count": 239
 },
 {
 "file": "en-US/mail/messenger/messengercompose/messengercompose.ftl",
@@ -1020,7 +1020,7 @@
 },
 {
 "file": "en-US/mail/messenger/openpgp/openpgp.ftl",
-"count": 359
+"count": 360
 },
 {
 "file": "en-US/mail/messenger/otr/add-finger.ftl",
